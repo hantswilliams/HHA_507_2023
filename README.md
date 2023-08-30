@@ -4,8 +4,28 @@
 ### Lecture Topic:
 - Introduction to Jupyter and Google Colab.
 ### Subtopics:
+- Data Sources:
+  - Web data: Web pages, logs, streams.
+  - Sensor data: Internet of Things (IoT), wearables.
+  - Streaming data: Real-time data feeds, social media streams.
+- Data Licensing & Ethics:
+  - Open Data vs. Proprietary Data.
+  - Respecting privacy and terms of use.
+  - GDPR, CCPA, and other data protection regulations.
+  - Data derivatives 
+- Data Provenance: Tracking the source of data and understanding its lineage.
+- Data Integrity & Validation: Techniques to ensure accuracy and consistency in the acquired data.
 - Data acquisition basics: Importing CSV, Excel, SQL databases, and more.
-- Data formats: JSON, XML, etc.
+- Using pandas to import various file formats: CSV, Excel, JSON, and more.
+- Native Python file handling: Opening and reading files without the aid of external libraries.
+- Data formats: 
+  - JSON, XML: Hierarchical and structured data formats.
+  - Pickle: Python native serialization.
+  - Parquet, Feather: Columnar storage, often used with big data tools.
+  - HDF5: Hierarchical Data Format suitable for storing large datasets.
+  - SQL databases: SQLite, MySQL, PostgreSQL, etc.
+  - NoSQL databases: MongoDB, CouchDB, etc.
+  - Avro, Protocol Buffers: Serialization formats suitable for Big Data and distributed systems. 
 ### Resources:
 - [Jupyter](https://jupyter.org/)
 - [Google Colab](https://colab.research.google.com/)
