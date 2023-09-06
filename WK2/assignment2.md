@@ -6,10 +6,11 @@ Delve deeper into data manipulation using Python's prominent libraries. Explore 
 ### **Instructions**:
 
 #### **1. Data Cleaning with Pandas:**
-- Load a dataset of your choice in your Colab notebook (preferably one from the previous assignment).
+- Load the dataset `WK2/data/healthcare_data_cleaning.csv` in your Colab notebook (preferably one from the previous assignment) **OR** in a new python script.
 - Identify and handle missing values in the dataset.
 - Remove any duplicate rows and columns, if they exist.
-- Add a markdown cell to document the changes made to the dataset.
+- Clean column names 
+- Add either a markdown cell if using a notebook, or comments if using a script, to document the changes made to the dataset.
 
 #### **2. Data Transformation:**
 - Create new columns based on existing ones (e.g., if you have a 'birth_date' column, create an 'age' column).
