@@ -13,7 +13,7 @@ Delve deeper into data manipulation using Python's prominent libraries. Explore 
 - Add either a markdown cell if using a notebook, or comments if using a script, to document the changes made to the dataset.
 
 #### **2. Data Transformation:**
-- Create new columns based on existing ones (e.g., if you have a 'birth_date' column, create an 'age' column).
+- Create new columns based on existing ones (e.g., if you have a 'birth_date' column, create an 'age' column). I have a few ideas for you [here](https://book.datascience.appliedhealthinformatics.com/docs/Ch2/pandas#creating-new-columns-in-healthcare-data)
 - Aggregate data using groupby and compute summary statistics.
 - Use pivot tables or cross-tabulations for multi-dimensional analysis.
 
