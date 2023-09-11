@@ -19,7 +19,7 @@ Delve deeper into data manipulation using Python's prominent libraries. Explore 
 
 #### **3. Introduction to Alternative Libraries:**
 - Read about Polars, Dask, and Modin in Chapter 2.
-- Load your dataset using Polars and Modin.
+- Load your dataset using Polars.
 - Compare the load times and write your observations in a markdown cell or in your script.
   - Please see [Chapter 2 - Adv Exercises](https://book.datascience.appliedhealthinformatics.com/docs/Ch2/distributed-computation#advanced-exercises) to see how to use the `import time` module as an example of capturing start time and end time
 
