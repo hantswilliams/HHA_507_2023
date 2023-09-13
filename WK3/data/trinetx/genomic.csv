@@ -1,0 +1,3 @@
+"patient_id","code_system","code","test_date","derived_by_TriNetX","source_id"
+"BQP","HGVS","3430","20120319","F","EHR"
+"BQP","HGVS","3430|wildtype","20120319","F","EHR"
