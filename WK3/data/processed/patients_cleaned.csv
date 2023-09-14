@@ -1,0 +1,1001 @@
+,patient_id,sex,race,ethnicity,marital_status,year_of_birth,reason_yob_missing,month_year_death,death_date_source_id,patient_regional_location,source_id
+0,BA2C,M,Black or African American,Not Hispanic or Latino,Unknown,05,Present,,,Unknown,EHR
+1,BQ2C,M,Unknown,Hispanic or Latino,Married,1986,Present,,,Unknown,EHR
+2,Bg2C,M,White,Not Hispanic or Latino,Unknown,01,Present,,,Unknown,EHR
+3,Bw2C,F,White,Not Hispanic or Latino,Married,19,Present,,,Unknown,EHR
+4,BA3C,F,White,Not Hispanic or Latino,Married,1949,Present,,,Unknown,EHR
+5,BQ3C,M,Unknown,Unknown,Single,1974,Present,,,Unknown,EHR
+6,Bg3C,M,White,Unknown,Married,1958,Present,,,Unknown,EHR
+7,Bw3C,M,Unknown,Not Hispanic or Latino,Unknown,1967,Present,,,Unknown,EHR
+8,BA4C,M,White,Not Hispanic or Latino,Married,1942,Present,201501.0,Death Registry,Unknown,EHR
+9,BQ4C,M,Unknown,Unknown,Married,1938,Present,201404.0,Death Registry,Unknown,EHR
+10,Bg4C,F,White,Not Hispanic or Latino,Married,1951,Present,,,Unknown,EHR
+11,Bw4C,M,White,Not Hispanic or Latino,Married,19,Present,,,Unknown,EHR
+12,BA5C,M,White,Not Hispanic or Latino,Married,1956,Present,,,Unknown,EHR
+13,BQ5C,F,White,Not Hispanic or Latino,Unknown,19,Present,,,Unknown,EHR
+14,Bg5C,M,White,Not Hispanic or Latino,Married,1953,Present,,,Unknown,EHR
+15,Bw5C,M,Unknown,Unknown,Single,03,Present,,,Unknown,EHR
+16,BA6C,M,White,Not Hispanic or Latino,Married,1956,Present,,,Unknown,EHR
+17,BQ6C,M,White,Unknown,Single,nan,Protected,200608.0,Death Registry,Unknown,EHR
+18,Bg6C,F,Unknown,Unknown,Unknown,1946,Present,,,Unknown,EHR
+19,Bw6C,M,White,Not Hispanic or Latino,Single,1986,Present,,,Unknown,EHR
+20,BA7C,F,White,Unknown,Single,1918,Present,200505.0,Death Registry,Unknown,EHR
+21,BQ7C,F,Unknown,Unknown,Unknown,19,Present,,,Unknown,EHR
+22,Bg7C,M,White,Not Hispanic or Latino,Single,1998,Present,,,Unknown,EHR
+23,Bw7C,M,White,Not Hispanic or Latino,Married,1943,Present,,,Unknown,EHR
+24,BA8C,F,Unknown,Unknown,Unknown,1981,Present,,,Unknown,EHR
+25,BQ8C,F,White,Unknown,Single,07,Present,,,Unknown,EHR
+26,Bg8C,M,Unknown,Unknown,Married,1945,Present,200711.0,Death Registry,Unknown,EHR
+27,Bw8C,M,White,Not Hispanic or Latino,Married,1945,Present,,,Unknown,EHR
+28,BA9C,F,White,Not Hispanic or Latino,Single,1998,Present,,,Unknown,EHR
+29,BQ9C,F,White,Not Hispanic or Latino,Unknown,1946,Present,,,Unknown,EHR
+30,Bg9C,F,White,Not Hispanic or Latino,Married,1943,Present,,,Unknown,EHR
+31,Bw9C,F,White,Not Hispanic or Latino,Single,1996,Present,,,Unknown,EHR
+32,BA_C,F,White,Unknown,Married,1976,Present,,,Unknown,EHR
+33,BQ_C,F,White,Not Hispanic or Latino,Single,1971,Present,,,Unknown,EHR
+34,Bg_C,M,Unknown,Unknown,Unknown,09,Present,,,Unknown,EHR
+35,Bw_C,F,White,Unknown,Single,1983,Present,,,Unknown,EHR
+36,BA#C,M,White,Not Hispanic or Latino,Single,1954,Present,,,Unknown,EHR
+37,BQ#C,M,Unknown,Not Hispanic or Latino,Married,1939,Present,,,Unknown,EHR
+38,Bg#C,M,Unknown,Hispanic or Latino,Married,1969,Present,,,Unknown,EHR
+39,Bw#C,F,Unknown,Unknown,Married,1973,Present,,,Unknown,EHR
+40,BAAD,F,White,Hispanic or Latino,Unknown,1992,Present,,,Unknown,EHR
+41,BQAD,M,White,Not Hispanic or Latino,Unknown,1999,Present,,,Unknown,EHR
+42,BgAD,F,White,Not Hispanic or Latino,Unknown,01,Present,,,Unknown,EHR
+43,BwAD,F,Unknown,Not Hispanic or Latino,Married,1945,Present,,,Unknown,EHR
+44,BABD,F,Unknown,Hispanic or Latino,Single,1938,Present,,,Unknown,EHR
+45,BQBD,F,Unknown,Unknown,Single,1981,Present,,,Unknown,EHR
+46,BgBD,F,White,Unknown,Married,1962,Present,,,Unknown,EHR
+47,BwBD,M,Unknown,Unknown,Single,19,Present,,,Unknown,EHR
+48,BACD,F,Unknown,Hispanic or Latino,Unknown,1989,Present,,,Unknown,EHR
+49,BQCD,M,Black or African American,Unknown,Unknown,19,Present,200403.0,Death Registry,Unknown,EHR
+50,BgCD,F,Unknown,Hispanic or Latino,Unknown,16,Present,,,Unknown,EHR
+51,BwCD,F,Black or African American,Not Hispanic or Latino,Married,1983,Present,,,Unknown,EHR
+52,BADD,M,Unknown,Hispanic or Latino,Unknown,15,Present,,,Unknown,EHR
+53,BQDD,F,Unknown,Unknown,Single,1917,Present,200511.0,Death Registry,Unknown,EHR
+54,BgDD,F,White,Not Hispanic or Latino,Single,1949,Present,,,Unknown,EHR
+55,BwDD,M,Unknown,Unknown,Single,19,Present,,,Unknown,EHR
+56,BAED,F,Black or African American,Not Hispanic or Latino,Single,1992,Present,,,Unknown,EHR
+57,BQED,M,Unknown,Unknown,Unknown,1988,Present,,,Unknown,EHR
+58,BgED,M,White,Not Hispanic or Latino,Single,19,Present,,,Unknown,EHR
+59,BwED,M,Black or African American,Unknown,Single,1987,Present,201512.0,Death Registry,Unknown,EHR
+60,BAFD,F,White,Not Hispanic or Latino,Unknown,1996,Present,,,Unknown,EHR
+61,BQFD,M,Unknown,Unknown,Single,1937,Present,202109.0,Death Registry,Unknown,EHR
+62,BgFD,F,White,Hispanic or Latino,Unknown,1997,Present,,,Unknown,EHR
+63,BwFD,M,White,Not Hispanic or Latino,Single,1991,Present,,,Unknown,EHR
+64,BAGD,M,White,Not Hispanic or Latino,Unknown,1968,Present,,,Unknown,EHR
+65,BQGD,F,Black or African American,Not Hispanic or Latino,Unknown,11,Present,,,Unknown,EHR
+66,BgGD,M,White,Not Hispanic or Latino,Married,1944,Present,,,Unknown,EHR
+67,BwGD,F,Unknown,Unknown,Single,1958,Present,,,Unknown,EHR
+68,BAHD,F,White,Not Hispanic or Latino,Married,1954,Present,,,Unknown,EHR
+69,BQHD,F,White,Not Hispanic or Latino,Unknown,19,Present,,,Unknown,EHR
+70,BgHD,F,Unknown,Not Hispanic or Latino,Unknown,06,Present,,,Unknown,EHR
+71,BwHD,M,White,Not Hispanic or Latino,Unknown,01,Present,,,Unknown,EHR
+72,BAID,F,Unknown,Unknown,Single,nan,Protected,200401.0,Death Registry,Unknown,EHR
+73,BQID,M,Unknown,Unknown,Married,19,Present,,,Unknown,EHR
+74,BgID,M,Asian,Not Hispanic or Latino,Single,1993,Present,,,Unknown,EHR
+75,BwID,F,White,Unknown,Married,1946,Present,,,Unknown,EHR
+76,BAJD,F,Black or African American,Unknown,Unknown,1973,Present,,,Unknown,EHR
+77,BQJD,F,White,Not Hispanic or Latino,Married,1965,Present,,,Unknown,EHR
+78,BgJD,M,White,Not Hispanic or Latino,Single,1987,Present,,,Unknown,EHR
+79,BwJD,F,White,Not Hispanic or Latino,Single,1924,Present,201211.0,Death Registry,Unknown,EHR
+80,BAKD,F,White,Hispanic or Latino,Unknown,04,Present,,,Unknown,EHR
+81,BQKD,M,Unknown,Unknown,Married,1956,Present,,,Unknown,EHR
+82,BgKD,F,Asian,Not Hispanic or Latino,Unknown,1997,Present,,,Unknown,EHR
+83,BwKD,M,Unknown,Not Hispanic or Latino,Married,nan,Protected,,,Unknown,EHR
+84,BALD,M,White,Not Hispanic or Latino,Unknown,,Present,,,Unknown,EHR
+85,BQLD,F,White,Unknown,Married,1947,Present,,,Unknown,EHR
+86,BgLD,M,White,Not Hispanic or Latino,Single,1933,Present,201810.0,Death Registry,Unknown,EHR
+87,BwLD,M,Unknown,Unknown,Married,1956,Present,,,Unknown,EHR
+88,BAMD,F,Unknown,Unknown,Single,1952,Present,,,Unknown,EHR
+89,BQMD,M,White,Not Hispanic or Latino,Unknown,08,Present,,,Unknown,EHR
+90,BgMD,F,White,Not Hispanic or Latino,Single,1938,Present,,,Unknown,EHR
+91,BwMD,M,White,Unknown,Married,1919,Present,200207.0,Death Registry,Unknown,EHR
+92,BAND,F,Unknown,Not Hispanic or Latino,Married,1981,Present,,,Unknown,EHR
+93,BQND,F,Unknown,Unknown,Unknown,13,Present,,,Unknown,EHR
+94,BgND,M,White,Unknown,Married,1951,Present,,,Unknown,EHR
+95,BwND,F,White,Unknown,Married,1958,Present,,,Unknown,EHR
+96,BAOD,F,White,Hispanic or Latino,Single,01,Present,,,Unknown,EHR
+97,BQOD,M,White,Unknown,Single,1961,Present,,,Unknown,EHR
+98,BgOD,F,White,Unknown,Married,1953,Present,,,Unknown,EHR
+99,BwOD,F,White,Not Hispanic or Latino,Unknown,1988,Present,,,Unknown,EHR
+100,BAPD,F,Unknown,Unknown,Single,1964,Present,,,Unknown,EHR
+101,BQPD,F,White,Unknown,Married,1934,Present,200402.0,Death Registry,Unknown,EHR
+102,BgPD,F,White,Unknown,Unknown,1986,Present,,,Unknown,EHR
+103,BwPD,F,Unknown,Unknown,Married,1962,Present,,,Unknown,EHR
+104,BAQD,F,White,Unknown,Married,1937,Present,200406.0,Death Registry,Unknown,EHR
+105,BQQD,M,Unknown,Not Hispanic or Latino,Unknown,03,Present,,,Unknown,EHR
+106,BgQD,F,White,Unknown,Married,19,Present,,,Unknown,EHR
+107,BwQD,F,White,Unknown,Single,1988,Present,,,Unknown,EHR
+108,BARD,F,White,Not Hispanic or Latino,Married,1979,Present,,,Unknown,EHR
+109,BQRD,M,Unknown,Hispanic or Latino,Single,1986,Present,,,Unknown,EHR
+110,BgRD,M,White,Unknown,Single,1977,Present,,,Unknown,EHR
+111,BwRD,M,Unknown,Unknown,Single,1959,Present,,,Unknown,EHR
+112,BASD,M,White,Not Hispanic or Latino,Unknown,02,Present,,,Unknown,EHR
+113,BQSD,M,White,Not Hispanic or Latino,Unknown,1969,Present,,,Unknown,EHR
+114,BgSD,F,White,Unknown,Single,06,Present,,,Unknown,EHR
+115,BwSD,F,Unknown,Unknown,Married,1951,Present,200001.0,Death Registry,Unknown,EHR
+116,BATD,M,White,Not Hispanic or Latino,Single,1982,Present,,,Unknown,EHR
+117,BQTD,M,Unknown,Unknown,Single,1985,Present,,,Unknown,EHR
+118,BgTD,F,Unknown,Unknown,Married,1962,Present,,,Unknown,EHR
+119,BwTD,M,Unknown,Hispanic or Latino,Unknown,1953,Present,,,Unknown,EHR
+120,BAUD,M,Black or African American,Not Hispanic or Latino,Single,1999,Present,,,Unknown,EHR
+121,BQUD,M,White,Not Hispanic or Latino,Unknown,1959,Present,,,Unknown,EHR
+122,BgUD,M,White,Unknown,Married,1942,Present,200602.0,Death Registry,Unknown,EHR
+123,BwUD,F,White,Not Hispanic or Latino,Unknown,1996,Present,,,Unknown,EHR
+124,BAVD,M,Unknown,Unknown,Unknown,16,Present,,,Unknown,EHR
+125,BQVD,F,Black or African American,Unknown,Single,1981,Present,,,Unknown,EHR
+126,BgVD,F,White,Not Hispanic or Latino,Unknown,17,Present,,,Unknown,EHR
+127,BwVD,M,White,Not Hispanic or Latino,Single,1993,Present,,,Unknown,EHR
+128,BAWD,M,Unknown,Hispanic or Latino,Unknown,1971,Present,,,Unknown,EHR
+129,BQWD,F,White,Not Hispanic or Latino,Unknown,1967,Present,,,Unknown,EHR
+130,BgWD,M,White,Unknown,Single,1979,Present,,,Unknown,EHR
+131,BwWD,M,Unknown,Unknown,Married,nan,Protected,200011.0,Death Registry,Unknown,EHR
+132,BAXD,F,White,Unknown,Unknown,19,Present,,,Unknown,EHR
+133,BQXD,M,White,Not Hispanic or Latino,Married,1958,Present,,,Unknown,EHR
+134,BgXD,M,White,Not Hispanic or Latino,Single,,Present,,,Unknown,EHR
+135,BwXD,M,Unknown,Unknown,Unknown,15,Present,,,Unknown,EHR
+136,BAYD,M,White,Unknown,Married,1938,Present,201506.0,Death Registry,Unknown,EHR
+137,BQYD,F,Black or African American,Not Hispanic or Latino,Unknown,1997,Present,,,Unknown,EHR
+138,BgYD,F,White,Unknown,Married,1946,Present,,,Unknown,EHR
+139,BwYD,F,White,Unknown,Single,nan,Protected,,,Unknown,EHR
+140,BAZD,F,White,Unknown,Single,nan,Protected,201503.0,Death Registry,Unknown,EHR
+141,BQZD,M,White,Not Hispanic or Latino,Unknown,1964,Present,,,Unknown,EHR
+142,BgZD,M,Unknown,Hispanic or Latino,Unknown,1954,Present,,,Unknown,EHR
+143,BwZD,F,Unknown,Unknown,Married,1961,Present,,,Unknown,EHR
+144,BAaD,F,Unknown,Unknown,Unknown,19,Present,,,Unknown,EHR
+145,BQaD,M,White,Unknown,Single,1998,Present,,,Unknown,EHR
+146,BgaD,M,Unknown,Unknown,Unknown,1976,Present,,,Unknown,EHR
+147,BwaD,M,Unknown,Unknown,Unknown,1981,Present,,,Unknown,EHR
+148,BAbD,M,White,Unknown,Single,1985,Present,,,Unknown,EHR
+149,BQbD,F,White,Not Hispanic or Latino,Single,1995,Present,,,Unknown,EHR
+150,BgbD,F,Unknown,Unknown,Single,1992,Present,,,Unknown,EHR
+151,BwbD,M,White,Not Hispanic or Latino,Single,12,Present,,,Unknown,EHR
+152,BAcD,M,White,Unknown,Married,1969,Present,,,Unknown,EHR
+153,BQcD,F,White,Not Hispanic or Latino,Married,1964,Present,,,Unknown,EHR
+154,BgcD,M,Unknown,Unknown,Single,1938,Present,,,Unknown,EHR
+155,BwcD,M,Unknown,Unknown,Unknown,1993,Present,,,Unknown,EHR
+156,BAdD,F,White,Unknown,Married,1956,Present,,,Unknown,EHR
+157,BQdD,M,White,Not Hispanic or Latino,Married,1962,Present,,,Unknown,EHR
+158,BgdD,F,White,Not Hispanic or Latino,Married,1986,Present,,,Unknown,EHR
+159,BwdD,M,Unknown,Unknown,Single,1942,Present,201408.0,Death Registry,Unknown,EHR
+160,BAeD,M,White,Unknown,Single,1989,Present,,,Unknown,EHR
+161,BQeD,M,White,Not Hispanic or Latino,Unknown,1998,Present,,,Unknown,EHR
+162,BgeD,F,White,Not Hispanic or Latino,Single,19,Present,,,Unknown,EHR
+163,BweD,F,Unknown,Unknown,Single,06,Present,,,Unknown,EHR
+164,BAfD,M,White,Unknown,Married,1922,Present,200207.0,Death Registry,Unknown,EHR
+165,BQfD,M,Unknown,Unknown,Unknown,1966,Present,,,Unknown,EHR
+166,BgfD,M,Unknown,Hispanic or Latino,Unknown,19,Present,,,Unknown,EHR
+167,BwfD,M,White,Not Hispanic or Latino,Unknown,1997,Present,,,Unknown,EHR
+168,BAgD,F,Black or African American,Not Hispanic or Latino,Single,07,Present,,,Unknown,EHR
+169,BQgD,F,Unknown,Hispanic or Latino,Unknown,1995,Present,,,Unknown,EHR
+170,BggD,F,Unknown,Hispanic or Latino,Married,1966,Present,,,Unknown,EHR
+171,BwgD,F,Unknown,Unknown,Unknown,1997,Present,,,Unknown,EHR
+172,BAhD,F,Unknown,Unknown,Unknown,1977,Present,,,Unknown,EHR
+173,BQhD,M,White,Not Hispanic or Latino,Single,1998,Present,,,Unknown,EHR
+174,BghD,F,White,Not Hispanic or Latino,Unknown,17,Present,,,Unknown,EHR
+175,BwhD,M,Unknown,Unknown,Single,1943,Present,201605.0,Death Registry,Unknown,EHR
+176,BAiD,M,White,Not Hispanic or Latino,Married,1971,Present,,,Unknown,EHR
+177,BQiD,,Unknown,Unknown,Unknown,1996,Present,,,Unknown,EHR
+178,BgiD,M,White,Not Hispanic or Latino,Married,1953,Present,,,Unknown,EHR
+179,BwiD,F,Unknown,Unknown,Single,1949,Present,,,Unknown,EHR
+180,BAjD,F,White,Not Hispanic or Latino,Single,1962,Present,,,Unknown,EHR
+181,BQjD,F,White,Not Hispanic or Latino,Married,1964,Present,,,Unknown,EHR
+182,BgjD,M,White,Unknown,Single,1972,Present,,,Unknown,EHR
+183,BwjD,M,White,Not Hispanic or Latino,Unknown,1992,Present,,,Unknown,EHR
+184,BAkD,F,Unknown,Unknown,Unknown,1956,Present,,,Unknown,EHR
+185,BQkD,M,White,Not Hispanic or Latino,Unknown,08,Present,,,Unknown,EHR
+186,BgkD,M,Unknown,Unknown,Unknown,19,Present,,,Unknown,EHR
+187,BwkD,F,Unknown,Unknown,Unknown,1966,Present,,,Unknown,EHR
+188,BAlD,F,Asian,Unknown,Single,1985,Present,,,Unknown,EHR
+189,BQlD,M,Unknown,Not Hispanic or Latino,Single,02,Present,,,Unknown,EHR
+190,BglD,M,White,Not Hispanic or Latino,Married,1969,Present,,,Unknown,EHR
+191,BwlD,F,Unknown,Unknown,Married,1966,Present,,,Unknown,EHR
+192,BAmD,F,White,Not Hispanic or Latino,Unknown,18,Present,,,Unknown,EHR
+193,BQmD,F,White,Not Hispanic or Latino,Single,14,Present,,,Unknown,EHR
+194,BgmD,F,Unknown,Unknown,Unknown,06,Present,,,Unknown,EHR
+195,BwmD,F,Unknown,Unknown,Unknown,1955,Present,,,Unknown,EHR
+196,BAnD,M,Unknown,Unknown,Married,1981,Present,,,Unknown,EHR
+197,BQnD,M,White,Not Hispanic or Latino,Married,1981,Present,,,Unknown,EHR
+198,BgnD,M,White,Not Hispanic or Latino,Unknown,1963,Present,,,Unknown,EHR
+199,BwnD,F,White,Unknown,Single,1983,Present,,,Unknown,EHR
+200,BAoD,F,White,Not Hispanic or Latino,Unknown,1998,Present,,,Unknown,EHR
+201,BQoD,M,White,Not Hispanic or Latino,Married,1936,Present,,,Unknown,EHR
+202,BgoD,M,White,Not Hispanic or Latino,Single,1984,Present,,,Unknown,EHR
+203,BwoD,F,Unknown,Unknown,Married,1983,Present,,,Unknown,EHR
+204,BApD,F,Unknown,Hispanic or Latino,Married,1989,Present,,,Unknown,EHR
+205,BQpD,F,Unknown,Unknown,Single,1979,Present,,,Unknown,EHR
+206,BgpD,M,White,Unknown,Unknown,,Present,,,Unknown,EHR
+207,BwpD,M,White,Not Hispanic or Latino,Married,1946,Present,,,Unknown,EHR
+208,BAqD,F,Unknown,Not Hispanic or Latino,Unknown,02,Present,,,Unknown,EHR
+209,BQqD,M,Unknown,Unknown,Single,1944,Present,,,Unknown,EHR
+210,BgqD,F,Unknown,Unknown,Single,1993,Present,,,Unknown,EHR
+211,BwqD,M,White,Not Hispanic or Latino,Unknown,06,Present,,,Unknown,EHR
+212,BArD,F,White,Unknown,Single,1988,Present,,,Unknown,EHR
+213,BQrD,M,Unknown,Unknown,Unknown,09,Present,,,Unknown,EHR
+214,BgrD,F,Unknown,Unknown,Single,1934,Present,201807.0,Death Registry,Unknown,EHR
+215,BwrD,M,White,Not Hispanic or Latino,Married,1959,Present,,,Unknown,EHR
+216,BAsD,M,Unknown,Unknown,Married,1915,Present,199608.0,Death Registry,Unknown,EHR
+217,BQsD,M,Unknown,Unknown,Unknown,1997,Present,,,Unknown,EHR
+218,BgsD,M,White,Hispanic or Latino,Unknown,03,Present,,,Unknown,EHR
+219,BwsD,M,White,Not Hispanic or Latino,Single,1937,Present,,,Unknown,EHR
+220,BAtD,M,Unknown,Unknown,Unknown,07,Present,,,Unknown,EHR
+221,BQtD,F,White,Hispanic or Latino,Married,1939,Present,,,Unknown,EHR
+222,BgtD,F,White,Not Hispanic or Latino,Married,1983,Present,,,Unknown,EHR
+223,BwtD,M,White,Not Hispanic or Latino,Unknown,15,Present,,,Unknown,EHR
+224,BAuD,M,Unknown,Unknown,Married,1972,Present,,,Unknown,EHR
+225,BQuD,M,White,Unknown,Unknown,1997,Present,,,Unknown,EHR
+226,BguD,F,White,Not Hispanic or Latino,Single,nan,Protected,,,Unknown,EHR
+227,BwuD,M,Unknown,Hispanic or Latino,Unknown,08,Present,,,Unknown,EHR
+228,BAvD,F,White,Not Hispanic or Latino,Unknown,16,Present,,,Unknown,EHR
+229,BQvD,M,White,Not Hispanic or Latino,Married,1946,Present,,,Unknown,EHR
+230,BgvD,F,Unknown,Unknown,Unknown,19,Present,,,Unknown,EHR
+231,BwvD,M,White,Not Hispanic or Latino,Single,1993,Present,,,Unknown,EHR
+232,BAwD,M,White,Not Hispanic or Latino,Married,1935,Present,,,Unknown,EHR
+233,BQwD,F,Unknown,Unknown,Unknown,1997,Present,,,Unknown,EHR
+234,BgwD,M,Unknown,Unknown,Married,1949,Present,,,Unknown,EHR
+235,BwwD,M,White,Unknown,Married,19,Present,,,Unknown,EHR
+236,BAxD,F,White,Not Hispanic or Latino,Single,nan,Protected,,,Unknown,EHR
+237,BQxD,F,Unknown,Unknown,Single,1981,Present,,,Unknown,EHR
+238,BgxD,M,White,Unknown,Unknown,1997,Present,,,Unknown,EHR
+239,BwxD,M,Unknown,Hispanic or Latino,Unknown,,Present,,,Unknown,EHR
+240,BAyD,F,White,Unknown,Single,1921,Present,200911.0,Death Registry,Unknown,EHR
+241,BQyD,M,White,Hispanic or Latino,Unknown,1979,Present,,,Unknown,EHR
+242,BgyD,M,White,Hispanic or Latino,Unknown,12,Present,,,Unknown,EHR
+243,BwyD,M,Unknown,Unknown,Unknown,15,Present,,,Unknown,EHR
+244,BAzD,F,White,Not Hispanic or Latino,Single,1994,Present,,,Unknown,EHR
+245,BQzD,M,Black or African American,Unknown,Single,1987,Present,,,Unknown,EHR
+246,BgzD,M,White,Unknown,Unknown,01,Present,,,Unknown,EHR
+247,BwzD,F,Black or African American,Unknown,Unknown,1956,Present,201703.0,EHR,Unknown,EHR
+248,BA0D,F,White,Not Hispanic or Latino,Unknown,19,Present,,,Unknown,EHR
+249,BQ0D,F,Unknown,Unknown,Single,1983,Present,,,Unknown,EHR
+250,Bg0D,M,White,Unknown,Married,1922,Present,200811.0,Death Registry,Unknown,EHR
+251,Bw0D,F,Unknown,Not Hispanic or Latino,Single,09,Present,,,Unknown,EHR
+252,BA1D,M,White,Not Hispanic or Latino,Unknown,19,Present,,,Unknown,EHR
+253,BQ1D,M,Black or African American,Not Hispanic or Latino,Single,1991,Present,,,Unknown,EHR
+254,Bg1D,M,White,Unknown,Single,1984,Present,,,Unknown,EHR
+255,Bw1D,M,White,Not Hispanic or Latino,Married,1985,Present,,,Unknown,EHR
+256,BA2D,M,White,Unknown,Single,1999,Present,,,Unknown,EHR
+257,BQ2D,F,Asian,Not Hispanic or Latino,Married,1959,Present,,,Unknown,EHR
+258,Bg2D,M,Unknown,Unknown,Married,1955,Present,,,Unknown,EHR
+259,Bw2D,F,Unknown,Unknown,Unknown,1953,Present,,,Unknown,EHR
+260,BA3D,M,Unknown,Unknown,Single,1989,Present,,,Unknown,EHR
+261,BQ3D,M,Unknown,Unknown,Unknown,08,Present,,,Unknown,EHR
+262,Bg3D,F,White,Not Hispanic or Latino,Married,1964,Present,,,Unknown,EHR
+263,Bw3D,M,Unknown,Hispanic or Latino,Married,1972,Present,,,Unknown,EHR
+264,BA4D,M,White,Not Hispanic or Latino,Unknown,08,Present,,,Unknown,EHR
+265,BQ4D,F,White,Not Hispanic or Latino,Single,1985,Present,,,Unknown,EHR
+266,Bg4D,F,White,Not Hispanic or Latino,Married,19,Present,,,Unknown,EHR
+267,Bw4D,M,Unknown,Unknown,Unknown,1984,Present,,,Unknown,EHR
+268,BA5D,F,White,Unknown,Married,1943,Present,200106.0,Death Registry,Unknown,EHR
+269,BQ5D,F,White,Hispanic or Latino,Single,1986,Present,,,Unknown,EHR
+270,Bg5D,M,White,Not Hispanic or Latino,Single,1991,Present,,,Unknown,EHR
+271,Bw5D,F,White,Not Hispanic or Latino,Married,1944,Present,,,Unknown,EHR
+272,BA6D,F,White,Not Hispanic or Latino,Married,1964,Present,,,Unknown,EHR
+273,BQ,M,Asian,Not Hispanic or Latino,Unknown,21,Present,,,Unknown,EHR
+274,Bg,M,White,Not Hispanic or Latino,Unknown,,Present,,,Unknown,EHR
+275,Bw,F,White,Unknown,Married,1936,Present,201806.0,Death Registry,Unknown,EHR
+276,BAB,M,Black or African American,Not Hispanic or Latino,Unknown,19,Present,,,Unknown,EHR
+277,BQB,F,Unknown,Unknown,Married,1986,Present,,,Unknown,EHR
+278,BgB,F,White,Not Hispanic or Latino,Single,1935,Present,,,Unknown,EHR
+279,BwB,M,White,Not Hispanic or Latino,Single,1988,Present,,,Unknown,EHR
+280,BAC,F,White,Not Hispanic or Latino,Unknown,22,Present,,,Unknown,EHR
+281,BQC,F,White,Unknown,Single,1992,Present,,,Unknown,EHR
+282,BgC,M,Unknown,Unknown,Unknown,1964,Present,,,Unknown,EHR
+283,BwC,M,Unknown,Hispanic or Latino,Married,1991,Present,,,Unknown,EHR
+284,BAD,F,Asian,Not Hispanic or Latino,Married,19,Present,,,Unknown,EHR
+285,BQD,M,Unknown,Unknown,Unknown,1975,Present,,,Unknown,EHR
+286,BgD,F,White,Unknown,Single,1935,Present,200205.0,Death Registry,Unknown,EHR
+287,BwD,F,Unknown,Not Hispanic or Latino,Married,1961,Present,,,Unknown,EHR
+288,BAE,M,White,Unknown,Married,1967,Present,,,Unknown,EHR
+289,BQE,M,Unknown,Unknown,Unknown,11,Present,,,Unknown,EHR
+290,BgE,M,White,Not Hispanic or Latino,Married,1987,Present,,,Unknown,EHR
+291,BwE,M,White,Not Hispanic or Latino,Married,1945,Present,,,Unknown,EHR
+292,BAF,F,White,Unknown,Married,1959,Present,,,Unknown,EHR
+293,BQF,M,White,Unknown,Single,1959,Present,201204.0,Death Registry,Unknown,EHR
+294,BgF,M,White,Not Hispanic or Latino,Unknown,06,Present,,,Unknown,EHR
+295,BwF,F,White,Not Hispanic or Latino,Unknown,11,Present,,,Unknown,EHR
+296,BAG,M,White,Not Hispanic or Latino,Single,nan,Protected,,,Unknown,EHR
+297,BQG,F,White,Not Hispanic or Latino,Unknown,1959,Present,,,Unknown,EHR
+298,BgG,F,Unknown,Unknown,Unknown,07,Present,,,Unknown,EHR
+299,BwG,F,White,Not Hispanic or Latino,Unknown,1972,Present,,,Unknown,EHR
+300,BAH,M,Unknown,Unknown,Single,1962,Present,201303.0,EHR,Unknown,EHR
+301,BQH,M,White,Not Hispanic or Latino,Unknown,06,Present,,,Unknown,EHR
+302,BgH,F,Unknown,Unknown,Single,14,Present,,,Unknown,EHR
+303,BwH,M,White,Not Hispanic or Latino,Single,04,Present,,,Unknown,EHR
+304,BAI,F,White,Unknown,Single,1986,Present,,,Unknown,EHR
+305,BQI,M,White,Unknown,Single,1953,Present,,,Unknown,EHR
+306,BgI,F,Unknown,Not Hispanic or Latino,Unknown,19,Present,,,Unknown,EHR
+307,BwI,M,White,Not Hispanic or Latino,Unknown,01,Present,,,Unknown,EHR
+308,BAJ,F,White,Not Hispanic or Latino,Married,1964,Present,,,Unknown,EHR
+309,BQJ,F,Unknown,Unknown,Married,1964,Present,,,Unknown,EHR
+310,BgJ,F,White,Not Hispanic or Latino,Married,1976,Present,,,Unknown,EHR
+311,BwJ,F,White,Unknown,Married,1992,Present,,,Unknown,EHR
+312,BAK,F,White,Not Hispanic or Latino,Married,1957,Present,,,Unknown,EHR
+313,BQK,M,Unknown,Unknown,Unknown,1946,Present,,,Unknown,EHR
+314,BgK,F,Unknown,Unknown,Single,1945,Present,202202.0,Death Registry,Unknown,EHR
+315,BwK,M,Unknown,Unknown,Married,1935,Present,200210.0,Death Registry,Unknown,EHR
+316,BAL,M,Unknown,Unknown,Unknown,1965,Present,,,Unknown,EHR
+317,BQL,F,Unknown,Hispanic or Latino,Unknown,,Present,,,Unknown,EHR
+318,BgL,M,White,Unknown,Single,19,Present,,,Unknown,EHR
+319,BwL,M,Unknown,Hispanic or Latino,Married,1968,Present,,,Unknown,EHR
+320,BAM,F,Unknown,Unknown,Single,19,Present,,,Unknown,EHR
+321,BQM,F,Unknown,Unknown,Single,,Present,,,Unknown,EHR
+322,BgM,M,White,Not Hispanic or Latino,Unknown,1979,Present,,,Unknown,EHR
+323,BwM,M,White,Not Hispanic or Latino,Married,nan,Protected,,,Unknown,EHR
+324,BAN,M,White,Not Hispanic or Latino,Married,1966,Present,,,Unknown,EHR
+325,BQN,M,White,Unknown,Single,1991,Present,,,Unknown,EHR
+326,BgN,F,White,Not Hispanic or Latino,Single,12,Present,,,Unknown,EHR
+327,BwN,F,Unknown,Unknown,Unknown,1954,Present,,,Unknown,EHR
+328,BAO,F,White,Not Hispanic or Latino,Single,04,Present,,,Unknown,EHR
+329,BQO,M,Unknown,Unknown,Single,1989,Present,,,Unknown,EHR
+330,BgO,M,Unknown,Unknown,Single,1996,Present,,,Unknown,EHR
+331,BwO,M,White,Unknown,Single,19,Present,,,Unknown,EHR
+332,BAP,F,White,Unknown,Married,1971,Present,,,Unknown,EHR
+333,BQP,F,White,Not Hispanic or Latino,Single,1948,Present,,,Unknown,EHR
+334,BgP,F,Unknown,Hispanic or Latino,Unknown,1975,Present,,,Unknown,EHR
+335,BwP,M,Unknown,Unknown,Single,1971,Present,,,Unknown,EHR
+336,BAQ,F,White,Not Hispanic or Latino,Unknown,01,Present,,,Unknown,EHR
+337,BQQ,F,White,Unknown,Single,1987,Present,,,Unknown,EHR
+338,BgQ,M,White,Not Hispanic or Latino,Married,19,Present,,,Unknown,EHR
+339,BwQ,F,Unknown,Unknown,Unknown,1995,Present,,,Unknown,EHR
+340,BAR,F,White,Unknown,Single,1975,Present,,,Unknown,EHR
+341,BQR,F,White,Unknown,Single,1995,Present,,,Unknown,EHR
+342,BgR,F,White,Unknown,Single,19,Present,,,Unknown,EHR
+343,BwR,F,White,Not Hispanic or Latino,Unknown,13,Present,,,Unknown,EHR
+344,BAS,F,Unknown,Unknown,Unknown,1985,Present,,,Unknown,EHR
+345,BQS,F,White,Not Hispanic or Latino,Single,1927,Present,201501.0,EHR,Unknown,EHR
+346,BgS,M,White,Not Hispanic or Latino,Unknown,07,Present,,,Unknown,EHR
+347,BwS,F,Black or African American,Unknown,Single,1985,Present,,,Unknown,EHR
+348,BAT,M,White,Not Hispanic or Latino,Single,1975,Present,,,Unknown,EHR
+349,BQT,M,Unknown,Hispanic or Latino,Unknown,18,Present,,,Unknown,EHR
+350,BgT,F,White,Not Hispanic or Latino,Unknown,1979,Present,,,Unknown,EHR
+351,BwT,F,Asian,Not Hispanic or Latino,Unknown,09,Present,,,Unknown,EHR
+352,BAU,F,White,Not Hispanic or Latino,Unknown,22,Present,,,Unknown,EHR
+353,BQU,M,White,Not Hispanic or Latino,Single,19,Present,201411.0,Death Registry,Unknown,EHR
+354,BgU,M,White,Not Hispanic or Latino,Married,1955,Present,,,Unknown,EHR
+355,BwU,F,White,Not Hispanic or Latino,Unknown,1994,Present,,,Unknown,EHR
+356,BAV,F,White,Not Hispanic or Latino,Married,1966,Present,,,Unknown,EHR
+357,BQV,M,White,Not Hispanic or Latino,Unknown,07,Present,,,Unknown,EHR
+358,BgV,M,White,Unknown,Single,1966,Present,,,Unknown,EHR
+359,BwV,F,Black or African American,Unknown,Single,19,Present,,,Unknown,EHR
+360,BAW,F,White,Not Hispanic or Latino,Unknown,17,Present,,,Unknown,EHR
+361,BQW,M,Unknown,Unknown,Married,1943,Present,201810.0,Death Registry,Unknown,EHR
+362,BgW,F,White,Not Hispanic or Latino,Single,1944,Present,201301.0,Death Registry,Unknown,EHR
+363,BwW,M,White,Hispanic or Latino,Married,1942,Present,202109.0,Death Registry,Unknown,EHR
+364,BAX,F,White,Unknown,Single,1944,Present,200603.0,Death Registry,Unknown,EHR
+365,BQX,F,Unknown,Unknown,Unknown,1961,Present,,,Unknown,EHR
+366,BgX,M,Unknown,Unknown,Married,1938,Present,202006.0,Death Registry,Unknown,EHR
+367,BwX,M,White,Not Hispanic or Latino,Unknown,1995,Present,,,Unknown,EHR
+368,BAY,F,White,Not Hispanic or Latino,Married,1994,Present,,,Unknown,EHR
+369,BQY,M,White,Unknown,Single,1987,Present,,,Unknown,EHR
+370,BgY,F,White,Hispanic or Latino,Married,1963,Present,,,Unknown,EHR
+371,BwY,F,Unknown,Unknown,Unknown,1958,Present,,,Unknown,EHR
+372,BAZ,F,White,Not Hispanic or Latino,Unknown,19,Present,,,Unknown,EHR
+373,BQZ,M,White,Not Hispanic or Latino,Unknown,1972,Present,,,Unknown,EHR
+374,BgZ,F,White,Unknown,Married,1977,Present,,,Unknown,EHR
+375,BwZ,F,White,Not Hispanic or Latino,Single,1942,Present,,,Unknown,EHR
+376,BAa,F,Unknown,Unknown,Married,1968,Present,,,Unknown,EHR
+377,BQa,F,White,Not Hispanic or Latino,Married,1944,Present,,,Unknown,EHR
+378,Bga,F,White,Not Hispanic or Latino,Single,1992,Present,,,Unknown,EHR
+379,Bwa,F,Unknown,Unknown,Single,19,Present,,,Unknown,EHR
+380,BAb,M,Unknown,Hispanic or Latino,Married,1972,Present,,,Unknown,EHR
+381,BQb,F,Unknown,Unknown,Single,1957,Present,,,Unknown,EHR
+382,Bgb,F,White,Hispanic or Latino,Unknown,05,Present,,,Unknown,EHR
+383,Bwb,M,Black or African American,Not Hispanic or Latino,Single,1948,Present,201904.0,Death Registry,Unknown,EHR
+384,BAc,M,Black or African American,Not Hispanic or Latino,Single,nan,Protected,202208.0,EHR,Unknown,EHR
+385,BQc,F,White,Unknown,Married,1968,Present,,,Unknown,EHR
+386,Bgc,F,Unknown,Unknown,Married,1967,Present,,,Unknown,EHR
+387,Bwc,F,Unknown,Unknown,Unknown,1955,Present,,,Unknown,EHR
+388,BAd,F,White,Not Hispanic or Latino,Married,1956,Present,,,Unknown,EHR
+389,BQd,F,Unknown,Unknown,Unknown,02,Present,,,Unknown,EHR
+390,Bgd,F,White,Not Hispanic or Latino,Unknown,1964,Present,,,Unknown,EHR
+391,Bwd,F,Unknown,Unknown,Unknown,03,Present,,,Unknown,EHR
+392,BAe,F,Unknown,Hispanic or Latino,Unknown,04,Present,,,Unknown,EHR
+393,BQe,M,Unknown,Unknown,Married,nan,Protected,201408.0,Death Registry,Unknown,EHR
+394,Bge,F,Unknown,Unknown,Married,1989,Present,,,Unknown,EHR
+395,Bwe,M,White,Not Hispanic or Latino,Married,1964,Present,,,Unknown,EHR
+396,BAf,M,White,Not Hispanic or Latino,Unknown,16,Present,,,Unknown,EHR
+397,BQf,M,Unknown,Hispanic or Latino,Married,1994,Present,,,Unknown,EHR
+398,Bgf,F,White,Unknown,Single,1943,Present,,,Unknown,EHR
+399,Bwf,F,Unknown,Hispanic or Latino,Married,1965,Present,,,Unknown,EHR
+400,BAg,F,White,Not Hispanic or Latino,Unknown,16,Present,,,Unknown,EHR
+401,BQg,M,White,Not Hispanic or Latino,Unknown,1997,Present,,,Unknown,EHR
+402,Bgg,M,White,Unknown,Married,1971,Present,,,Unknown,EHR
+403,Bwg,F,White,Unknown,Single,1979,Present,,,Unknown,EHR
+404,BAh,M,White,Unknown,Single,1992,Present,,,Unknown,EHR
+405,BQh,F,Asian,Not Hispanic or Latino,Married,19,Present,,,Unknown,EHR
+406,Bgh,F,White,Not Hispanic or Latino,Married,1938,Present,,,Unknown,EHR
+407,Bwh,F,White,Not Hispanic or Latino,Unknown,1969,Present,,,Unknown,EHR
+408,BAi,F,White,Unknown,Single,1959,Present,201505.0,Death Registry,Unknown,EHR
+409,BQi,M,Unknown,Not Hispanic or Latino,Married,1961,Present,,,Unknown,EHR
+410,Bgi,F,White,Unknown,Married,19,Present,,,Unknown,EHR
+411,Bwi,F,White,Unknown,Married,1959,Present,,,Unknown,EHR
+412,BAj,M,White,Unknown,Married,1951,Present,,,Unknown,EHR
+413,BQj,F,White,Not Hispanic or Latino,Unknown,1969,Present,,,Unknown,EHR
+414,Bgj,F,Unknown,Unknown,Unknown,1977,Present,,,Unknown,EHR
+415,Bwj,F,Unknown,Not Hispanic or Latino,Married,1972,Present,,,Unknown,EHR
+416,BAk,F,White,Unknown,Married,1929,Present,201102.0,Death Registry,Unknown,EHR
+417,BQk,M,Unknown,Unknown,Single,1981,Present,,,Unknown,EHR
+418,Bgk,M,White,Unknown,Single,1975,Present,,,Unknown,EHR
+419,Bwk,M,Unknown,Unknown,Unknown,15,Present,,,Unknown,EHR
+420,BAl,M,White,Not Hispanic or Latino,Married,1948,Present,202002.0,Death Registry,Unknown,EHR
+421,BQl,M,White,Not Hispanic or Latino,Married,19,Present,,,Unknown,EHR
+422,Bgl,M,White,Not Hispanic or Latino,Married,1949,Present,,,Unknown,EHR
+423,Bwl,F,White,Unknown,Single,1993,Present,,,Unknown,EHR
+424,BAm,F,White,Not Hispanic or Latino,Married,1963,Present,,,Unknown,EHR
+425,BQm,F,Unknown,Unknown,Married,1944,Present,,,Unknown,EHR
+426,Bgm,M,White,Not Hispanic or Latino,Unknown,06,Present,,,Unknown,EHR
+427,Bwm,M,Black or African American,Unknown,Single,1973,Present,,,Unknown,EHR
+428,BAn,F,Unknown,Unknown,Unknown,1956,Present,,,Unknown,EHR
+429,BQn,F,White,Not Hispanic or Latino,Married,1956,Present,,,Unknown,EHR
+430,Bgn,F,Unknown,Not Hispanic or Latino,Unknown,1989,Present,,,Unknown,EHR
+431,Bwn,M,Unknown,Unknown,Single,1951,Present,,,Unknown,EHR
+432,BAo,F,Unknown,Hispanic or Latino,Married,1978,Present,,,Unknown,EHR
+433,BQo,M,Unknown,Unknown,Married,19,Present,200810.0,Death Registry,Unknown,EHR
+434,Bgo,F,Black or African American,Not Hispanic or Latino,Single,15,Present,,,Unknown,EHR
+435,Bwo,M,White,Not Hispanic or Latino,Married,1953,Present,,,Unknown,EHR
+436,BAp,F,Unknown,Unknown,Single,1978,Present,,,Unknown,EHR
+437,BQp,M,Unknown,Not Hispanic or Latino,Married,19,Present,,,Unknown,EHR
+438,Bgp,M,White,Not Hispanic or Latino,Married,nan,Protected,201907.0,Death Registry,Unknown,EHR
+439,Bwp,F,White,Not Hispanic or Latino,Single,1962,Present,,,Unknown,EHR
+440,BAq,M,Unknown,Unknown,Single,19,Present,199601.0,Death Registry,Unknown,EHR
+441,BQq,M,Unknown,Not Hispanic or Latino,Married,1974,Present,,,Unknown,EHR
+442,Bgq,F,Unknown,Unknown,Married,1979,Present,,,Unknown,EHR
+443,Bwq,M,White,Unknown,Unknown,05,Present,,,Unknown,EHR
+444,BAr,M,White,Unknown,Single,01,Present,,,Unknown,EHR
+445,BQr,M,Unknown,Unknown,Unknown,1965,Present,,,Unknown,EHR
+446,Bgr,M,White,Not Hispanic or Latino,Married,1938,Present,,,Unknown,EHR
+447,Bwr,F,Unknown,Unknown,Unknown,15,Present,,,Unknown,EHR
+448,BAs,M,Black or African American,Not Hispanic or Latino,Single,,Present,,,Unknown,EHR
+449,BQs,F,Unknown,Hispanic or Latino,Married,1988,Present,,,Unknown,EHR
+450,Bgs,F,White,Unknown,Single,05,Present,,,Unknown,EHR
+451,Bws,F,White,Not Hispanic or Latino,Unknown,1991,Present,,,Unknown,EHR
+452,BAt,F,Unknown,Unknown,Single,1992,Present,201307.0,Death Registry,Unknown,EHR
+453,BQt,F,White,Unknown,Single,1958,Present,,,Unknown,EHR
+454,Bgt,F,Unknown,Hispanic or Latino,Unknown,04,Present,,,Unknown,EHR
+455,Bwt,F,White,Not Hispanic or Latino,Married,1954,Present,,,Unknown,EHR
+456,BAu,F,White,Unknown,Single,1983,Present,,,Unknown,EHR
+457,BQu,M,White,Not Hispanic or Latino,Married,1954,Present,,,Unknown,EHR
+458,Bgu,F,White,Hispanic or Latino,Married,1988,Present,,,Unknown,EHR
+459,Bwu,F,Unknown,Unknown,Unknown,19,Present,,,Unknown,EHR
+460,BAv,M,Unknown,Unknown,Single,1962,Present,,,Unknown,EHR
+461,BQv,F,White,Not Hispanic or Latino,Single,1944,Present,,,Unknown,EHR
+462,Bgv,F,White,Not Hispanic or Latino,Single,09,Present,,,Unknown,EHR
+463,Bwv,M,White,Not Hispanic or Latino,Unknown,1994,Present,,,Unknown,EHR
+464,BAw,M,Black or African American,Not Hispanic or Latino,Married,1987,Present,,,Unknown,EHR
+465,BQw,F,Asian,Not Hispanic or Latino,Married,1996,Present,,,Unknown,EHR
+466,Bgw,F,Unknown,Hispanic or Latino,Married,1955,Present,,,Unknown,EHR
+467,Bww,F,White,Not Hispanic or Latino,Married,1958,Present,,,Unknown,EHR
+468,BAx,F,White,Not Hispanic or Latino,Married,19,Present,,,Unknown,EHR
+469,BQx,M,Unknown,Unknown,Married,1983,Present,,,Unknown,EHR
+470,Bgx,F,White,Not Hispanic or Latino,Married,1978,Present,,,Unknown,EHR
+471,Bwx,M,White,Hispanic or Latino,Single,05,Present,201202.0,Death Registry,Unknown,EHR
+472,BAy,M,Unknown,Unknown,Unknown,08,Present,,,Unknown,EHR
+473,BQy,M,White,Unknown,Single,1962,Present,,,Unknown,EHR
+474,Bgy,M,Unknown,Unknown,Single,1995,Present,,,Unknown,EHR
+475,Bwy,M,White,Unknown,Single,1962,Present,,,Unknown,EHR
+476,BAz,F,White,Not Hispanic or Latino,Married,1988,Present,,,Unknown,EHR
+477,BQz,M,White,Not Hispanic or Latino,Unknown,1991,Present,,,Unknown,EHR
+478,Bgz,M,White,Unknown,Single,1988,Present,,,Unknown,EHR
+479,Bwz,F,Unknown,Unknown,Unknown,1994,Present,,,Unknown,EHR
+480,BA0,M,Unknown,Unknown,Single,1959,Present,,,Unknown,EHR
+481,BQ0,F,White,Unknown,Married,1967,Present,,,Unknown,EHR
+482,Bg0,F,Unknown,Unknown,Unknown,1995,Present,,,Unknown,EHR
+483,Bw0,F,White,Unknown,Single,1981,Present,,,Unknown,EHR
+484,BA1,F,White,Not Hispanic or Latino,Married,1952,Present,202302.0,EHR,Unknown,EHR
+485,BQ1,M,White,Not Hispanic or Latino,Unknown,1982,Present,,,Unknown,EHR
+486,Bg1,M,White,Unknown,Married,19,Present,,,Unknown,EHR
+487,Bw1,F,Unknown,Hispanic or Latino,Unknown,1965,Present,,,Unknown,EHR
+488,BA2,F,White,Not Hispanic or Latino,Unknown,1953,Present,,,Unknown,EHR
+489,BQ2,F,White,Not Hispanic or Latino,Married,1936,Present,,,Unknown,EHR
+490,Bg2,F,White,Unknown,Single,1997,Present,,,Unknown,EHR
+491,Bw2,F,White,Unknown,Married,1946,Present,,,Unknown,EHR
+492,BA3,M,White,Unknown,Single,1954,Present,202201.0,Death Registry,Unknown,EHR
+493,BQ3,M,White,Not Hispanic or Latino,Unknown,1937,Present,,,Unknown,EHR
+494,Bg3,F,White,Not Hispanic or Latino,Unknown,1998,Present,,,Unknown,EHR
+495,Bw3,F,Black or African American,Not Hispanic or Latino,Unknown,1998,Present,,,Unknown,EHR
+496,BA4,M,White,Not Hispanic or Latino,Married,1939,Present,,,Unknown,EHR
+497,BQ4,M,Unknown,Unknown,Single,nan,Protected,,,Unknown,EHR
+498,Bg4,M,Black or African American,Not Hispanic or Latino,Unknown,1976,Present,201806.0,Death Registry,Unknown,EHR
+499,Bw4,M,Unknown,Unknown,Unknown,1933,Present,201803.0,Death Registry,Unknown,EHR
+500,BA5,F,White,Not Hispanic or Latino,Single,1951,Present,,,Unknown,EHR
+501,BQ5,F,Unknown,Unknown,Single,nan,Protected,,,Unknown,EHR
+502,Bg5,F,White,Not Hispanic or Latino,Married,1956,Present,,,Unknown,EHR
+503,Bw5,F,Unknown,Hispanic or Latino,Married,19,Present,,,Unknown,EHR
+504,BA6,M,White,Unknown,Married,1933,Present,,,Unknown,EHR
+505,BQ6,M,Unknown,Unknown,Single,08,Present,,,Unknown,EHR
+506,Bg6,M,White,Not Hispanic or Latino,Married,nan,Protected,202002.0,Death Registry,Unknown,EHR
+507,Bw6,F,Unknown,Unknown,Unknown,1983,Present,,,Unknown,EHR
+508,BA7,M,White,Not Hispanic or Latino,Married,1949,Present,,,Unknown,EHR
+509,BQ7,F,White,Not Hispanic or Latino,Single,1949,Present,201502.0,EHR,Unknown,EHR
+510,Bg7,M,Unknown,Hispanic or Latino,Unknown,08,Present,,,Unknown,EHR
+511,Bw7,M,Unknown,Hispanic or Latino,Unknown,17,Present,,,Unknown,EHR
+512,BA8,M,Unknown,Unknown,Single,nan,Protected,,,Unknown,EHR
+513,BQ8,F,White,Unknown,Single,1927,Present,200808.0,Death Registry,Unknown,EHR
+514,Bg8,M,Asian,Not Hispanic or Latino,Unknown,1972,Present,202202.0,Death Registry,Unknown,EHR
+515,Bw8,M,White,Unknown,Single,1982,Present,,,Unknown,EHR
+516,BA9,F,White,Not Hispanic or Latino,Single,nan,Protected,,,Unknown,EHR
+517,BQ9,M,Asian,Not Hispanic or Latino,Unknown,16,Present,,,Unknown,EHR
+518,Bg9,F,Unknown,Unknown,Single,1979,Present,202112.0,Death Registry,Unknown,EHR
+519,Bw9,M,White,Not Hispanic or Latino,Unknown,1998,Present,,,Unknown,EHR
+520,BA_,F,Unknown,Hispanic or Latino,Unknown,08,Present,,,Unknown,EHR
+521,BQ_,F,White,Unknown,Married,1939,Present,,,Unknown,EHR
+522,Bg_,F,White,Unknown,Single,1991,Present,,,Unknown,EHR
+523,Bw_,F,White,Not Hispanic or Latino,Married,1952,Present,,,Unknown,EHR
+524,BA#,F,White,Hispanic or Latino,Married,1994,Present,,,Unknown,EHR
+525,BQ#,F,White,Unknown,Single,09,Present,,,Unknown,EHR
+526,Bg#,M,White,Not Hispanic or Latino,Married,19,Present,,,Unknown,EHR
+527,Bw#,F,Unknown,Unknown,Unknown,1966,Present,,,Unknown,EHR
+528,BAAB,M,White,Not Hispanic or Latino,Unknown,1977,Present,,,Unknown,EHR
+529,BQAB,M,Unknown,Unknown,Unknown,,Present,,,Unknown,EHR
+530,BgAB,M,Unknown,Unknown,Unknown,1988,Present,,,Unknown,EHR
+531,BwAB,F,Black or African American,Not Hispanic or Latino,Married,19,Present,,,Unknown,EHR
+532,BABB,M,White,Unknown,Unknown,1954,Present,,,Unknown,EHR
+533,BQBB,F,Unknown,Unknown,Single,01,Present,,,Unknown,EHR
+534,BgBB,M,White,Unknown,Married,1944,Present,,,Unknown,EHR
+535,BwBB,M,White,Not Hispanic or Latino,Married,1966,Present,,,Unknown,EHR
+536,BACB,F,Asian,Not Hispanic or Latino,Married,1977,Present,,,Unknown,EHR
+537,BQCB,F,Unknown,Unknown,Single,1919,Present,200406.0,Death Registry,Unknown,EHR
+538,BgCB,M,Unknown,Unknown,Unknown,03,Present,,,Unknown,EHR
+539,BwCB,M,Unknown,Not Hispanic or Latino,Single,,Present,,,Unknown,EHR
+540,BADB,F,White,Not Hispanic or Latino,Married,1969,Present,,,Unknown,EHR
+541,BQDB,M,White,Not Hispanic or Latino,Unknown,1991,Present,,,Unknown,EHR
+542,BgDB,F,White,Not Hispanic or Latino,Single,nan,Protected,,,Unknown,EHR
+543,BwDB,F,White,Not Hispanic or Latino,Single,19,Present,,,Unknown,EHR
+544,BAEB,F,White,Not Hispanic or Latino,Unknown,,Present,,,Unknown,EHR
+545,BQEB,M,White,Not Hispanic or Latino,Married,19,Present,,,Unknown,EHR
+546,BgEB,F,Unknown,Unknown,Single,1933,Present,199912.0,Death Registry,Unknown,EHR
+547,BwEB,F,Unknown,Unknown,Married,1946,Present,199802.0,Death Registry,Unknown,EHR
+548,BAFB,F,Unknown,Unknown,Unknown,nan,Protected,,,Unknown,EHR
+549,BQFB,M,White,Not Hispanic or Latino,Married,1968,Present,,,Unknown,EHR
+550,BgFB,M,Unknown,Hispanic or Latino,Unknown,1994,Present,,,Unknown,EHR
+551,BwFB,M,White,Not Hispanic or Latino,Married,1939,Present,,,Unknown,EHR
+552,BAGB,F,White,Not Hispanic or Latino,Single,15,Present,,,Unknown,EHR
+553,BQGB,M,White,Unknown,Single,1938,Present,201007.0,Death Registry,Unknown,EHR
+554,BgGB,F,Unknown,Unknown,Unknown,1993,Present,,,Unknown,EHR
+555,BwGB,F,White,Not Hispanic or Latino,Married,19,Present,,,Unknown,EHR
+556,BAHB,F,White,Unknown,Single,1956,Present,,,Unknown,EHR
+557,BQHB,M,White,Not Hispanic or Latino,Single,1994,Present,,,Unknown,EHR
+558,BgHB,F,Asian,Not Hispanic or Latino,Married,1964,Present,,,Unknown,EHR
+559,BwHB,M,White,Unknown,Married,1936,Present,201504.0,Death Registry,Unknown,EHR
+560,BAIB,M,White,Unknown,Married,1945,Present,,,Unknown,EHR
+561,BQIB,M,White,Not Hispanic or Latino,Unknown,08,Present,,,Unknown,EHR
+562,BgIB,F,White,Not Hispanic or Latino,Unknown,1953,Present,,,Unknown,EHR
+563,BwIB,M,Black or African American,Not Hispanic or Latino,Single,1987,Present,,,Unknown,EHR
+564,BAJB,M,Unknown,Unknown,Single,1984,Present,,,Unknown,EHR
+565,BQJB,M,Unknown,Unknown,Married,19,Present,,,Unknown,EHR
+566,BgJB,F,White,Unknown,Married,1959,Present,,,Unknown,EHR
+567,BwJB,F,White,Not Hispanic or Latino,Single,1947,Present,,,Unknown,EHR
+568,BAKB,M,White,Not Hispanic or Latino,Single,19,Present,201107.0,EHR,Unknown,EHR
+569,BQKB,M,Unknown,Unknown,Married,1929,Present,199711.0,Death Registry,Unknown,EHR
+570,BgKB,M,Unknown,Unknown,Single,1935,Present,,,Unknown,EHR
+571,BwKB,M,White,Unknown,Married,1962,Present,,,Unknown,EHR
+572,BALB,M,Unknown,Unknown,Unknown,1964,Present,,,Unknown,EHR
+573,BQLB,F,White,Unknown,Married,1976,Present,,,Unknown,EHR
+574,BgLB,F,White,Not Hispanic or Latino,Married,1967,Present,,,Unknown,EHR
+575,BwLB,F,White,Not Hispanic or Latino,Single,1928,Present,201801.0,Death Registry,Unknown,EHR
+576,BAMB,F,White,Not Hispanic or Latino,Married,1961,Present,,,Unknown,EHR
+577,BQMB,M,White,Not Hispanic or Latino,Single,1948,Present,,,Unknown,EHR
+578,BgMB,F,White,Not Hispanic or Latino,Unknown,1993,Present,,,Unknown,EHR
+579,BwMB,M,Unknown,Unknown,Single,nan,Protected,,,Unknown,EHR
+580,BANB,F,Unknown,Unknown,Single,1979,Present,,,Unknown,EHR
+581,BQNB,F,White,Not Hispanic or Latino,Unknown,13,Present,,,Unknown,EHR
+582,BgNB,F,White,Not Hispanic or Latino,Married,19,Present,,,Unknown,EHR
+583,BwNB,M,Unknown,Unknown,Married,19,Present,,,Unknown,EHR
+584,BAOB,M,White,Not Hispanic or Latino,Unknown,1962,Present,,,Unknown,EHR
+585,BQOB,M,Unknown,Hispanic or Latino,Unknown,21,Present,,,Unknown,EHR
+586,BgOB,F,Asian,Not Hispanic or Latino,Single,1994,Present,,,Unknown,EHR
+587,BwOB,F,White,Not Hispanic or Latino,Unknown,1993,Present,,,Unknown,EHR
+588,BAPB,F,Unknown,Unknown,Single,1976,Present,,,Unknown,EHR
+589,BQPB,F,Unknown,Unknown,Married,nan,Protected,201508.0,Death Registry,Unknown,EHR
+590,BgPB,F,Unknown,Unknown,Unknown,1949,Present,,,Unknown,EHR
+591,BwPB,F,Unknown,Unknown,Unknown,1939,Present,,,Unknown,EHR
+592,BAQB,M,Unknown,Unknown,Unknown,02,Present,,,Unknown,EHR
+593,BQQB,F,White,Unknown,Single,1919,Present,200805.0,Death Registry,Unknown,EHR
+594,BgQB,F,Black or African American,Not Hispanic or Latino,Married,1989,Present,,,Unknown,EHR
+595,BwQB,M,Black or African American,Not Hispanic or Latino,Single,19,Present,,,Unknown,EHR
+596,BARB,F,White,Not Hispanic or Latino,Married,19,Present,,,Unknown,EHR
+597,BQRB,F,White,Unknown,Single,1962,Present,,,Unknown,EHR
+598,BgRB,M,Unknown,Unknown,Unknown,19,Present,,,Unknown,EHR
+599,BwRB,M,White,Unknown,Married,1973,Present,,,Unknown,EHR
+600,BASB,M,White,Not Hispanic or Latino,Unknown,1998,Present,,,Unknown,EHR
+601,BQSB,M,Unknown,Unknown,Unknown,12,Present,,,Unknown,EHR
+602,BgSB,F,Unknown,Hispanic or Latino,Married,1973,Present,,,Unknown,EHR
+603,BwSB,F,Unknown,Unknown,Single,04,Present,,,Unknown,EHR
+604,BATB,F,White,Not Hispanic or Latino,Married,1959,Present,,,Unknown,EHR
+605,BQTB,F,White,Not Hispanic or Latino,Single,1941,Present,202208.0,Death Registry,Unknown,EHR
+606,BgTB,F,White,Unknown,Single,1998,Present,,,Unknown,EHR
+607,BwTB,F,White,Hispanic or Latino,Unknown,1986,Present,201905.0,Death Registry,Unknown,EHR
+608,BAUB,M,White,Not Hispanic or Latino,Unknown,19,Present,,,Unknown,EHR
+609,BQUB,M,Unknown,Unknown,Single,nan,Protected,,,Unknown,EHR
+610,BgUB,F,Unknown,Unknown,Single,1993,Present,,,Unknown,EHR
+611,BwUB,M,White,Unknown,Unknown,1982,Present,,,Unknown,EHR
+612,BAVB,M,White,Not Hispanic or Latino,Married,1939,Present,201603.0,Death Registry,Unknown,EHR
+613,BQVB,M,White,Not Hispanic or Latino,Single,01,Present,,,Unknown,EHR
+614,BgVB,F,White,Not Hispanic or Latino,Married,1954,Present,,,Unknown,EHR
+615,BwVB,M,White,Unknown,Unknown,1943,Present,201605.0,Death Registry,Unknown,EHR
+616,BAWB,M,Unknown,Unknown,Single,13,Present,,,Unknown,EHR
+617,BQWB,M,Black or African American,Not Hispanic or Latino,Married,1967,Present,,,Unknown,EHR
+618,BgWB,M,Unknown,Unknown,Married,1922,Present,200109.0,Death Registry,Unknown,EHR
+619,BwWB,M,Unknown,Hispanic or Latino,Married,1961,Present,,,Unknown,EHR
+620,BAXB,F,White,Hispanic or Latino,Married,1982,Present,,,Unknown,EHR
+621,BQXB,F,Unknown,Unknown,Single,1961,Present,,,Unknown,EHR
+622,BgXB,F,Unknown,Hispanic or Latino,Unknown,1961,Present,,,Unknown,EHR
+623,BwXB,F,Unknown,Hispanic or Latino,Married,1995,Present,,,Unknown,EHR
+624,BAYB,M,Black or African American,Unknown,Married,19,Present,,,Unknown,EHR
+625,BQYB,M,Unknown,Unknown,Single,1993,Present,,,Unknown,EHR
+626,BgYB,M,Unknown,Unknown,Unknown,05,Present,,,Unknown,EHR
+627,BwYB,M,White,Unknown,Married,1982,Present,,,Unknown,EHR
+628,BAZB,F,White,Unknown,Single,1994,Present,,,Unknown,EHR
+629,BQZB,M,Unknown,Unknown,Single,1988,Present,,,Unknown,EHR
+630,BgZB,M,White,Not Hispanic or Latino,Married,1928,Present,201704.0,Death Registry,Unknown,EHR
+631,BwZB,F,Unknown,Unknown,Unknown,,Present,,,Unknown,EHR
+632,BAaB,M,White,Hispanic or Latino,Unknown,,Present,,,Unknown,EHR
+633,BQaB,F,Unknown,Not Hispanic or Latino,Unknown,,Present,,,Unknown,EHR
+634,BgaB,F,White,Hispanic or Latino,Married,1983,Present,,,Unknown,EHR
+635,BwaB,M,White,Not Hispanic or Latino,Single,1996,Present,,,Unknown,EHR
+636,BAbB,M,Asian,Not Hispanic or Latino,Single,1987,Present,,,Unknown,EHR
+637,BQbB,M,White,Unknown,Married,1966,Present,,,Unknown,EHR
+638,BgbB,M,Unknown,Hispanic or Latino,Married,1969,Present,,,Unknown,EHR
+639,BwbB,F,Unknown,Unknown,Married,19,Present,,,Unknown,EHR
+640,BAcB,F,Unknown,Unknown,Married,1964,Present,,,Unknown,EHR
+641,BQcB,M,Unknown,Unknown,Unknown,1977,Present,,,Unknown,EHR
+642,BgcB,F,Black or African American,Not Hispanic or Latino,Unknown,1978,Present,,,Unknown,EHR
+643,BwcB,F,Unknown,Unknown,Single,1957,Present,,,Unknown,EHR
+644,BAdB,M,Unknown,Hispanic or Latino,Unknown,16,Present,,,Unknown,EHR
+645,BQdB,M,Asian,Not Hispanic or Latino,Unknown,1969,Present,,,Unknown,EHR
+646,BgdB,F,Unknown,Unknown,Married,1922,Present,199608.0,Death Registry,Unknown,EHR
+647,BwdB,M,Unknown,Unknown,Single,19,Present,200801.0,Death Registry,Unknown,EHR
+648,BAeB,F,White,Unknown,Single,04,Present,,,Unknown,EHR
+649,BQeB,M,Unknown,Unknown,Unknown,06,Present,,,Unknown,EHR
+650,BgeB,M,White,Not Hispanic or Latino,Unknown,09,Present,,,Unknown,EHR
+651,BweB,F,White,Hispanic or Latino,Unknown,1956,Present,,,Unknown,EHR
+652,BAfB,F,Unknown,Hispanic or Latino,Unknown,19,Present,,,Unknown,EHR
+653,BQfB,M,White,Not Hispanic or Latino,Single,15,Present,,,Unknown,EHR
+654,BgfB,F,White,Not Hispanic or Latino,Married,1969,Present,,,Unknown,EHR
+655,BwfB,F,White,Unknown,Unknown,1941,Present,,,Unknown,EHR
+656,BAgB,M,White,Not Hispanic or Latino,Married,1965,Present,,,Unknown,EHR
+657,BQgB,F,White,Not Hispanic or Latino,Unknown,01,Present,,,Unknown,EHR
+658,BggB,F,Black or African American,Not Hispanic or Latino,Unknown,1994,Present,,,Unknown,EHR
+659,BwgB,F,White,Unknown,Single,1986,Present,,,Unknown,EHR
+660,BAhB,M,White,Not Hispanic or Latino,Single,nan,Protected,,,Unknown,EHR
+661,BQhB,F,Black or African American,Not Hispanic or Latino,Unknown,1931,Present,201606.0,Death Registry,Unknown,EHR
+662,BghB,M,White,Not Hispanic or Latino,Married,1967,Present,,,Unknown,EHR
+663,BwhB,M,Black or African American,Unknown,Single,06,Present,,,Unknown,EHR
+664,BAiB,M,Unknown,Unknown,Single,1986,Present,,,Unknown,EHR
+665,BQiB,F,White,Unknown,Single,1924,Present,201109.0,Death Registry,Unknown,EHR
+666,BgiB,F,Black or African American,Unknown,Single,19,Present,,,Unknown,EHR
+667,BwiB,F,Unknown,Unknown,Single,1983,Present,,,Unknown,EHR
+668,BAjB,M,White,Unknown,Single,1997,Present,,,Unknown,EHR
+669,BQjB,M,White,Unknown,Unknown,19,Present,201109.0,EHR,Unknown,EHR
+670,BgjB,F,Unknown,Unknown,Single,nan,Protected,201306.0,Death Registry,Unknown,EHR
+671,BwjB,F,Unknown,Hispanic or Latino,Unknown,1993,Present,,,Unknown,EHR
+672,BAkB,M,White,Unknown,Unknown,1952,Present,,,Unknown,EHR
+673,BQkB,M,White,Not Hispanic or Latino,Married,1954,Present,,,Unknown,EHR
+674,BgkB,F,White,Unknown,Married,1963,Present,,,Unknown,EHR
+675,BwkB,F,White,Not Hispanic or Latino,Married,1968,Present,,,Unknown,EHR
+676,BAlB,F,White,Not Hispanic or Latino,Unknown,1988,Present,,,Unknown,EHR
+677,BQlB,F,Unknown,Unknown,Married,1915,Present,199808.0,Death Registry,Unknown,EHR
+678,BglB,F,White,Unknown,Married,1983,Present,,,Unknown,EHR
+679,BwlB,F,White,Unknown,Married,1966,Present,,,Unknown,EHR
+680,BAmB,F,Unknown,Not Hispanic or Latino,Married,1974,Present,,,Unknown,EHR
+681,BQmB,M,White,Not Hispanic or Latino,Unknown,13,Present,,,Unknown,EHR
+682,BgmB,F,Black or African American,Unknown,Single,1978,Present,,,Unknown,EHR
+683,BwmB,F,Unknown,Hispanic or Latino,Unknown,1994,Present,,,Unknown,EHR
+684,BAnB,M,Unknown,Unknown,Unknown,1941,Present,,,Unknown,EHR
+685,BQnB,M,White,Unknown,Married,19,Present,,,Unknown,EHR
+686,BgnB,F,White,Unknown,Single,1956,Present,,,Unknown,EHR
+687,BwnB,M,White,Not Hispanic or Latino,Unknown,1945,Present,,,Unknown,EHR
+688,BAoB,F,White,Unknown,Single,1974,Present,,,Unknown,EHR
+689,BQoB,F,Unknown,Unknown,Single,19,Present,,,Unknown,EHR
+690,BgoB,F,White,Hispanic or Latino,Married,1935,Present,,,Unknown,EHR
+691,BwoB,M,Unknown,Unknown,Single,1943,Present,,,Unknown,EHR
+692,BApB,F,Unknown,Unknown,Married,1987,Present,,,Unknown,EHR
+693,BQpB,F,White,Not Hispanic or Latino,Unknown,1972,Present,,,Unknown,EHR
+694,BgpB,M,White,Not Hispanic or Latino,Single,1945,Present,201601.0,Death Registry,Unknown,EHR
+695,BwpB,F,White,Not Hispanic or Latino,Single,nan,Protected,,,Unknown,EHR
+696,BAqB,F,White,Not Hispanic or Latino,Married,1974,Present,,,Unknown,EHR
+697,BQqB,M,White,Not Hispanic or Latino,Unknown,1995,Present,,,Unknown,EHR
+698,BgqB,M,Unknown,Hispanic or Latino,Single,04,Present,,,Unknown,EHR
+699,BwqB,M,Unknown,Unknown,Single,1952,Present,,,Unknown,EHR
+700,BArB,F,Unknown,Unknown,Single,1948,Present,201708.0,Death Registry,Unknown,EHR
+701,BQrB,M,Unknown,Unknown,Unknown,11,Present,,,Unknown,EHR
+702,BgrB,M,Unknown,Hispanic or Latino,Married,1974,Present,,,Unknown,EHR
+703,BwrB,F,Unknown,Unknown,Single,1978,Present,,,Unknown,EHR
+704,BAsB,M,White,Unknown,Single,1932,Present,201001.0,Death Registry,Unknown,EHR
+705,BQsB,F,White,Not Hispanic or Latino,Unknown,1969,Present,,,Unknown,EHR
+706,BgsB,F,White,Not Hispanic or Latino,Married,1953,Present,,,Unknown,EHR
+707,BwsB,M,White,Unknown,Single,1925,Present,200810.0,Death Registry,Unknown,EHR
+708,BAtB,M,Unknown,Unknown,Single,1917,Present,200101.0,Death Registry,Unknown,EHR
+709,BQtB,F,Unknown,Not Hispanic or Latino,Unknown,1949,Present,,,Unknown,EHR
+710,BgtB,M,White,Not Hispanic or Latino,Married,19,Present,,,Unknown,EHR
+711,BwtB,M,White,Unknown,Single,19,Present,200701.0,Death Registry,Unknown,EHR
+712,BAuB,F,White,Unknown,Single,1981,Present,,,Unknown,EHR
+713,BQuB,F,Black or African American,Not Hispanic or Latino,Unknown,19,Present,,,Unknown,EHR
+714,BguB,F,White,Not Hispanic or Latino,Married,1964,Present,,,Unknown,EHR
+715,BwuB,M,White,Unknown,Married,1957,Present,,,Unknown,EHR
+716,BAvB,M,White,Not Hispanic or Latino,Unknown,1978,Present,,,Unknown,EHR
+717,BQvB,M,Unknown,Unknown,Unknown,18,Present,,,Unknown,EHR
+718,BgvB,M,White,Hispanic or Latino,Married,1976,Present,,,Unknown,EHR
+719,BwvB,M,White,Not Hispanic or Latino,Married,1978,Present,,,Unknown,EHR
+720,BAwB,F,Unknown,Unknown,Single,nan,Protected,,,Unknown,EHR
+721,BQwB,F,White,Unknown,Single,1995,Present,,,Unknown,EHR
+722,BgwB,M,White,Not Hispanic or Latino,Unknown,07,Present,,,Unknown,EHR
+723,BwwB,M,White,Unknown,Single,04,Present,,,Unknown,EHR
+724,BAxB,F,White,Not Hispanic or Latino,Married,1966,Present,,,Unknown,EHR
+725,BQxB,M,White,Unknown,Single,,Present,,,Unknown,EHR
+726,BgxB,F,White,Not Hispanic or Latino,Married,1938,Present,,,Unknown,EHR
+727,BwxB,M,White,Not Hispanic or Latino,Married,1934,Present,202105.0,Death Registry,Unknown,EHR
+728,BAyB,F,Unknown,Unknown,Single,1949,Present,,,Unknown,EHR
+729,BQyB,M,White,Not Hispanic or Latino,Unknown,1966,Present,,,Unknown,EHR
+730,BgyB,F,White,Not Hispanic or Latino,Married,1946,Present,,,Unknown,EHR
+731,BwyB,F,White,Unknown,Married,1958,Present,,,Unknown,EHR
+732,BAzB,F,Unknown,Unknown,Unknown,1999,Present,,,Unknown,EHR
+733,BQzB,F,Unknown,Unknown,Single,nan,Protected,,,Unknown,EHR
+734,BgzB,F,White,Hispanic or Latino,Unknown,02,Present,,,Unknown,EHR
+735,BwzB,F,White,Not Hispanic or Latino,Unknown,1995,Present,,,Unknown,EHR
+736,BA0B,F,Unknown,Unknown,Unknown,1952,Present,,,Unknown,EHR
+737,BQ0B,F,White,Unknown,Unknown,19,Present,,,Unknown,EHR
+738,Bg0B,F,White,Not Hispanic or Latino,Single,09,Present,,,Unknown,EHR
+739,Bw0B,M,Black or African American,Not Hispanic or Latino,Unknown,1964,Present,,,Unknown,EHR
+740,BA1B,F,Unknown,Unknown,Single,nan,Protected,200209.0,Death Registry,Unknown,EHR
+741,BQ1B,M,Unknown,Unknown,Unknown,16,Present,,,Unknown,EHR
+742,Bg1B,F,Black or African American,Not Hispanic or Latino,Unknown,1993,Present,,,Unknown,EHR
+743,Bw1B,F,White,Unknown,Single,02,Present,,,Unknown,EHR
+744,BA2B,F,Asian,Unknown,Married,19,Present,,,Unknown,EHR
+745,BQ2B,F,White,Not Hispanic or Latino,Unknown,19,Present,,,Unknown,EHR
+746,Bg2B,M,White,Not Hispanic or Latino,Single,12,Present,,,Unknown,EHR
+747,Bw2B,F,Unknown,Unknown,Single,19,Present,,,Unknown,EHR
+748,BA3B,F,White,Not Hispanic or Latino,Single,1992,Present,,,Unknown,EHR
+749,BQ3B,M,White,Unknown,Married,1965,Present,,,Unknown,EHR
+750,Bg3B,M,White,Unknown,Married,1965,Present,,,Unknown,EHR
+751,Bw3B,F,White,Not Hispanic or Latino,Single,1942,Present,,,Unknown,EHR
+752,BA4B,M,Unknown,Unknown,Unknown,1997,Present,,,Unknown,EHR
+753,BQ4B,M,Unknown,Unknown,Single,1973,Present,,,Unknown,EHR
+754,Bg4B,M,White,Unknown,Single,07,Present,,,Unknown,EHR
+755,Bw4B,M,Unknown,Unknown,Single,1955,Present,,,Unknown,EHR
+756,BA5B,M,White,Not Hispanic or Latino,Married,1944,Present,,,Unknown,EHR
+757,BQ5B,F,White,Unknown,Unknown,1998,Present,,,Unknown,EHR
+758,Bg5B,F,Unknown,Unknown,Unknown,1973,Present,,,Unknown,EHR
+759,Bw5B,F,White,Unknown,Single,1943,Present,201604.0,Death Registry,Unknown,EHR
+760,BA6B,F,Black or African American,Not Hispanic or Latino,Unknown,1993,Present,,,Unknown,EHR
+761,BQ6B,M,White,Not Hispanic or Latino,Single,11,Present,,,Unknown,EHR
+762,Bg6B,M,White,Not Hispanic or Latino,Married,1947,Present,201504.0,Death Registry,Unknown,EHR
+763,Bw6B,M,Unknown,Unknown,Unknown,1969,Present,,,Unknown,EHR
+764,BA7B,F,Unknown,Unknown,Single,05,Present,,,Unknown,EHR
+765,BQ7B,F,White,Not Hispanic or Latino,Unknown,1989,Present,,,Unknown,EHR
+766,Bg7B,F,White,Not Hispanic or Latino,Unknown,,Present,,,Unknown,EHR
+767,Bw7B,M,Unknown,Unknown,Married,19,Present,,,Unknown,EHR
+768,BA8B,M,White,Hispanic or Latino,Unknown,19,Present,,,Unknown,EHR
+769,BQ8B,F,White,Unknown,Unknown,1986,Present,,,Unknown,EHR
+770,Bg8B,F,White,Unknown,Married,1947,Present,200301.0,Death Registry,Unknown,EHR
+771,Bw8B,M,White,Unknown,Single,1991,Present,,,Unknown,EHR
+772,BA9B,M,Unknown,Unknown,Unknown,1963,Present,,,Unknown,EHR
+773,BQ9B,M,White,Not Hispanic or Latino,Married,1951,Present,201410.0,EHR,Unknown,EHR
+774,Bg9B,M,White,Unknown,Single,1965,Present,,,Unknown,EHR
+775,Bw9B,F,White,Not Hispanic or Latino,Single,13,Present,,,Unknown,EHR
+776,BA_B,M,Unknown,Unknown,Unknown,1972,Present,,,Unknown,EHR
+777,BQ_B,M,White,Hispanic or Latino,Unknown,08,Present,,,Unknown,EHR
+778,Bg_B,M,White,Not Hispanic or Latino,Married,1972,Present,,,Unknown,EHR
+779,Bw_B,F,White,Unknown,Married,1965,Present,,,Unknown,EHR
+780,BA#B,F,Unknown,Unknown,Single,nan,Protected,,,Unknown,EHR
+781,BQ#B,F,Unknown,Unknown,Unknown,1956,Present,,,Unknown,EHR
+782,Bg#B,M,White,Not Hispanic or Latino,Unknown,1959,Present,,,Unknown,EHR
+783,Bw#B,M,White,Unknown,Single,1967,Present,,,Unknown,EHR
+784,BAAC,M,Unknown,Unknown,Single,1997,Present,,,Unknown,EHR
+785,BQAC,F,White,Not Hispanic or Latino,Unknown,1982,Present,,,Unknown,EHR
+786,BgAC,F,White,Not Hispanic or Latino,Married,1954,Present,,,Unknown,EHR
+787,BwAC,M,White,Unknown,Single,1949,Present,200509.0,Death Registry,Unknown,EHR
+788,BABC,F,White,Unknown,Married,1954,Present,,,Unknown,EHR
+789,BQBC,M,White,Not Hispanic or Latino,Unknown,1995,Present,,,Unknown,EHR
+790,BgBC,M,Unknown,Unknown,Married,1915,Present,199311.0,Death Registry,Unknown,EHR
+791,BwBC,M,White,Not Hispanic or Latino,Unknown,02,Present,,,Unknown,EHR
+792,BACC,M,Asian,Not Hispanic or Latino,Single,1986,Present,,,Unknown,EHR
+793,BQCC,F,White,Unknown,Unknown,01,Present,,,Unknown,EHR
+794,BgCC,M,Black or African American,Unknown,Married,19,Present,,,Unknown,EHR
+795,BwCC,F,Unknown,Unknown,Single,1966,Present,,,Unknown,EHR
+796,BADC,M,White,Unknown,Single,1992,Present,,,Unknown,EHR
+797,BQDC,M,White,Not Hispanic or Latino,Married,1949,Present,202012.0,EHR,Unknown,EHR
+798,BgDC,M,White,Not Hispanic or Latino,Single,1934,Present,201911.0,EHR,Unknown,EHR
+799,BwDC,M,Asian,Not Hispanic or Latino,Married,1959,Present,,,Unknown,EHR
+800,BAEC,F,Unknown,Unknown,Unknown,1985,Present,,,Unknown,EHR
+801,BQEC,F,White,Not Hispanic or Latino,Unknown,08,Present,,,Unknown,EHR
+802,BgEC,F,White,Unknown,Unknown,1935,Present,200912.0,Death Registry,Unknown,EHR
+803,BwEC,F,White,Unknown,Single,1984,Present,,,Unknown,EHR
+804,BAFC,F,White,Unknown,Unknown,1966,Present,,,Unknown,EHR
+805,BQFC,F,Asian,Unknown,Single,1975,Present,,,Unknown,EHR
+806,BgFC,F,White,Unknown,Married,1938,Present,,,Unknown,EHR
+807,BwFC,M,Black or African American,Unknown,Married,1945,Present,,,Unknown,EHR
+808,BAGC,F,Unknown,Unknown,Married,1959,Present,,,Unknown,EHR
+809,BQGC,M,White,Unknown,Single,01,Present,,,Unknown,EHR
+810,BgGC,F,White,Unknown,Unknown,1965,Present,,,Unknown,EHR
+811,BwGC,F,Unknown,Unknown,Single,nan,Protected,,,Unknown,EHR
+812,BAHC,F,White,Unknown,Single,1989,Present,,,Unknown,EHR
+813,BQHC,M,Black or African American,Not Hispanic or Latino,Married,1942,Present,,,Unknown,EHR
+814,BgHC,M,White,Unknown,Single,1973,Present,,,Unknown,EHR
+815,BwHC,M,Unknown,Unknown,Single,19,Present,,,Unknown,EHR
+816,BAIC,F,Unknown,Hispanic or Latino,Married,1986,Present,,,Unknown,EHR
+817,BQIC,F,Unknown,Unknown,Single,1929,Present,199701.0,Death Registry,Unknown,EHR
+818,BgIC,F,Unknown,Unknown,Single,1971,Present,,,Unknown,EHR
+819,BwIC,M,American Indian or Alaska Native,Not Hispanic or Latino,Married,1984,Present,,,Unknown,EHR
+820,BAJC,F,Unknown,Unknown,Unknown,02,Present,,,Unknown,EHR
+821,BQJC,M,Unknown,Unknown,Unknown,12,Present,,,Unknown,EHR
+822,BgJC,F,White,Not Hispanic or Latino,Married,1962,Present,,,Unknown,EHR
+823,BwJC,F,Unknown,Unknown,Single,1991,Present,,,Unknown,EHR
+824,BAKC,F,White,Not Hispanic or Latino,Married,1968,Present,,,Unknown,EHR
+825,BQKC,F,White,Unknown,Unknown,1989,Present,,,Unknown,EHR
+826,BgKC,F,Unknown,Unknown,Married,1976,Present,,,Unknown,EHR
+827,BwKC,F,White,Not Hispanic or Latino,Single,1965,Present,,,Unknown,EHR
+828,BALC,F,Unknown,Unknown,Single,1971,Present,,,Unknown,EHR
+829,BQLC,M,White,Not Hispanic or Latino,Married,1955,Present,,,Unknown,EHR
+830,BgLC,M,White,Unknown,Married,19,Present,201004.0,Death Registry,Unknown,EHR
+831,BwLC,M,White,Not Hispanic or Latino,Unknown,1984,Present,,,Unknown,EHR
+832,BAMC,F,Unknown,Unknown,Married,19,Present,,,Unknown,EHR
+833,BQMC,M,White,Not Hispanic or Latino,Married,1966,Present,,,Unknown,EHR
+834,BgMC,M,Asian,Not Hispanic or Latino,Married,19,Present,,,Unknown,EHR
+835,BwMC,M,White,Not Hispanic or Latino,Married,19,Present,202209.0,Death Registry,Unknown,EHR
+836,BANC,M,White,Not Hispanic or Latino,Married,1946,Present,,,Unknown,EHR
+837,BQNC,M,Black or African American,Not Hispanic or Latino,Unknown,07,Present,,,Unknown,EHR
+838,BgNC,F,White,Not Hispanic or Latino,Married,1982,Present,,,Unknown,EHR
+839,BwNC,M,White,Not Hispanic or Latino,Married,1943,Present,201611.0,Death Registry,Unknown,EHR
+840,BAOC,F,White,Not Hispanic or Latino,Married,1977,Present,,,Unknown,EHR
+841,BQOC,F,Unknown,Unknown,Single,19,Present,,,Unknown,EHR
+842,BgOC,M,Unknown,Unknown,Single,1989,Present,,,Unknown,EHR
+843,BwOC,M,Unknown,Unknown,Unknown,1955,Present,,,Unknown,EHR
+844,BAPC,M,White,Unknown,Single,04,Present,,,Unknown,EHR
+845,BQPC,F,White,Not Hispanic or Latino,Single,09,Present,,,Unknown,EHR
+846,BgPC,M,White,Not Hispanic or Latino,Single,1999,Present,,,Unknown,EHR
+847,BwPC,F,White,Unknown,Married,1983,Present,,,Unknown,EHR
+848,BAQC,M,White,Not Hispanic or Latino,Unknown,15,Present,,,Unknown,EHR
+849,BQQC,F,White,Unknown,Unknown,1987,Present,,,Unknown,EHR
+850,BgQC,F,White,Not Hispanic or Latino,Single,1999,Present,,,Unknown,EHR
+851,BwQC,M,White,Not Hispanic or Latino,Married,1951,Present,,,Unknown,EHR
+852,BARC,F,Unknown,Unknown,Unknown,1977,Present,,,Unknown,EHR
+853,BQRC,F,White,Unknown,Single,19,Present,,,Unknown,EHR
+854,BgRC,F,Asian,Not Hispanic or Latino,Married,1968,Present,,,Unknown,EHR
+855,BwRC,M,White,Not Hispanic or Latino,Married,1955,Present,,,Unknown,EHR
+856,BASC,F,White,Not Hispanic or Latino,Single,1993,Present,,,Unknown,EHR
+857,BQSC,F,White,Unknown,Unknown,1957,Present,,,Unknown,EHR
+858,BgSC,F,Unknown,Unknown,Unknown,21,Present,,,Unknown,EHR
+859,BwSC,F,White,Not Hispanic or Latino,Single,1981,Present,,,Unknown,EHR
+860,BATC,F,White,Not Hispanic or Latino,Married,1935,Present,,,Unknown,EHR
+861,BQTC,M,Unknown,Unknown,Unknown,1993,Present,,,Unknown,EHR
+862,BgTC,F,White,Unknown,Unknown,1994,Present,,,Unknown,EHR
+863,BwTC,M,White,Unknown,Unknown,19,Present,,,Unknown,EHR
+864,BAUC,F,White,Hispanic or Latino,Married,1982,Present,,,Unknown,EHR
+865,BQUC,M,White,Unknown,Married,nan,Protected,201301.0,Death Registry,Unknown,EHR
+866,BgUC,M,Asian,Not Hispanic or Latino,Single,,Present,,,Unknown,EHR
+867,BwUC,F,Unknown,Unknown,Single,1962,Present,,,Unknown,EHR
+868,BAVC,F,Black or African American,Not Hispanic or Latino,Unknown,18,Present,,,Unknown,EHR
+869,BQVC,M,Unknown,Hispanic or Latino,Unknown,19,Present,,,Unknown,EHR
+870,BgVC,F,White,Not Hispanic or Latino,Unknown,,Present,,,Unknown,EHR
+871,BwVC,M,White,Not Hispanic or Latino,Married,1952,Present,,,Unknown,EHR
+872,BAWC,M,White,Not Hispanic or Latino,Unknown,14,Present,,,Unknown,EHR
+873,BQWC,F,White,Unknown,Unknown,04,Present,,,Unknown,EHR
+874,BgWC,M,Unknown,Unknown,Unknown,1937,Present,201610.0,Death Registry,Unknown,EHR
+875,BwWC,F,White,Not Hispanic or Latino,Single,nan,Protected,201310.0,Death Registry,Unknown,EHR
+876,BAXC,F,White,Not Hispanic or Latino,Single,1947,Present,,,Unknown,EHR
+877,BQXC,F,White,Not Hispanic or Latino,Single,1959,Present,,,Unknown,EHR
+878,BgXC,F,Unknown,Unknown,Unknown,04,Present,,,Unknown,EHR
+879,BwXC,M,Unknown,Not Hispanic or Latino,Married,1963,Present,,,Unknown,EHR
+880,BAYC,F,Unknown,Unknown,Unknown,03,Present,,,Unknown,EHR
+881,BQYC,F,Unknown,Unknown,Married,1945,Present,199711.0,Death Registry,Unknown,EHR
+882,BgYC,F,Unknown,Unknown,Unknown,1991,Present,,,Unknown,EHR
+883,BwYC,M,Unknown,Unknown,Unknown,19,Present,,,Unknown,EHR
+884,BAZC,M,White,Not Hispanic or Latino,Married,1958,Present,,,Unknown,EHR
+885,BQZC,M,Unknown,Unknown,Single,1967,Present,,,Unknown,EHR
+886,BgZC,F,Unknown,Unknown,Single,1964,Present,,,Unknown,EHR
+887,BwZC,M,White,Not Hispanic or Latino,Unknown,02,Present,,,Unknown,EHR
+888,BAaC,F,White,Unknown,Single,1977,Present,,,Unknown,EHR
+889,BQaC,F,Unknown,Unknown,Unknown,17,Present,,,Unknown,EHR
+890,BgaC,F,White,Unknown,Single,1974,Present,,,Unknown,EHR
+891,BwaC,M,White,Not Hispanic or Latino,Unknown,1996,Present,,,Unknown,EHR
+892,BAbC,F,White,Not Hispanic or Latino,Unknown,1998,Present,,,Unknown,EHR
+893,BQbC,F,White,Not Hispanic or Latino,Unknown,1958,Present,,,Unknown,EHR
+894,BgbC,M,White,Hispanic or Latino,Unknown,15,Present,,,Unknown,EHR
+895,BwbC,M,White,Not Hispanic or Latino,Unknown,1976,Present,,,Unknown,EHR
+896,BAcC,M,Unknown,Not Hispanic or Latino,Married,1949,Present,,,Unknown,EHR
+897,BQcC,F,White,Not Hispanic or Latino,Single,1998,Present,,,Unknown,EHR
+898,BgcC,F,White,Not Hispanic or Latino,Married,1951,Present,,,Unknown,EHR
+899,BwcC,F,White,Not Hispanic or Latino,Unknown,,Present,,,Unknown,EHR
+900,BAdC,F,Unknown,Unknown,Unknown,1958,Present,,,Unknown,EHR
+901,BQdC,F,White,Unknown,Single,07,Present,,,Unknown,EHR
+902,BgdC,M,White,Unknown,Married,nan,Protected,,,Unknown,EHR
+903,BwdC,M,Unknown,Unknown,Single,,Present,,,Unknown,EHR
+904,BAeC,M,Unknown,Hispanic or Latino,Unknown,19,Present,,,Unknown,EHR
+905,BQeC,M,White,Unknown,Married,1942,Present,,,Unknown,EHR
+906,BgeC,M,White,Not Hispanic or Latino,Married,1952,Present,,,Unknown,EHR
+907,BweC,M,Unknown,Not Hispanic or Latino,Married,1957,Present,,,Unknown,EHR
+908,BAfC,F,White,Not Hispanic or Latino,Single,1944,Present,,,Unknown,EHR
+909,BQfC,M,Unknown,Unknown,Unknown,01,Present,,,Unknown,EHR
+910,BgfC,F,White,Not Hispanic or Latino,Unknown,1963,Present,202205.0,Death Registry,Unknown,EHR
+911,BwfC,M,White,Not Hispanic or Latino,Unknown,,Present,,,Unknown,EHR
+912,BAgC,F,Black or African American,Unknown,Single,1979,Present,,,Unknown,EHR
+913,BQgC,M,White,Not Hispanic or Latino,Married,1963,Present,,,Unknown,EHR
+914,BggC,M,Black or African American,Not Hispanic or Latino,Unknown,1979,Present,,,Unknown,EHR
+915,BwgC,M,Unknown,Unknown,Unknown,1981,Present,,,Unknown,EHR
+916,BAhC,M,Unknown,Unknown,Married,1975,Present,,,Unknown,EHR
+917,BQhC,M,Unknown,Hispanic or Latino,Married,1981,Present,,,Unknown,EHR
+918,BghC,M,White,Hispanic or Latino,Unknown,1996,Present,,,Unknown,EHR
+919,BwhC,F,White,Unknown,Single,01,Present,,,Unknown,EHR
+920,BAiC,M,White,Unknown,Unknown,1988,Present,,,Unknown,EHR
+921,BQiC,F,Unknown,Not Hispanic or Latino,Married,1977,Present,,,Unknown,EHR
+922,BgiC,F,Unknown,Unknown,Unknown,12,Present,,,Unknown,EHR
+923,BwiC,F,White,Hispanic or Latino,Married,1978,Present,,,Unknown,EHR
+924,BAjC,F,Unknown,Unknown,Single,nan,Protected,200808.0,Death Registry,Unknown,EHR
+925,BQjC,M,White,Not Hispanic or Latino,Unknown,05,Present,,,Unknown,EHR
+926,BgjC,F,Unknown,Unknown,Unknown,02,Present,,,Unknown,EHR
+927,BwjC,F,Black or African American,Not Hispanic or Latino,Unknown,04,Present,,,Unknown,EHR
+928,BAkC,F,Unknown,Unknown,Unknown,17,Present,,,Unknown,EHR
+929,BQkC,F,Black or African American,Not Hispanic or Latino,Unknown,01,Present,,,Unknown,EHR
+930,BgkC,F,American Indian or Alaska Native,Not Hispanic or Latino,Single,1991,Present,,,Unknown,EHR
+931,BwkC,F,Black or African American,Not Hispanic or Latino,Unknown,05,Present,,,Unknown,EHR
+932,BAlC,M,White,Not Hispanic or Latino,Unknown,1993,Present,,,Unknown,EHR
+933,BQlC,M,White,Unknown,Married,1945,Present,,,Unknown,EHR
+934,BglC,M,White,Not Hispanic or Latino,Married,1983,Present,,,Unknown,EHR
+935,BwlC,F,Unknown,Unknown,Married,1917,Present,200309.0,Death Registry,Unknown,EHR
+936,BAmC,F,White,Not Hispanic or Latino,Married,1943,Present,,,Unknown,EHR
+937,BQmC,M,White,Hispanic or Latino,Unknown,nan,Protected,201401.0,Death Registry,Unknown,EHR
+938,BgmC,M,Asian,Not Hispanic or Latino,Married,1933,Present,201111.0,Death Registry,Unknown,EHR
+939,BwmC,F,American Indian or Alaska Native,Unknown,Married,1929,Present,201204.0,Death Registry,Unknown,EHR
+940,BAnC,M,Unknown,Not Hispanic or Latino,Unknown,1976,Present,201212.0,EHR,Unknown,EHR
+941,BQnC,F,Unknown,Unknown,Unknown,1994,Present,,,Unknown,EHR
+942,BgnC,F,White,Not Hispanic or Latino,Unknown,,Present,,,Unknown,EHR
+943,BwnC,F,Unknown,Unknown,Unknown,01,Present,201303.0,Death Registry,Unknown,EHR
+944,BAoC,F,Black or African American,Unknown,Single,19,Present,,,Unknown,EHR
+945,BQoC,M,White,Unknown,Unknown,1986,Present,,,Unknown,EHR
+946,BgoC,F,White,Not Hispanic or Latino,Single,1949,Present,,,Unknown,EHR
+947,BwoC,F,White,Not Hispanic or Latino,Unknown,1948,Present,,,Unknown,EHR
+948,BApC,M,Unknown,Unknown,Unknown,1937,Present,,,Unknown,EHR
+949,BQpC,M,Unknown,Unknown,Single,19,Present,,,Unknown,EHR
+950,BgpC,F,White,Unknown,Married,1965,Present,,,Unknown,EHR
+951,BwpC,M,White,Unknown,Married,1968,Present,,,Unknown,EHR
+952,BAqC,F,White,Not Hispanic or Latino,Unknown,,Present,,,Unknown,EHR
+953,BQqC,F,White,Unknown,Single,03,Present,,,Unknown,EHR
+954,BgqC,M,White,Unknown,Married,1973,Present,,,Unknown,EHR
+955,BwqC,M,Unknown,Hispanic or Latino,Unknown,,Present,,,Unknown,EHR
+956,BArC,F,White,Unknown,Single,1978,Present,,,Unknown,EHR
+957,BQrC,F,White,Unknown,Single,1999,Present,,,Unknown,EHR
+958,BgrC,F,White,Unknown,Married,1964,Present,,,Unknown,EHR
+959,BwrC,M,White,Unknown,Single,1961,Present,,,Unknown,EHR
+960,BAsC,M,White,Not Hispanic or Latino,Married,1961,Present,,,Unknown,EHR
+961,BQsC,F,White,Not Hispanic or Latino,Married,1976,Present,,,Unknown,EHR
+962,BgsC,M,Unknown,Unknown,Unknown,1991,Present,,,Unknown,EHR
+963,BwsC,M,Unknown,Unknown,Single,19,Present,,,Unknown,EHR
+964,BAtC,F,Unknown,Hispanic or Latino,Unknown,1987,Present,,,Unknown,EHR
+965,BQtC,F,Unknown,Unknown,Unknown,1951,Present,,,Unknown,EHR
+966,BgtC,M,Unknown,Unknown,Single,1977,Present,,,Unknown,EHR
+967,BwtC,F,White,Not Hispanic or Latino,Single,1958,Present,,,Unknown,EHR
+968,BAuC,M,White,Not Hispanic or Latino,Unknown,14,Present,,,Unknown,EHR
+969,BQuC,M,White,Unknown,Single,1976,Present,,,Unknown,EHR
+970,BguC,F,White,Unknown,Unknown,1947,Present,,,Unknown,EHR
+971,BwuC,F,White,Not Hispanic or Latino,Married,nan,Protected,,,Unknown,EHR
+972,BAvC,F,Unknown,Unknown,Single,1975,Present,,,Unknown,EHR
+973,BQvC,F,Black or African American,Not Hispanic or Latino,Unknown,19,Present,,,Unknown,EHR
+974,BgvC,F,White,Not Hispanic or Latino,Single,1949,Present,,,Unknown,EHR
+975,BwvC,F,White,Not Hispanic or Latino,Married,1939,Present,,,Unknown,EHR
+976,BAwC,F,Black or African American,Not Hispanic or Latino,Single,1987,Present,,,Unknown,EHR
+977,BQwC,M,Unknown,Unknown,Single,1999,Present,,,Unknown,EHR
+978,BgwC,F,Black or African American,Not Hispanic or Latino,Unknown,04,Present,,,Unknown,EHR
+979,BwwC,M,White,Unknown,Married,1966,Present,,,Unknown,EHR
+980,BAxC,F,White,Not Hispanic or Latino,Unknown,1958,Present,202004.0,Death Registry,Unknown,EHR
+981,BQxC,F,Unknown,Hispanic or Latino,Married,1965,Present,,,Unknown,EHR
+982,BgxC,F,White,Not Hispanic or Latino,Married,1949,Present,,,Unknown,EHR
+983,BwxC,M,Unknown,Hispanic or Latino,Married,1981,Present,202203.0,Death Registry,Unknown,EHR
+984,BAyC,M,White,Not Hispanic or Latino,Married,19,Present,,,Unknown,EHR
+985,BQyC,F,Unknown,Unknown,Single,1964,Present,,,Unknown,EHR
+986,BgyC,F,White,Not Hispanic or Latino,Unknown,19,Present,,,Unknown,EHR
+987,BwyC,F,White,Not Hispanic or Latino,Unknown,18,Present,,,Unknown,EHR
+988,BAzC,M,White,Not Hispanic or Latino,Unknown,17,Present,,,Unknown,EHR
+989,BQzC,F,White,Not Hispanic or Latino,Unknown,1936,Present,202211.0,EHR,Unknown,EHR
+990,BgzC,F,White,Unknown,Unknown,1963,Present,,,Unknown,EHR
+991,BwzC,M,White,Unknown,Single,19,Present,,,Unknown,EHR
+992,BA0C,M,Unknown,Unknown,Married,1969,Present,,,Unknown,EHR
+993,BQ0C,M,White,Not Hispanic or Latino,Married,1984,Present,,,Unknown,EHR
+994,Bg0C,F,White,Not Hispanic or Latino,Unknown,1984,Present,,,Unknown,EHR
+995,Bw0C,F,White,Not Hispanic or Latino,Single,1973,Present,,,Unknown,EHR
+996,BA1C,M,White,Not Hispanic or Latino,Married,1968,Present,,,Unknown,EHR
+997,BQ1C,M,White,Unknown,Married,19,Present,201507.0,Death Registry,Unknown,EHR
+998,Bg1C,M,Unknown,Not Hispanic or Latino,Married,1978,Present,,,Unknown,EHR
+999,Bw1C,F,Unknown,Unknown,Married,1967,Present,,,Unknown,EHR
