@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flask Binge Drinking App</title>
+</head>
+<body>
+
+<h2>Binge Drinking Age-adjusted Prevalence in NY by County</h2>
+
+<form method="post">
+    <select name="county" onchange="this.form.submit()">
+        {% for county in counties %}
+        <option value="{{ county }}" {% if county == selected_county %} selected {% endif %}>{{ county }}</option>
+        {% endfor %}
+    </select>
+</form>
+
+<img src="data:image/png;base64,{{ img }}" alt="Binge Drinking Visualization" />
+
+</body>
+</html>
