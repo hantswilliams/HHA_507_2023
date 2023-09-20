@@ -1,6 +1,6 @@
 ---
 marp: true
-title: DBs
+title: Jupyter
 paginate: true
 theme: default
 ---
@@ -78,6 +78,11 @@ Ensuring that they are activated:
 !jupyter nbextension enable --py widgetsnbextension
 ```
 
+If working within Google Shell, will also need to pip install Jupyter and extensions
+```shell
+pip install jupyter jupyter_contrib_nbextensions
+```
+
 ---
 
 # Ipywidgets 
@@ -139,7 +144,9 @@ def plot_data(County):
 
 # Google Shell with Violà - Notebook
 
-1. `pip install voila`
+In the future in 504, we will see how we can deploy `voila` using a VM in Azure or GCP as well...
+
+1. `pip install voila jupyter_server`
 2. Create or load the notebook
 3. Run viola: `voila your_notebook_name.ipynb`
 
