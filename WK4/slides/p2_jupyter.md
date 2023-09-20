@@ -6,7 +6,7 @@ theme: default
 ---
 
 
-# Jupyter Notebooks for Visualization
+# Jupyter Notebooks for Visualization (10 slides)
 
 ---
 

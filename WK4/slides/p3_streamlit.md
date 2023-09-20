@@ -6,7 +6,7 @@ theme: default
 ---
 
 
-# Streamlit for Health Informatics
+# Streamlit for Health Informatics (6 slides)
 
 Streamlit offers a rapid way to turn data scripts into interactive web applications.
 

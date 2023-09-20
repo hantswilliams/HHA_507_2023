@@ -5,9 +5,9 @@ paginate: true
 size: 16:9
 ---
 
-# Introduction to Shiny
+# Introduction to Shiny (20 slides)
 
-A powerful tool for creating interactive web apps straight from R (or now Python!).
+A powerful tool for creating interactive web apps straight developed first in R (but now also in Python!)
 
 ---
 
@@ -167,6 +167,25 @@ shinyApp(ui = ui, server = server)
 
 ---
 
+# Shiny Python Components 
+
+
+1. **UI** (User Interface): Defines how the app looks.
+2. **Server**: Contains the logic; reacts to user input and changes the output.
+3. **App**: Combines UI and Server.
+
+
+```python
+from shiny import App, ui
+
+app_ui = ui.page_fluid("Hello, world!")
+def server(input, output, session): ...
+app = App(app_ui, server)
+```
+
+---
+
+
 # Reactive Programming
 
 Shiny is built on the concept of reactivity.
@@ -196,6 +215,39 @@ server <- function(input, output) {
 
 shinyApp(ui = ui, server = server)
 ```
+
+
+---
+
+# Python - Shiny Components
+
+```python
+from shiny import App, render, ui
+
+app_ui = ui.page_fluid(
+    ui.input_select("x", "Select input", {"a": "Choice A", "b": "Choice B"}),
+    ui.output_text_verbatim("txt"),
+)
+```
+
+**Inputs**: Widgets like sliders, dropdowns, and buttons. Capture user's input.
+
+**Outputs**: Places where rendered data, plots, or text will be displayed.
+
+---
+
+# Python - Rendering Outputs
+
+Use decorators to determine how outputs (like texts or plots) should be rendered.
+
+```python
+def server(input, output, session):
+    @output
+    @render.text
+    def txt():
+        return f'x: "{input.x()}"'
+```
+
 
 ---
 # Running Shiny Apps

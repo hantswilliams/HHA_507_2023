@@ -6,7 +6,7 @@ theme: default
 ---
 
 
-# Deploying Data Visualizations 
+# Deploying Data Visualizations: Intro (6 slides)
 
 **Hants Williams, PhD, RN**
 
@@ -45,7 +45,7 @@ theme: default
 
 # Approaches 
 
-* Jupyuter Notebooks 
+* Juypter Notebooks 
 * Python and R based Dashboards (Streamlit, Shiny)
 * Web Frameworks (Flask, Django, FastAPI)
 * Underlining open-source libraries (Matplotlib, Seaborn, Plotly, GGPLOT2)
@@ -53,4 +53,30 @@ theme: default
 * Embedded/Integrated BI Tools (Looker, Sisense) 
 
 
+---
 
+# Expectations with Code Examples 
+
+- We'll be deploying code examples from GitHub in environments like Google Shell or posit.cloud (especially for R code).
+- Some code examples contain advanced Python constructs (like decorators) we haven't covered in depth.
+- **Main Expectation**: Ability to adapt and build upon the base code. Swapping dataframes, variables, and understanding the structure are key.
+
+---
+
+# Emphasis on Adaptability
+
+The tools and methods we're covering have diverse applications. The main goal isn't to master every intricacy but to:
+
+1. Understand the broad landscape of data visualization tools.
+2. Identify the right tool for the right job.
+3. Adapt and extend base code examples for specific needs.
+
+---
+# Main datset
+
+We will use a single dataset for reviewing these approaches tonight: `CDC Places: Local Data for Better Health, County Data 2023 Release`.
+
+
+*Data origin*: [CDC.gov](https://data.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-County-Data-20/swc5-untb)
+
+![CDC iamge](../../WK4/slides/images/cdc.png)
