@@ -12,6 +12,12 @@ theme: default
 
 ---
 
+# Updates to SQL slides from Mondays class: 
+
+- [Github](https://github.com/hantswilliams/HHA_504_2023/blob/fb280af3e1ffd50afef8b30fbdcba5baedcd3527/WK3/slides/p2_sql_intro.md)
+
+---
+
 # Importance of Sharing Data
 
 * Data Scientists play a critical role in making data accessible.
