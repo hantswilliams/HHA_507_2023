@@ -10,6 +10,9 @@ Explore web-based platforms for interactive data visualization, contrasting R's 
 - Create a basic Shiny app that:
   - Allows users to filter or select data based on one or more criteria.
   - Displays a visualization (e.g., a bar chart or scatter plot) that updates based on user input.
+- Deployment of Shiny app on shinyapps.io
+  - Please follow the tutorial found here for deploying your shiny app code to a web-accessable URL endpoint for me to check: https://docs.posit.co/shinyapps.io/getting-started.html#working-with-shiny-for-python
+  - Take note of the URL provided once the app has launched, as you will be required to provide it in your readmd.md file in the repo 
   
 You **must** use the **posit.cloud** environment for this task as we haven't covered local R setups.
 
