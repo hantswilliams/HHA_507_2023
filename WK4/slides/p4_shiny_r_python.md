@@ -42,11 +42,6 @@ Shiny isn't just for R anymore!
 
 ---
 
-
-Certainly! Below are the slides in Markdown format for **Marp** to introduce students to the basics of R with a focus on its comparison with Python and a brief introduction to `posit.cloud`.
-
----
-
 # Introduction to R for Pythonistas
 
 ![R vs Python](../../WK4/slides/images/r_python.png)
@@ -129,8 +124,6 @@ function_name <- function(parameters) {
   return(value)
 }
 ```
-
-Absolutely! Here's a slide that covers the equivalent R libraries for the Python packages you listed:
 
 ---
 
