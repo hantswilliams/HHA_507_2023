@@ -1,8 +1,13 @@
 from flask import Flask, render_template, request
 import pandas as pd
+import matplotlib
+matplotlib.use('Agg') # required for local development and g-shell
 import matplotlib.pyplot as plt
 import io
 import base64
+
+import warnings
+warnings.simplefilter("ignore", UserWarning)
 
 app = Flask(__name__)
 
