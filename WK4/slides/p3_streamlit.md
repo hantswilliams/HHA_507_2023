@@ -65,7 +65,7 @@ We transformed the CDC dataset on binge drinking across NY counties into an inte
 When running in shell, will need to add: ` --server.port=8080 --server.enableCORS=false` This will run in on port 8080, and we disable CORS which is a security functioanlity to be able to deploy it within our google shell test environment.  So the command for our example looks like:
 
 ```bash
-streamlit run cdc.py --server.port=8080 --server.enableCORS=false'
+streamlit run cdc.py --server.port=8080 --server.enableCORS=false
 ```
 
 ---

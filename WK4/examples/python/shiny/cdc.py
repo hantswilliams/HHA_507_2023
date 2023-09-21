@@ -20,6 +20,7 @@ app_ui = ui.page_fluid(
 )
 
 def server(input, output, session):
+
     @output
     @render.text
     def avg_data_value():
@@ -43,4 +44,4 @@ def server(input, output, session):
         return fig
 
 
-app = App(app_ui, server, debug=True)
+app = App(app_ui, server)
