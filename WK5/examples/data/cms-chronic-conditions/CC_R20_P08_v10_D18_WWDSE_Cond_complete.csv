@@ -1,0 +1,1052 @@
+Bene_Geo_Lvl,Bene_Geo_Desc,Bene_Geo_Cd,Bene_Age_Lvl,Bene_Demo_Lvl,Bene_Demo_Desc,Bene_Cond,Prvlnc,Tot_Mdcr_Stdzd_Pymt_PC,Tot_Mdcr_Pymt_PC,Hosp_Readmsn_Rate,ER_Visits_Per_1000_Benes,is_southern
+State,Alabama,1.0,All,All,All,Alcohol Abuse,0.0188,25102.3405,23348.6039,0.2413,2184.7557,southern
+State,Alabama,1.0,All,All,All,Alzheimer's Disease/Dementia,0.114,25051.8813,22554.0576,0.2119,1410.8355,southern
+State,Alabama,1.0,All,All,All,Arthritis,0.3897,15827.493,14403.578,0.1775,998.3314,southern
+State,Alabama,1.0,All,All,All,Asthma,0.0499,20560.6948,18914.5834,0.2117,1614.4483,southern
+State,Alabama,1.0,All,All,All,Atrial Fibrillation,0.0793,25450.4587,23414.3381,0.2268,1450.9822,southern
+State,Alabama,1.0,All,All,All,Autism Spectrum Disorders,0.0017,7389.2244,6834.3493,0.1681,941.7373,southern
+State,Alabama,1.0,All,All,All,COPD,0.1375,24579.4174,22509.9589,0.2237,1622.4625,southern
+State,Alabama,1.0,All,All,All,Cancer,0.0806,21378.1832,19647.8751,0.1965,1000.8886,southern
+State,Alabama,1.0,All,All,All,Chronic Kidney Disease,0.274,22013.2346,20194.3868,0.2172,1305.4389,southern
+State,Alabama,1.0,All,All,All,Depression,0.1838,20298.7052,18488.5409,0.2069,1423.5163,southern
+State,Alabama,1.0,All,All,All,Diabetes,0.3017,16286.6289,14858.6123,0.2054,1021.1721,southern
+State,Alabama,1.0,All,All,All,Drug/Substance Abuse,0.043,22482.4866,20827.1447,0.2541,2292.9655,southern
+State,Alabama,1.0,All,All,All,HIV/AIDS,0.0033,18165.4491,17360.6865,0.2638,1500.0,southern
+State,Alabama,1.0,All,All,All,Heart Failure,0.1609,27576.5432,25290.6658,0.2346,1642.5684,southern
+State,Alabama,1.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0061,27041.6939,25730.5169,0.2912,2088.5478,southern
+State,Alabama,1.0,All,All,All,Hyperlipidemia,0.5126,13967.3774,12773.1354,0.181,860.1103,southern
+State,Alabama,1.0,All,All,All,Hypertension,0.6553,14203.2333,12977.23,0.1808,918.2997,southern
+State,Alabama,1.0,All,All,All,Ischemic Heart Disease,0.2977,19260.6688,17636.4011,0.2057,1181.5682,southern
+State,Alabama,1.0,All,All,All,Osteoporosis,0.0612,17964.7776,16361.1251,0.1722,967.3446,southern
+State,Alabama,1.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0314,21838.7072,19732.5561,0.2333,1884.0861,southern
+State,Alabama,1.0,All,All,All,Stroke,0.0421,31273.8152,28654.3977,0.2125,1893.7149,southern
+State,Alaska,2.0,All,All,All,Alcohol Abuse,0.0307,19015.0311,27744.3449,0.2065,2018.4403,non-southern
+State,Alaska,2.0,All,All,All,Alzheimer's Disease/Dementia,0.081,17488.8888,24696.9428,0.1934,1477.5837,non-southern
+State,Alaska,2.0,All,All,All,Arthritis,0.2509,13042.4991,17562.9166,0.1499,942.7967,non-southern
+State,Alaska,2.0,All,All,All,Asthma,0.0346,19139.3286,26181.236,0.1972,1793.3856,non-southern
+State,Alaska,2.0,All,All,All,Atrial Fibrillation,0.0608,20286.3669,27779.0941,0.197,1492.1466,non-southern
+State,Alaska,2.0,All,All,All,COPD,0.0823,21806.0478,31218.5925,0.1985,1752.3659,non-southern
+State,Alaska,2.0,All,All,All,Cancer,0.0636,17692.6761,23181.6764,0.1732,944.949,non-southern
+State,Alaska,2.0,All,All,All,Chronic Kidney Disease,0.1763,19898.509,27282.5159,0.1952,1370.3084,non-southern
+State,Alaska,2.0,All,All,All,Depression,0.1173,17263.3505,23446.4298,0.1969,1536.4039,non-southern
+State,Alaska,2.0,All,All,All,Diabetes,0.2048,13185.4611,17673.4553,0.1791,970.4527,non-southern
+State,Alaska,2.0,All,All,All,Drug/Substance Abuse,0.037,21495.9345,30410.6795,0.2218,2539.566,non-southern
+State,Alaska,2.0,All,All,All,Heart Failure,0.0964,24456.6034,34267.2082,0.2141,1740.913,non-southern
+State,Alaska,2.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0114,16395.7757,22497.9674,0.2265,1583.8509,non-southern
+State,Alaska,2.0,All,All,All,Hyperlipidemia,0.2587,13526.3148,18386.8676,0.1664,972.4185,non-southern
+State,Alaska,2.0,All,All,All,Hypertension,0.41,13221.1493,17939.538,0.1571,1000.4602,non-southern
+State,Alaska,2.0,All,All,All,Ischemic Heart Disease,0.1823,16486.0891,22516.4739,0.1847,1203.8043,non-southern
+State,Alaska,2.0,All,All,All,Osteoporosis,0.0395,16843.7443,22910.7699,0.1649,1114.8225,non-southern
+State,Alaska,2.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0214,13971.5354,20224.0751,0.2078,2245.1684,non-southern
+State,Alaska,2.0,All,All,All,Stroke,0.0242,26727.3284,36924.8241,0.1761,1863.4146,non-southern
+State,Arizona,4.0,All,All,All,Alcohol Abuse,0.0189,24561.1065,27150.4733,0.2435,1920.4706,non-southern
+State,Arizona,4.0,All,All,All,Alzheimer's Disease/Dementia,0.0794,22943.3448,24497.6976,0.2018,1436.1567,non-southern
+State,Arizona,4.0,All,All,All,Arthritis,0.3369,14580.6261,15341.498,0.1597,863.9509,non-southern
+State,Arizona,4.0,All,All,All,Asthma,0.0538,18407.281,19516.3639,0.1809,1239.8557,non-southern
+State,Arizona,4.0,All,All,All,Atrial Fibrillation,0.0808,22922.9964,24615.3138,0.2069,1369.5114,non-southern
+State,Arizona,4.0,All,All,All,Autism Spectrum Disorders,0.001,7413.68,7974.9811,0.1944,1095.0966,non-southern
+State,Arizona,4.0,All,All,All,COPD,0.0946,23552.3566,25271.8361,0.2116,1504.2771,non-southern
+State,Arizona,4.0,All,All,All,Cancer,0.0874,18480.3587,19324.4684,0.1809,907.2663,non-southern
+State,Arizona,4.0,All,All,All,Chronic Kidney Disease,0.2408,19114.7639,20429.5825,0.2048,1110.4799,non-southern
+State,Arizona,4.0,All,All,All,Depression,0.1485,18558.8051,19684.015,0.1981,1233.8502,non-southern
+State,Arizona,4.0,All,All,All,Diabetes,0.2274,15076.5501,16070.5357,0.1986,873.5951,non-southern
+State,Arizona,4.0,All,All,All,Drug/Substance Abuse,0.0295,25188.3956,27283.0117,0.2493,2106.6278,non-southern
+State,Arizona,4.0,All,All,All,HIV/AIDS,0.0017,16983.5575,18232.9621,0.26,1119.5462,non-southern
+State,Arizona,4.0,All,All,All,Heart Failure,0.1033,27859.5807,30175.5055,0.2314,1630.0644,non-southern
+State,Arizona,4.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0049,22728.0681,24696.2925,0.3015,1716.094,non-southern
+State,Arizona,4.0,All,All,All,Hyperlipidemia,0.4732,12583.5125,13309.068,0.1689,751.4282,non-southern
+State,Arizona,4.0,All,All,All,Hypertension,0.5252,13663.9177,14492.2151,0.1694,836.6004,non-southern
+State,Arizona,4.0,All,All,All,Ischemic Heart Disease,0.2435,18003.945,19236.084,0.1949,1084.736,non-southern
+State,Arizona,4.0,All,All,All,Osteoporosis,0.0739,15513.4727,16397.0754,0.1648,897.9608,non-southern
+State,Arizona,4.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0133,21211.1685,22927.162,0.2406,2054.2558,non-southern
+State,Arizona,4.0,All,All,All,Stroke,0.0337,29234.9038,31577.5821,0.2041,1835.1928,non-southern
+State,Arkansas,5.0,All,All,All,Alcohol Abuse,0.0149,24889.7994,23706.3924,0.2622,2339.7122,southern
+State,Arkansas,5.0,All,All,All,Alzheimer's Disease/Dementia,0.1157,24014.0958,22171.1135,0.2154,1530.3726,southern
+State,Arkansas,5.0,All,All,All,Arthritis,0.3367,15941.578,14826.8532,0.1793,1024.8687,southern
+State,Arkansas,5.0,All,All,All,Asthma,0.0388,21166.5668,19819.1828,0.2177,1683.0903,southern
+State,Arkansas,5.0,All,All,All,Atrial Fibrillation,0.0846,24583.7068,23013.6025,0.2214,1488.4773,southern
+State,Arkansas,5.0,All,All,All,Autism Spectrum Disorders,0.0016,8446.3033,7835.0096,0.2421,974.2857,southern
+State,Arkansas,5.0,All,All,All,COPD,0.125,24511.458,22968.8683,0.2236,1714.1633,southern
+State,Arkansas,5.0,All,All,All,Cancer,0.0778,21447.8135,20169.8437,0.1956,1049.1203,southern
+State,Arkansas,5.0,All,All,All,Chronic Kidney Disease,0.2175,24062.6332,22541.5794,0.2244,1483.3127,southern
+State,Arkansas,5.0,All,All,All,Depression,0.1874,19389.7986,18031.1126,0.214,1423.1606,southern
+State,Arkansas,5.0,All,All,All,Diabetes,0.2572,15912.5464,14837.7278,0.2131,1031.639,southern
+State,Arkansas,5.0,All,All,All,Drug/Substance Abuse,0.0383,22260.2516,21128.1796,0.258,2310.0946,southern
+State,Arkansas,5.0,All,All,All,HIV/AIDS,0.0018,16404.3508,15601.2213,0.2889,1390.8046,southern
+State,Arkansas,5.0,All,All,All,Heart Failure,0.1491,27582.0537,25780.666,0.2339,1728.8097,southern
+State,Arkansas,5.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0059,21488.643,20564.6728,0.2719,2037.325,southern
+State,Arkansas,5.0,All,All,All,Hyperlipidemia,0.4217,14554.8879,13595.5647,0.1876,927.8886,southern
+State,Arkansas,5.0,All,All,All,Hypertension,0.5942,14325.16,13373.3782,0.1833,953.5728,southern
+State,Arkansas,5.0,All,All,All,Ischemic Heart Disease,0.3094,18334.3271,17148.702,0.2016,1182.3887,southern
+State,Arkansas,5.0,All,All,All,Osteoporosis,0.0599,18441.0391,17113.5421,0.1809,1071.8659,southern
+State,Arkansas,5.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0275,21579.2528,20077.2181,0.2361,2056.8229,southern
+State,Arkansas,5.0,All,All,All,Stroke,0.0385,30934.0318,28964.0383,0.2191,2056.237,southern
+State,California,6.0,All,All,All,Alcohol Abuse,0.0215,25617.0342,34132.9987,0.2839,2558.2373,non-southern
+State,California,6.0,All,All,All,Alzheimer's Disease/Dementia,0.1047,25625.7932,33052.3705,0.2297,1496.2582,non-southern
+State,California,6.0,All,All,All,Arthritis,0.3118,15862.1478,19750.8565,0.1906,949.5653,non-southern
+State,California,6.0,All,All,All,Asthma,0.053,21031.6907,26889.3604,0.2284,1633.1378,non-southern
+State,California,6.0,All,All,All,Atrial Fibrillation,0.0749,25354.5636,32832.2883,0.2364,1449.3866,non-southern
+State,California,6.0,All,All,All,Autism Spectrum Disorders,0.0022,9165.877,11832.1651,0.2473,1101.7776,non-southern
+State,California,6.0,All,All,All,COPD,0.0952,27690.4636,35449.9754,0.25,1780.8407,non-southern
+State,California,6.0,All,All,All,Cancer,0.0784,20371.3435,25014.6881,0.2053,955.9738,non-southern
+State,California,6.0,All,All,All,Chronic Kidney Disease,0.2428,22495.0204,28778.3443,0.2342,1289.758,non-southern
+State,California,6.0,All,All,All,Depression,0.1622,21311.3747,27074.5735,0.2317,1437.0457,non-southern
+State,California,6.0,All,All,All,Diabetes,0.2719,16551.4968,20896.3959,0.2282,978.6757,non-southern
+State,California,6.0,All,All,All,Drug/Substance Abuse,0.0376,26037.9259,33960.4152,0.2894,2659.6496,non-southern
+State,California,6.0,All,All,All,HIV/AIDS,0.005,17065.4541,22027.8199,0.2814,1269.7629,non-southern
+State,California,6.0,All,All,All,Heart Failure,0.1391,28973.8326,37330.0467,0.2504,1651.0758,non-southern
+State,California,6.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0143,21342.5965,28029.8675,0.301,1633.4599,non-southern
+State,California,6.0,All,All,All,Hyperlipidemia,0.4529,14068.7146,17686.4452,0.1965,829.21,non-southern
+State,California,6.0,All,All,All,Hypertension,0.5296,15045.2699,18969.806,0.196,925.6355,non-southern
+State,California,6.0,All,All,All,Ischemic Heart Disease,0.2471,20603.1648,26183.785,0.2241,1193.6767,non-southern
+State,California,6.0,All,All,All,Osteoporosis,0.0784,16721.6572,20956.8731,0.1844,905.658,non-southern
+State,California,6.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0346,25800.4271,33076.1077,0.2729,2189.4402,non-southern
+State,California,6.0,All,All,All,Stroke,0.0353,33832.4568,44002.1348,0.2369,1984.3648,non-southern
+State,Colorado,8.0,All,All,All,Alcohol Abuse,0.0211,21195.833,23149.6354,0.2126,2205.1334,non-southern
+State,Colorado,8.0,All,All,All,Alzheimer's Disease/Dementia,0.0868,21497.5068,22881.8012,0.1856,1424.8476,non-southern
+State,Colorado,8.0,All,All,All,Arthritis,0.3073,14946.1178,15754.0777,0.1407,903.1039,non-southern
+State,Colorado,8.0,All,All,All,Asthma,0.0448,19602.6393,20788.6412,0.172,1513.224,non-southern
+State,Colorado,8.0,All,All,All,Atrial Fibrillation,0.066,23062.1541,24798.0965,0.1924,1425.0531,non-southern
+State,Colorado,8.0,All,All,All,Autism Spectrum Disorders,0.0019,7693.5099,8084.6921,0.1198,1086.7179,non-southern
+State,Colorado,8.0,All,All,All,COPD,0.0937,22400.3647,23982.7714,0.194,1589.6774,non-southern
+State,Colorado,8.0,All,All,All,Cancer,0.074,18947.5558,19816.9467,0.1654,932.5185,non-southern
+State,Colorado,8.0,All,All,All,Chronic Kidney Disease,0.1915,20775.4906,22166.3116,0.1926,1315.1223,non-southern
+State,Colorado,8.0,All,All,All,Depression,0.1651,18268.2056,19327.1094,0.1797,1330.8686,non-southern
+State,Colorado,8.0,All,All,All,Diabetes,0.1829,14794.4503,15683.5164,0.1841,996.7261,non-southern
+State,Colorado,8.0,All,All,All,Drug/Substance Abuse,0.0355,23541.8793,25368.748,0.2364,2399.8087,non-southern
+State,Colorado,8.0,All,All,All,HIV/AIDS,0.0021,18195.8629,19906.9027,0.2425,1507.0,non-southern
+State,Colorado,8.0,All,All,All,Heart Failure,0.1028,25937.5781,27849.7427,0.2079,1628.0093,non-southern
+State,Colorado,8.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0063,20135.685,22054.4886,0.2456,1921.6016,non-southern
+State,Colorado,8.0,All,All,All,Hyperlipidemia,0.331,13822.3071,14652.0949,0.1538,860.378,non-southern
+State,Colorado,8.0,All,All,All,Hypertension,0.4239,14612.6754,15492.7146,0.1565,969.4552,non-southern
+State,Colorado,8.0,All,All,All,Ischemic Heart Disease,0.1983,18044.4863,19240.4046,0.1832,1154.6642,non-southern
+State,Colorado,8.0,All,All,All,Osteoporosis,0.0622,18065.0895,19063.2661,0.1583,1004.4731,non-southern
+State,Colorado,8.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0195,16342.7578,17473.7982,0.2019,2020.1459,non-southern
+State,Colorado,8.0,All,All,All,Stroke,0.0268,29851.9986,31866.4933,0.1915,1896.5763,non-southern
+State,Connecticut,9.0,All,All,All,Alcohol Abuse,0.0289,23084.3103,28170.1328,0.2694,2484.6085,non-southern
+State,Connecticut,9.0,All,All,All,Alzheimer's Disease/Dementia,0.1289,23696.1524,28649.1376,0.227,1635.3899,non-southern
+State,Connecticut,9.0,All,All,All,Arthritis,0.3198,16417.4948,19506.7408,0.1894,1107.1116,non-southern
+State,Connecticut,9.0,All,All,All,Asthma,0.0647,20704.1525,24811.6154,0.2237,1847.7117,non-southern
+State,Connecticut,9.0,All,All,All,Atrial Fibrillation,0.1072,24078.9928,29393.0897,0.2325,1537.7165,non-southern
+State,Connecticut,9.0,All,All,All,Autism Spectrum Disorders,0.0047,7906.4349,9439.8919,0.1811,1432.8267,non-southern
+State,Connecticut,9.0,All,All,All,COPD,0.1134,25745.2732,31157.1304,0.2451,1868.7806,non-southern
+State,Connecticut,9.0,All,All,All,Cancer,0.0959,20779.5755,24333.7583,0.2102,1091.4212,non-southern
+State,Connecticut,9.0,All,All,All,Chronic Kidney Disease,0.2366,23351.2239,28230.2502,0.2373,1524.748,non-southern
+State,Connecticut,9.0,All,All,All,Depression,0.2037,21127.8475,25238.8272,0.2265,1633.1462,non-southern
+State,Connecticut,9.0,All,All,All,Diabetes,0.2505,16672.2852,19927.7744,0.2261,1156.1202,non-southern
+State,Connecticut,9.0,All,All,All,Drug/Substance Abuse,0.0374,23219.9161,28088.1814,0.2882,2749.3305,non-southern
+State,Connecticut,9.0,All,All,All,HIV/AIDS,0.0046,19661.9526,24072.0189,0.2729,1805.1378,non-southern
+State,Connecticut,9.0,All,All,All,Heart Failure,0.1452,28796.7833,35262.8033,0.249,1816.1284,non-southern
+State,Connecticut,9.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0079,26598.8075,32341.1701,0.3101,2448.7133,non-southern
+State,Connecticut,9.0,All,All,All,Hyperlipidemia,0.5071,14106.42,16833.0745,0.1961,973.296,non-southern
+State,Connecticut,9.0,All,All,All,Hypertension,0.59,14756.3699,17602.3452,0.1968,1026.7889,non-southern
+State,Connecticut,9.0,All,All,All,Ischemic Heart Disease,0.2528,20628.6659,24981.877,0.2245,1354.8898,non-southern
+State,Connecticut,9.0,All,All,All,Osteoporosis,0.0764,17444.0493,20805.3386,0.1952,1151.9201,non-southern
+State,Connecticut,9.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0441,19301.0084,23033.8478,0.237,2094.2358,non-southern
+State,Connecticut,9.0,All,All,All,Stroke,0.0387,30701.3254,37546.7787,0.2191,2028.1638,non-southern
+State,Delaware,10.0,All,All,All,Alcohol Abuse,0.021,22986.3391,26266.8915,0.2367,2139.6994,southern
+State,Delaware,10.0,All,All,All,Alzheimer's Disease/Dementia,0.093,24268.8914,26988.2808,0.2152,1577.5764,southern
+State,Delaware,10.0,All,All,All,Arthritis,0.3465,14481.0266,15929.1477,0.1688,890.7127,southern
+State,Delaware,10.0,All,All,All,Asthma,0.0522,18729.9935,20959.7694,0.218,1467.3152,southern
+State,Delaware,10.0,All,All,All,Atrial Fibrillation,0.0941,23385.5677,26407.9184,0.2202,1406.6223,southern
+State,Delaware,10.0,All,All,All,Autism Spectrum Disorders,0.0031,7891.3469,9705.8544,0.2264,1702.0,southern
+State,Delaware,10.0,All,All,All,COPD,0.1051,23731.9796,26543.85,0.232,1562.1685,southern
+State,Delaware,10.0,All,All,All,Cancer,0.0912,19223.5732,21011.9023,0.1906,935.5649,southern
+State,Delaware,10.0,All,All,All,Chronic Kidney Disease,0.2521,20597.4691,23036.5669,0.2199,1254.4039,southern
+State,Delaware,10.0,All,All,All,Depression,0.1806,20192.8493,22449.6937,0.2136,1375.3344,southern
+State,Delaware,10.0,All,All,All,Diabetes,0.2882,14546.5721,16113.0152,0.2082,900.5331,southern
+State,Delaware,10.0,All,All,All,Drug/Substance Abuse,0.0403,20635.413,23167.0238,0.268,2035.3846,southern
+State,Delaware,10.0,All,All,All,HIV/AIDS,0.0043,16786.7437,18865.1237,0.2066,1589.1583,southern
+State,Delaware,10.0,All,All,All,Heart Failure,0.1147,28638.2086,32317.4531,0.247,1730.9105,southern
+State,Delaware,10.0,All,All,All,Hepatitis (Chronic Viral B & C),0.008,21693.0203,24886.0589,0.2655,1778.3826,southern
+State,Delaware,10.0,All,All,All,Hyperlipidemia,0.611,11861.9409,13085.7452,0.1764,737.2199,southern
+State,Delaware,10.0,All,All,All,Hypertension,0.6302,13027.9642,14382.9854,0.1778,826.9943,southern
+State,Delaware,10.0,All,All,All,Ischemic Heart Disease,0.2835,18221.0793,20310.0262,0.207,1116.5403,southern
+State,Delaware,10.0,All,All,All,Osteoporosis,0.0607,15239.7817,16817.2025,0.1778,915.332,southern
+State,Delaware,10.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0227,21021.9246,23430.5578,0.2357,2308.4699,southern
+State,Delaware,10.0,All,All,All,Stroke,0.0469,29603.5662,33358.2951,0.22,1936.0212,southern
+State,District of Columbia,11.0,All,All,All,Alcohol Abuse,0.0316,25296.7132,31806.1758,0.3114,3699.4158,southern
+State,District of Columbia,11.0,All,All,All,Alzheimer's Disease/Dementia,0.1387,25674.8811,30877.3164,0.2556,1741.6546,southern
+State,District of Columbia,11.0,All,All,All,Arthritis,0.3026,16654.1098,19651.3707,0.2269,1415.8306,southern
+State,District of Columbia,11.0,All,All,All,Asthma,0.061,21813.4805,26346.4606,0.2866,2754.6029,southern
+State,District of Columbia,11.0,All,All,All,Atrial Fibrillation,0.0527,29270.3444,35562.02,0.2752,1867.282,southern
+State,District of Columbia,11.0,All,All,All,COPD,0.0777,31290.9327,38269.8154,0.2905,2446.0276,southern
+State,District of Columbia,11.0,All,All,All,Cancer,0.0864,19795.1936,23133.4088,0.2256,1250.2913,southern
+State,District of Columbia,11.0,All,All,All,Chronic Kidney Disease,0.2491,25808.9881,31074.4469,0.2607,1875.3871,southern
+State,District of Columbia,11.0,All,All,All,Depression,0.1478,23319.6011,28062.0058,0.2808,2176.3304,southern
+State,District of Columbia,11.0,All,All,All,Diabetes,0.2881,18276.0011,21865.8637,0.2619,1518.4258,southern
+State,District of Columbia,11.0,All,All,All,Drug/Substance Abuse,0.0491,25459.4649,32126.8278,0.3535,3710.3825,southern
+State,District of Columbia,11.0,All,All,All,HIV/AIDS,0.028,18014.251,21379.0865,0.3225,2011.3636,southern
+State,District of Columbia,11.0,All,All,All,Heart Failure,0.142,32725.9678,39626.4807,0.2779,2375.1328,southern
+State,District of Columbia,11.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0235,28576.9408,35118.4097,0.3608,2376.8737,southern
+State,District of Columbia,11.0,All,All,All,Hyperlipidemia,0.372,16736.8361,19934.5644,0.2351,1296.4249,southern
+State,District of Columbia,11.0,All,All,All,Hypertension,0.5558,15729.8709,18680.5587,0.2259,1320.2269,southern
+State,District of Columbia,11.0,All,All,All,Ischemic Heart Disease,0.2244,23830.1139,28754.0984,0.2668,1799.5814,southern
+State,District of Columbia,11.0,All,All,All,Osteoporosis,0.0472,14992.9389,17566.3808,0.2105,1070.743,southern
+State,District of Columbia,11.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0505,19062.1618,23939.0798,0.2907,2920.3187,southern
+State,District of Columbia,11.0,All,All,All,Stroke,0.0486,35695.3274,43131.9448,0.2569,2566.7932,southern
+State,Florida,12.0,All,All,All,Alcohol Abuse,0.0232,27106.5036,27364.4815,0.2747,2030.4755,southern
+State,Florida,12.0,All,All,All,Alzheimer's Disease/Dementia,0.1261,28259.5634,28137.6897,0.2303,1551.8973,southern
+State,Florida,12.0,All,All,All,Arthritis,0.3751,17363.2543,17331.8388,0.1919,959.9024,southern
+State,Florida,12.0,All,All,All,Asthma,0.0519,21749.0306,21959.9228,0.2349,1473.0091,southern
+State,Florida,12.0,All,All,All,Atrial Fibrillation,0.1011,27001.9251,27151.4814,0.2357,1445.9156,southern
+State,Florida,12.0,All,All,All,Autism Spectrum Disorders,0.0018,10147.2167,10485.1428,0.2392,1091.8891,southern
+State,Florida,12.0,All,All,All,COPD,0.1346,27393.8477,27452.2509,0.2448,1597.651,southern
+State,Florida,12.0,All,All,All,Cancer,0.1014,21438.8783,21453.3501,0.2058,968.1437,southern
+State,Florida,12.0,All,All,All,Chronic Kidney Disease,0.2821,22980.1173,23073.1785,0.2335,1248.0952,southern
+State,Florida,12.0,All,All,All,Depression,0.1948,23286.9996,23260.4847,0.2311,1397.2012,southern
+State,Florida,12.0,All,All,All,Diabetes,0.2781,18419.2973,18471.6929,0.2301,1012.9013,southern
+State,Florida,12.0,All,All,All,Drug/Substance Abuse,0.0363,28090.4907,28440.9181,0.3038,2322.877,southern
+State,Florida,12.0,All,All,All,HIV/AIDS,0.0058,19957.5667,20672.5701,0.3171,1572.509,southern
+State,Florida,12.0,All,All,All,Heart Failure,0.1478,31317.1105,31500.0049,0.2564,1681.8542,southern
+State,Florida,12.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0071,27158.8113,27887.1221,0.3232,1884.0105,southern
+State,Florida,12.0,All,All,All,Hyperlipidemia,0.5919,14401.6849,14427.6512,0.1955,799.8282,southern
+State,Florida,12.0,All,All,All,Hypertension,0.6238,15835.1432,15850.2339,0.1971,897.5738,southern
+State,Florida,12.0,All,All,All,Ischemic Heart Disease,0.3428,20317.4256,20383.5414,0.2177,1138.191,southern
+State,Florida,12.0,All,All,All,Osteoporosis,0.0834,18023.5339,17982.0499,0.1855,950.3761,southern
+State,Florida,12.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0299,28575.9303,28922.1845,0.2712,2000.4562,southern
+State,Florida,12.0,All,All,All,Stroke,0.0467,32991.3708,33133.9375,0.2359,1908.2508,southern
+State,Georgia,13.0,All,All,All,Alcohol Abuse,0.0189,25816.8446,26135.918,0.2545,2341.8989,southern
+State,Georgia,13.0,All,All,All,Alzheimer's Disease/Dementia,0.107,24799.9195,24476.0868,0.2247,1573.1967,southern
+State,Georgia,13.0,All,All,All,Arthritis,0.3367,15564.8499,15303.9199,0.1886,1024.0904,southern
+State,Georgia,13.0,All,All,All,Asthma,0.047,19984.5877,19896.8712,0.2235,1633.916,southern
+State,Georgia,13.0,All,All,All,Atrial Fibrillation,0.078,24975.9045,24993.6889,0.234,1519.8027,southern
+State,Georgia,13.0,All,All,All,Autism Spectrum Disorders,0.002,8197.475,8285.1462,0.1848,1168.2243,southern
+State,Georgia,13.0,All,All,All,COPD,0.1174,24707.5902,24546.2221,0.2364,1754.4389,southern
+State,Georgia,13.0,All,All,All,Cancer,0.082,20326.2526,20009.7842,0.2042,1016.033,southern
+State,Georgia,13.0,All,All,All,Chronic Kidney Disease,0.2679,22279.1737,22111.8727,0.2284,1367.6446,southern
+State,Georgia,13.0,All,All,All,Depression,0.1716,20142.6857,19887.3014,0.225,1485.032,southern
+State,Georgia,13.0,All,All,All,Diabetes,0.2788,16699.3063,16478.4103,0.2233,1066.9929,southern
+State,Georgia,13.0,All,All,All,Drug/Substance Abuse,0.0356,24674.6574,24814.9539,0.2896,2565.8483,southern
+State,Georgia,13.0,All,All,All,HIV/AIDS,0.0054,19868.4703,20675.0076,0.2971,1684.6215,southern
+State,Georgia,13.0,All,All,All,Heart Failure,0.1401,29505.0434,29443.5727,0.251,1842.6078,southern
+State,Georgia,13.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0063,28122.5176,28911.1711,0.3285,2164.0138,southern
+State,Georgia,13.0,All,All,All,Hyperlipidemia,0.5007,13688.8049,13527.4737,0.1937,874.9429,southern
+State,Georgia,13.0,All,All,All,Hypertension,0.6183,14209.3875,14036.6011,0.1929,945.0263,southern
+State,Georgia,13.0,All,All,All,Ischemic Heart Disease,0.2627,19871.191,19739.7368,0.2209,1265.7523,southern
+State,Georgia,13.0,All,All,All,Osteoporosis,0.057,16093.4601,15866.0838,0.1788,971.5241,southern
+State,Georgia,13.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0271,20590.4922,20405.8907,0.243,2080.6916,southern
+State,Georgia,13.0,All,All,All,Stroke,0.0401,31152.2815,31257.6795,0.2301,2005.9419,southern
+State,Hawaii,15.0,All,All,All,Alcohol Abuse,0.0155,16621.1427,21899.1397,0.247,2018.7573,non-southern
+State,Hawaii,15.0,All,All,All,Alzheimer's Disease/Dementia,0.1048,15919.9807,19996.6476,0.1596,1248.1536,non-southern
+State,Hawaii,15.0,All,All,All,Arthritis,0.2129,11576.486,13822.3745,0.1548,831.6802,non-southern
+State,Hawaii,15.0,All,All,All,Asthma,0.057,16027.3371,19447.3344,0.2086,1433.5888,non-southern
+State,Hawaii,15.0,All,All,All,Atrial Fibrillation,0.062,18848.4099,23641.3583,0.1893,1435.9501,non-southern
+State,Hawaii,15.0,All,All,All,COPD,0.0658,19628.6276,24843.2625,0.1959,1614.8742,non-southern
+State,Hawaii,15.0,All,All,All,Cancer,0.0816,14575.088,17244.0852,0.1769,832.5711,non-southern
+State,Hawaii,15.0,All,All,All,Chronic Kidney Disease,0.2581,15288.4936,18602.1635,0.1814,1028.8485,non-southern
+State,Hawaii,15.0,All,All,All,Depression,0.0899,15556.3465,19099.1005,0.2013,1330.4638,non-southern
+State,Hawaii,15.0,All,All,All,Diabetes,0.2709,11980.3482,14394.5945,0.1758,806.7334,non-southern
+State,Hawaii,15.0,All,All,All,Drug/Substance Abuse,0.0261,17362.766,22111.1576,0.2603,2196.1606,non-southern
+State,Hawaii,15.0,All,All,All,Heart Failure,0.1013,24521.9878,30595.5955,0.2024,1710.2166,non-southern
+State,Hawaii,15.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0089,20303.6089,24209.5178,0.2853,1273.8462,non-southern
+State,Hawaii,15.0,All,All,All,Hyperlipidemia,0.5629,8907.4919,10638.884,0.1516,635.0318,non-southern
+State,Hawaii,15.0,All,All,All,Hypertension,0.5584,9962.6915,12012.6068,0.1536,749.5477,non-southern
+State,Hawaii,15.0,All,All,All,Ischemic Heart Disease,0.1902,16421.9907,20228.9805,0.1847,1191.91,non-southern
+State,Hawaii,15.0,All,All,All,Osteoporosis,0.0938,10183.1702,12260.8166,0.1371,700.9319,non-southern
+State,Hawaii,15.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0161,15091.9102,18461.0885,0.2933,2222.7862,non-southern
+State,Hawaii,15.0,All,All,All,Stroke,0.035,22508.8759,28372.5645,0.1707,1554.0224,non-southern
+State,Idaho,16.0,All,All,All,Alcohol Abuse,0.0192,21094.2006,21801.2705,0.1959,2082.2785,non-southern
+State,Idaho,16.0,All,All,All,Alzheimer's Disease/Dementia,0.0833,20855.841,21022.458,0.1717,1389.2365,non-southern
+State,Idaho,16.0,All,All,All,Arthritis,0.3028,14243.4059,14214.4563,0.1299,937.9033,non-southern
+State,Idaho,16.0,All,All,All,Asthma,0.0424,19207.5811,19271.2054,0.1676,1613.8614,non-southern
+State,Idaho,16.0,All,All,All,Atrial Fibrillation,0.0716,21125.536,21625.8133,0.1834,1396.2945,non-southern
+State,Idaho,16.0,All,All,All,COPD,0.0886,22031.0085,22555.962,0.1843,1629.8349,non-southern
+State,Idaho,16.0,All,All,All,Cancer,0.0676,18859.4634,18836.6924,0.1546,972.8778,non-southern
+State,Idaho,16.0,All,All,All,Chronic Kidney Disease,0.1954,19122.7613,19402.5985,0.1833,1260.0788,non-southern
+State,Idaho,16.0,All,All,All,Depression,0.1835,16744.0939,16800.9924,0.1691,1320.8255,non-southern
+State,Idaho,16.0,All,All,All,Diabetes,0.2193,13870.3086,13926.4167,0.1679,951.4655,non-southern
+State,Idaho,16.0,All,All,All,Drug/Substance Abuse,0.0345,22716.4434,22977.0054,0.216,2429.1373,non-southern
+State,Idaho,16.0,All,All,All,Heart Failure,0.1121,23623.4811,24250.456,0.1936,1548.1264,non-southern
+State,Idaho,16.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0048,18221.4475,18931.616,0.1965,1673.3615,non-southern
+State,Idaho,16.0,All,All,All,Hyperlipidemia,0.3111,13546.2454,13690.2061,0.1493,927.2118,non-southern
+State,Idaho,16.0,All,All,All,Hypertension,0.4424,13822.0858,13922.6432,0.1459,969.8943,non-southern
+State,Idaho,16.0,All,All,All,Ischemic Heart Disease,0.1906,17307.6288,17592.3348,0.1729,1171.5978,non-southern
+State,Idaho,16.0,All,All,All,Osteoporosis,0.0551,16911.2945,16901.7301,0.149,1041.1462,non-southern
+State,Idaho,16.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0205,15606.5966,15798.8548,0.1798,1899.1866,non-southern
+State,Idaho,16.0,All,All,All,Stroke,0.0229,29261.4115,29821.9691,0.1649,1893.4426,non-southern
+State,Illinois,17.0,All,All,All,Alcohol Abuse,0.0179,26079.2486,28554.6477,0.2801,2346.5002,non-southern
+State,Illinois,17.0,All,All,All,Alzheimer's Disease/Dementia,0.1065,26692.6834,28355.7876,0.2336,1624.0722,non-southern
+State,Illinois,17.0,All,All,All,Arthritis,0.3492,17001.9906,17905.6766,0.1971,1065.0291,non-southern
+State,Illinois,17.0,All,All,All,Asthma,0.0467,22756.5175,24466.0689,0.2435,1834.4283,non-southern
+State,Illinois,17.0,All,All,All,Atrial Fibrillation,0.0901,27015.9757,28889.8509,0.2416,1566.5149,non-southern
+State,Illinois,17.0,All,All,All,Autism Spectrum Disorders,0.0023,8840.0695,9517.966,0.2235,1142.7273,non-southern
+State,Illinois,17.0,All,All,All,COPD,0.1183,26873.7928,28477.63,0.2468,1806.5446,non-southern
+State,Illinois,17.0,All,All,All,Cancer,0.09,21653.1783,22738.8222,0.2129,1060.5846,non-southern
+State,Illinois,17.0,All,All,All,Chronic Kidney Disease,0.2455,23903.9742,25485.3507,0.2363,1414.4818,non-southern
+State,Illinois,17.0,All,All,All,Depression,0.1669,22589.8377,23859.973,0.2357,1565.8499,non-southern
+State,Illinois,17.0,All,All,All,Diabetes,0.2706,17112.1373,18133.1987,0.2283,1051.7994,non-southern
+State,Illinois,17.0,All,All,All,Drug/Substance Abuse,0.0232,27048.9635,29335.6494,0.2985,2799.4931,non-southern
+State,Illinois,17.0,All,All,All,HIV/AIDS,0.0029,19884.4384,22230.3457,0.2874,1544.4392,non-southern
+State,Illinois,17.0,All,All,All,Heart Failure,0.1535,29559.151,31643.5545,0.2494,1747.0446,non-southern
+State,Illinois,17.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0061,27549.4206,30589.0947,0.3049,1849.3353,non-southern
+State,Illinois,17.0,All,All,All,Hyperlipidemia,0.4886,14807.1167,15657.9988,0.1989,920.6242,non-southern
+State,Illinois,17.0,All,All,All,Hypertension,0.5852,15167.2734,16027.5955,0.1978,964.2373,non-southern
+State,Illinois,17.0,All,All,All,Ischemic Heart Disease,0.266,20807.677,22136.6003,0.2255,1284.7032,non-southern
+State,Illinois,17.0,All,All,All,Osteoporosis,0.0651,19392.4696,20502.6812,0.1973,1132.3108,non-southern
+State,Illinois,17.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0275,23914.6821,25499.274,0.2632,2069.8435,non-southern
+State,Illinois,17.0,All,All,All,Stroke,0.038,34458.5019,36988.7565,0.2389,2054.3981,non-southern
+State,Indiana,18.0,All,All,All,Alcohol Abuse,0.0208,24017.1708,24898.8031,0.2453,2177.8901,non-southern
+State,Indiana,18.0,All,All,All,Alzheimer's Disease/Dementia,0.1103,24936.5265,25096.7843,0.2125,1514.1871,non-southern
+State,Indiana,18.0,All,All,All,Arthritis,0.3495,16274.5954,16286.1931,0.1821,1084.6249,non-southern
+State,Indiana,18.0,All,All,All,Asthma,0.0487,21306.7335,21559.5608,0.2189,1834.2804,non-southern
+State,Indiana,18.0,All,All,All,Atrial Fibrillation,0.0853,24900.3095,25384.9882,0.2272,1533.759,non-southern
+State,Indiana,18.0,All,All,All,Autism Spectrum Disorders,0.0032,7203.0469,7264.3794,0.1676,1156.5356,non-southern
+State,Indiana,18.0,All,All,All,COPD,0.1426,24751.2263,25096.3311,0.2252,1777.4997,non-southern
+State,Indiana,18.0,All,All,All,Cancer,0.0804,21453.5411,21518.3635,0.2022,1071.6299,non-southern
+State,Indiana,18.0,All,All,All,Chronic Kidney Disease,0.2546,22193.4879,22529.1882,0.2174,1398.5599,non-southern
+State,Indiana,18.0,All,All,All,Depression,0.2109,20083.5775,20258.3481,0.21,1493.39,non-southern
+State,Indiana,18.0,All,All,All,Diabetes,0.2784,16204.1618,16334.3375,0.2107,1076.6306,non-southern
+State,Indiana,18.0,All,All,All,Drug/Substance Abuse,0.0333,24267.1658,24958.3285,0.2647,2620.1092,non-southern
+State,Indiana,18.0,All,All,All,HIV/AIDS,0.002,20112.1841,21192.0792,0.2718,1823.2386,non-southern
+State,Indiana,18.0,All,All,All,Heart Failure,0.1511,28005.8677,28550.1517,0.2368,1745.3935,non-southern
+State,Indiana,18.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0055,28242.4079,29961.4977,0.311,2275.5055,non-southern
+State,Indiana,18.0,All,All,All,Hyperlipidemia,0.4788,14217.5827,14327.0868,0.1838,940.8814,non-southern
+State,Indiana,18.0,All,All,All,Hypertension,0.5962,14389.0207,14486.6261,0.1825,974.855,non-southern
+State,Indiana,18.0,All,All,All,Ischemic Heart Disease,0.283,19177.1264,19408.4063,0.2083,1260.0313,non-southern
+State,Indiana,18.0,All,All,All,Osteoporosis,0.0632,19219.9341,19304.5225,0.1838,1167.8491,non-southern
+State,Indiana,18.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0324,20889.5768,21037.3168,0.2194,1897.0833,non-southern
+State,Indiana,18.0,All,All,All,Stroke,0.0368,31785.6363,32470.3471,0.2181,1995.1299,non-southern
+State,Iowa,19.0,All,All,All,Alcohol Abuse,0.0163,20460.7847,21160.8779,0.2371,2161.4152,non-southern
+State,Iowa,19.0,All,All,All,Alzheimer's Disease/Dementia,0.0956,18314.302,18553.5542,0.1803,1310.6854,non-southern
+State,Iowa,19.0,All,All,All,Arthritis,0.2977,14058.408,14216.8561,0.1508,936.944,non-southern
+State,Iowa,19.0,All,All,All,Asthma,0.0387,18598.734,18901.9601,0.1873,1685.3395,non-southern
+State,Iowa,19.0,All,All,All,Atrial Fibrillation,0.0905,20418.7855,21036.5816,0.1972,1378.6531,non-southern
+State,Iowa,19.0,All,All,All,Autism Spectrum Disorders,0.003,5501.8291,5600.6339,0.1835,867.7867,non-southern
+State,Iowa,19.0,All,All,All,COPD,0.1093,21463.9634,22030.6527,0.2002,1621.8303,non-southern
+State,Iowa,19.0,All,All,All,Cancer,0.0773,19148.5164,19343.0275,0.1764,985.3955,non-southern
+State,Iowa,19.0,All,All,All,Chronic Kidney Disease,0.2162,19493.8813,19920.4223,0.1974,1298.8064,non-southern
+State,Iowa,19.0,All,All,All,Depression,0.1929,15987.4468,16181.1055,0.1885,1296.6072,non-southern
+State,Iowa,19.0,All,All,All,Diabetes,0.2399,13572.8835,13762.1447,0.184,934.3215,non-southern
+State,Iowa,19.0,All,All,All,Drug/Substance Abuse,0.0206,22139.3657,22762.3067,0.261,2673.2412,non-southern
+State,Iowa,19.0,All,All,All,HIV/AIDS,0.001,15990.1884,16743.2233,0.2056,1377.1552,non-southern
+State,Iowa,19.0,All,All,All,Heart Failure,0.1299,23784.6491,24492.3109,0.2091,1590.0854,non-southern
+State,Iowa,19.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0037,21541.8874,22010.6097,0.2814,2008.9286,non-southern
+State,Iowa,19.0,All,All,All,Hyperlipidemia,0.4461,12510.5474,12707.7936,0.1605,849.198,non-southern
+State,Iowa,19.0,All,All,All,Hypertension,0.5423,12713.0258,12903.1586,0.1593,886.32,non-southern
+State,Iowa,19.0,All,All,All,Ischemic Heart Disease,0.2396,16887.3277,17275.7458,0.1847,1162.5362,non-southern
+State,Iowa,19.0,All,All,All,Osteoporosis,0.063,15877.439,16090.3739,0.1585,1012.6106,non-southern
+State,Iowa,19.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0246,14408.175,14665.2488,0.2211,1788.5244,non-southern
+State,Iowa,19.0,All,All,All,Stroke,0.028,26752.3141,27439.7304,0.1815,1883.627,non-southern
+State,Kansas,20.0,All,All,All,Alcohol Abuse,0.0159,23966.5617,23515.6466,0.2273,2236.2672,non-southern
+State,Kansas,20.0,All,All,All,Alzheimer's Disease/Dementia,0.1094,23774.5175,22992.6568,0.1984,1405.9672,non-southern
+State,Kansas,20.0,All,All,All,Arthritis,0.3174,16494.2477,16025.8824,0.1675,970.4462,non-southern
+State,Kansas,20.0,All,All,All,Asthma,0.0419,21489.3286,20987.146,0.1986,1732.8426,non-southern
+State,Kansas,20.0,All,All,All,Atrial Fibrillation,0.0885,24361.6492,23948.8764,0.2107,1401.2816,non-southern
+State,Kansas,20.0,All,All,All,Autism Spectrum Disorders,0.0024,7988.8477,7806.2543,0.2305,1145.7906,non-southern
+State,Kansas,20.0,All,All,All,COPD,0.119,24835.3397,24371.0964,0.2166,1606.0688,non-southern
+State,Kansas,20.0,All,All,All,Cancer,0.0823,21075.133,20543.1622,0.1955,975.8537,non-southern
+State,Kansas,20.0,All,All,All,Chronic Kidney Disease,0.2254,22662.3199,22144.7586,0.207,1314.3787,non-southern
+State,Kansas,20.0,All,All,All,Depression,0.1982,20083.259,19484.8536,0.1975,1382.8919,non-southern
+State,Kansas,20.0,All,All,All,Diabetes,0.2534,15705.2943,15282.9141,0.1939,961.5354,non-southern
+State,Kansas,20.0,All,All,All,Drug/Substance Abuse,0.0251,24473.9292,24058.2648,0.2615,2752.5538,non-southern
+State,Kansas,20.0,All,All,All,HIV/AIDS,0.0013,24690.6844,24053.0281,0.1777,1301.5267,non-southern
+State,Kansas,20.0,All,All,All,Heart Failure,0.1352,27744.7506,27210.1239,0.2225,1583.637,non-southern
+State,Kansas,20.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0047,24964.9103,24471.8301,0.3034,2139.4612,non-southern
+State,Kansas,20.0,All,All,All,Hyperlipidemia,0.4392,14465.8436,14106.2734,0.1719,870.0558,non-southern
+State,Kansas,20.0,All,All,All,Hypertension,0.5585,14766.1321,14380.7499,0.1698,912.9563,non-southern
+State,Kansas,20.0,All,All,All,Ischemic Heart Disease,0.2658,19222.1352,18780.3709,0.196,1150.2999,non-southern
+State,Kansas,20.0,All,All,All,Osteoporosis,0.0635,19233.3429,18712.0146,0.1792,1070.1156,non-southern
+State,Kansas,20.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0285,21116.1793,20319.8341,0.2088,1939.526,non-southern
+State,Kansas,20.0,All,All,All,Stroke,0.0322,30886.3125,30124.1846,0.204,1905.0897,non-southern
+State,Kentucky,21.0,All,All,All,Alcohol Abuse,0.0188,24650.4701,24533.6877,0.2594,2355.5679,southern
+State,Kentucky,21.0,All,All,All,Alzheimer's Disease/Dementia,0.1026,25479.7192,24609.3633,0.2314,1735.4958,southern
+State,Kentucky,21.0,All,All,All,Arthritis,0.3686,15841.9696,15296.68,0.1987,1149.4633,southern
+State,Kentucky,21.0,All,All,All,Asthma,0.0435,20232.5553,19697.9445,0.2222,1751.3574,southern
+State,Kentucky,21.0,All,All,All,Atrial Fibrillation,0.084,25878.9745,25404.3849,0.2488,1702.301,southern
+State,Kentucky,21.0,All,All,All,Autism Spectrum Disorders,0.0022,7539.3542,7475.4065,0.2321,1143.6378,southern
+State,Kentucky,21.0,All,All,All,COPD,0.1696,23311.9171,22805.0929,0.2392,1806.7613,southern
+State,Kentucky,21.0,All,All,All,Cancer,0.0737,22246.6465,21460.1276,0.216,1184.5154,southern
+State,Kentucky,21.0,All,All,All,Chronic Kidney Disease,0.2535,22087.0736,21565.3339,0.2354,1513.3741,southern
+State,Kentucky,21.0,All,All,All,Depression,0.2147,19424.4309,18850.1098,0.2244,1552.7414,southern
+State,Kentucky,21.0,All,All,All,Diabetes,0.2934,15748.2175,15306.1128,0.2237,1140.9786,southern
+State,Kentucky,21.0,All,All,All,Drug/Substance Abuse,0.0545,20057.714,19845.4073,0.2686,2124.5975,southern
+State,Kentucky,21.0,All,All,All,HIV/AIDS,0.0018,15330.5887,15369.1857,0.2334,1482.7246,southern
+State,Kentucky,21.0,All,All,All,Heart Failure,0.1555,27388.9349,26810.038,0.2516,1886.1533,southern
+State,Kentucky,21.0,All,All,All,Hepatitis (Chronic Viral B & C),0.007,23821.0179,24109.2799,0.3125,2368.0693,southern
+State,Kentucky,21.0,All,All,All,Hyperlipidemia,0.5042,13807.3027,13408.0257,0.1993,995.5788,southern
+State,Kentucky,21.0,All,All,All,Hypertension,0.6257,13970.1122,13535.5403,0.1971,1030.4075,southern
+State,Kentucky,21.0,All,All,All,Ischemic Heart Disease,0.2932,19147.8237,18695.7555,0.2233,1395.8462,southern
+State,Kentucky,21.0,All,All,All,Osteoporosis,0.0545,19398.2777,18744.0853,0.1993,1256.576,southern
+State,Kentucky,21.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0281,22939.2079,22353.3105,0.2519,2199.198,southern
+State,Kentucky,21.0,All,All,All,Stroke,0.0345,32417.3542,31849.4802,0.2313,2209.7747,southern
+State,Louisiana,22.0,All,All,All,Alcohol Abuse,0.0191,29589.8113,29148.8274,0.2414,2587.4297,southern
+State,Louisiana,22.0,All,All,All,Alzheimer's Disease/Dementia,0.1203,30341.6524,28461.2312,0.2211,1709.8526,southern
+State,Louisiana,22.0,All,All,All,Arthritis,0.3595,18282.4061,17242.7869,0.1888,1170.1542,southern
+State,Louisiana,22.0,All,All,All,Asthma,0.0396,23687.3497,22777.0927,0.2126,1988.058,southern
+State,Louisiana,22.0,All,All,All,Atrial Fibrillation,0.0781,28564.1528,27431.2377,0.241,1673.5691,southern
+State,Louisiana,22.0,All,All,All,Autism Spectrum Disorders,0.0023,9795.617,9259.3057,0.2281,1211.4035,southern
+State,Louisiana,22.0,All,All,All,COPD,0.1243,29240.5698,27911.8037,0.2325,1938.9101,southern
+State,Louisiana,22.0,All,All,All,Cancer,0.0804,21846.5485,20816.4349,0.2009,1100.381,southern
+State,Louisiana,22.0,All,All,All,Chronic Kidney Disease,0.2662,25756.9415,24725.5421,0.2304,1562.3852,southern
+State,Louisiana,22.0,All,All,All,Depression,0.187,24191.5828,22837.2872,0.2183,1688.9352,southern
+State,Louisiana,22.0,All,All,All,Diabetes,0.2996,19036.2506,18128.6357,0.2184,1210.1268,southern
+State,Louisiana,22.0,All,All,All,Drug/Substance Abuse,0.0444,26102.132,25542.2736,0.2676,2591.416,southern
+State,Louisiana,22.0,All,All,All,HIV/AIDS,0.0054,20070.2284,20987.7899,0.3113,2010.598,southern
+State,Louisiana,22.0,All,All,All,Heart Failure,0.1594,31752.7284,30490.4419,0.2458,1963.5829,southern
+State,Louisiana,22.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0101,28878.0195,29082.6898,0.2777,2322.1057,southern
+State,Louisiana,22.0,All,All,All,Hyperlipidemia,0.4978,15896.5654,15121.0686,0.1929,1010.0964,southern
+State,Louisiana,22.0,All,All,All,Hypertension,0.6515,16143.4632,15362.4532,0.1923,1073.2454,southern
+State,Louisiana,22.0,All,All,All,Ischemic Heart Disease,0.316,21232.1732,20258.0894,0.2133,1331.2186,southern
+State,Louisiana,22.0,All,All,All,Osteoporosis,0.0603,19737.5412,18593.3327,0.1848,1104.8542,southern
+State,Louisiana,22.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0407,28745.5756,26834.2376,0.237,2261.5116,southern
+State,Louisiana,22.0,All,All,All,Stroke,0.0465,34690.8811,33323.1243,0.2252,2138.9894,southern
+State,Maine,23.0,All,All,All,Alcohol Abuse,0.0323,18588.5125,19944.8218,0.2298,2275.5535,non-southern
+State,Maine,23.0,All,All,All,Alzheimer's Disease/Dementia,0.096,20438.6254,21445.6238,0.1974,1665.3382,non-southern
+State,Maine,23.0,All,All,All,Arthritis,0.2816,14819.7752,15472.0398,0.1675,1197.9453,non-southern
+State,Maine,23.0,All,All,All,Asthma,0.0468,18472.273,19438.3715,0.2005,1947.1477,non-southern
+State,Maine,23.0,All,All,All,Atrial Fibrillation,0.0883,20446.3021,21824.0135,0.2016,1608.4518,non-southern
+State,Maine,23.0,All,All,All,Autism Spectrum Disorders,0.0043,6895.9577,7112.9232,0.1471,1196.1669,non-southern
+State,Maine,23.0,All,All,All,COPD,0.125,21170.5691,22468.996,0.2078,1928.1569,non-southern
+State,Maine,23.0,All,All,All,Cancer,0.0701,19703.6126,20591.2736,0.1935,1231.4148,non-southern
+State,Maine,23.0,All,All,All,Chronic Kidney Disease,0.2061,20226.9946,21405.5043,0.2095,1568.6083,non-southern
+State,Maine,23.0,All,All,All,Depression,0.2281,16343.4487,17095.4528,0.1944,1558.4695,non-southern
+State,Maine,23.0,All,All,All,Diabetes,0.2255,14223.6345,14893.567,0.2024,1197.1466,non-southern
+State,Maine,23.0,All,All,All,Drug/Substance Abuse,0.044,19099.8217,20338.8438,0.2505,2417.9753,non-southern
+State,Maine,23.0,All,All,All,Heart Failure,0.1211,24681.9171,26339.0999,0.2237,1883.9676,non-southern
+State,Maine,23.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0056,22981.6423,24521.3563,0.2813,2505.2356,non-southern
+State,Maine,23.0,All,All,All,Hyperlipidemia,0.3977,13626.2616,14333.576,0.1737,1120.3955,non-southern
+State,Maine,23.0,All,All,All,Hypertension,0.4871,13621.3315,14297.888,0.1738,1134.8876,non-southern
+State,Maine,23.0,All,All,All,Ischemic Heart Disease,0.2248,17931.5533,19002.8007,0.2002,1450.7678,non-southern
+State,Maine,23.0,All,All,All,Osteoporosis,0.0508,19081.457,20087.6523,0.1817,1439.9305,non-southern
+State,Maine,23.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0287,16296.7063,16934.6067,0.2064,2074.8206,non-southern
+State,Maine,23.0,All,All,All,Stroke,0.0264,28351.2007,30261.5043,0.1888,2140.9234,non-southern
+State,Maryland,24.0,All,All,All,Alcohol Abuse,0.0198,23905.1271,31763.4613,0.2827,2624.0404,southern
+State,Maryland,24.0,All,All,All,Alzheimer's Disease/Dementia,0.1129,23782.0469,29599.1437,0.2439,1524.1348,southern
+State,Maryland,24.0,All,All,All,Arthritis,0.3463,15662.6733,19032.4266,0.1972,1002.5437,southern
+State,Maryland,24.0,All,All,All,Asthma,0.054,20668.664,26078.1054,0.2356,1775.1307,southern
+State,Maryland,24.0,All,All,All,Atrial Fibrillation,0.0816,25057.6887,31713.011,0.2486,1507.4111,southern
+State,Maryland,24.0,All,All,All,Autism Spectrum Disorders,0.0024,7966.0182,10164.1917,0.2305,1295.7435,southern
+State,Maryland,24.0,All,All,All,COPD,0.1023,25375.1674,32442.8749,0.25,1779.4366,southern
+State,Maryland,24.0,All,All,All,Cancer,0.0924,20147.3026,24925.4237,0.2128,1013.4231,southern
+State,Maryland,24.0,All,All,All,Chronic Kidney Disease,0.2512,21858.7453,27401.96,0.2437,1335.5622,southern
+State,Maryland,24.0,All,All,All,Depression,0.1802,21041.8166,26274.6697,0.2417,1522.8641,southern
+State,Maryland,24.0,All,All,All,Diabetes,0.2957,15515.5852,19202.0372,0.2352,989.2759,southern
+State,Maryland,24.0,All,All,All,Drug/Substance Abuse,0.0352,23842.2318,31172.6915,0.2901,2642.7832,southern
+State,Maryland,24.0,All,All,All,HIV/AIDS,0.0065,20034.8055,26114.9008,0.2956,1754.3578,southern
+State,Maryland,24.0,All,All,All,Heart Failure,0.1257,29616.7997,37583.4639,0.2643,1820.0886,southern
+State,Maryland,24.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0108,25236.1396,33680.5375,0.3131,2070.9476,southern
+State,Maryland,24.0,All,All,All,Hyperlipidemia,0.5193,13523.2739,16546.4676,0.2055,858.3481,southern
+State,Maryland,24.0,All,All,All,Hypertension,0.6123,13953.6858,17100.7453,0.2054,907.618,southern
+State,Maryland,24.0,All,All,All,Ischemic Heart Disease,0.264,19832.9935,24735.1811,0.2362,1249.3642,southern
+State,Maryland,24.0,All,All,All,Osteoporosis,0.0643,16314.0013,19869.6953,0.1888,930.3789,southern
+State,Maryland,24.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0285,18822.5544,24442.2134,0.2864,2235.0068,southern
+State,Maryland,24.0,All,All,All,Stroke,0.0449,30796.9683,39457.1175,0.2458,2009.9328,southern
+State,Massachusetts,25.0,All,All,All,Alcohol Abuse,0.0369,22118.6886,27506.9482,0.2717,2496.1313,non-southern
+State,Massachusetts,25.0,All,All,All,Alzheimer's Disease/Dementia,0.1119,25403.0799,30869.9459,0.2467,1668.3596,non-southern
+State,Massachusetts,25.0,All,All,All,Arthritis,0.3109,15564.1627,18627.6656,0.1977,1060.2476,non-southern
+State,Massachusetts,25.0,All,All,All,Asthma,0.0653,19192.8171,23311.2545,0.2311,1783.5481,non-southern
+State,Massachusetts,25.0,All,All,All,Atrial Fibrillation,0.0971,23883.788,29377.8284,0.2448,1539.2333,non-southern
+State,Massachusetts,25.0,All,All,All,Autism Spectrum Disorders,0.0043,9087.1823,10868.3633,0.2307,1247.263,non-southern
+State,Massachusetts,25.0,All,All,All,COPD,0.1081,25098.2171,30657.3456,0.2553,1850.1653,non-southern
+State,Massachusetts,25.0,All,All,All,Cancer,0.0946,19428.0479,23187.453,0.2142,1066.7449,non-southern
+State,Massachusetts,25.0,All,All,All,Chronic Kidney Disease,0.2397,21414.8253,26193.1157,0.2456,1409.6774,non-southern
+State,Massachusetts,25.0,All,All,All,Depression,0.2318,18626.8136,22451.5002,0.2337,1492.8933,non-southern
+State,Massachusetts,25.0,All,All,All,Diabetes,0.2316,15742.5148,19033.4072,0.2366,1092.9398,non-southern
+State,Massachusetts,25.0,All,All,All,Drug/Substance Abuse,0.0439,22573.8192,27871.1884,0.2882,2731.2372,non-southern
+State,Massachusetts,25.0,All,All,All,HIV/AIDS,0.0043,14962.4048,18366.9953,0.2777,1508.7957,non-southern
+State,Massachusetts,25.0,All,All,All,Heart Failure,0.1276,28761.7399,35521.0841,0.2635,1823.5326,non-southern
+State,Massachusetts,25.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0107,21988.2773,27684.2735,0.3243,2423.052,non-southern
+State,Massachusetts,25.0,All,All,All,Hyperlipidemia,0.4681,13954.0256,16861.2303,0.2043,969.9442,non-southern
+State,Massachusetts,25.0,All,All,All,Hypertension,0.559,14246.158,17189.0707,0.205,1004.4488,non-southern
+State,Massachusetts,25.0,All,All,All,Ischemic Heart Disease,0.2368,20794.6411,25558.2251,0.2393,1418.6403,non-southern
+State,Massachusetts,25.0,All,All,All,Osteoporosis,0.0754,17192.7722,20711.964,0.2065,1121.1577,non-southern
+State,Massachusetts,25.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0392,21211.1305,25373.7073,0.2616,2226.6808,non-southern
+State,Massachusetts,25.0,All,All,All,Stroke,0.0362,30565.7407,37755.3594,0.237,2014.0242,non-southern
+State,Michigan,26.0,All,All,All,Alcohol Abuse,0.0252,23480.0919,25110.6351,0.2621,2364.8101,non-southern
+State,Michigan,26.0,All,All,All,Alzheimer's Disease/Dementia,0.1168,26025.169,27290.3719,0.2397,1691.4292,non-southern
+State,Michigan,26.0,All,All,All,Arthritis,0.3617,16536.9235,17211.2631,0.1986,1157.1665,non-southern
+State,Michigan,26.0,All,All,All,Asthma,0.0555,21300.8214,22409.0474,0.2321,1903.3758,non-southern
+State,Michigan,26.0,All,All,All,Atrial Fibrillation,0.0838,26011.4256,27689.5203,0.2441,1673.9482,non-southern
+State,Michigan,26.0,All,All,All,Autism Spectrum Disorders,0.0031,8541.945,8918.5154,0.2,1156.5569,non-southern
+State,Michigan,26.0,All,All,All,COPD,0.1418,25188.4203,26675.0121,0.2452,1866.0025,non-southern
+State,Michigan,26.0,All,All,All,Cancer,0.0808,21347.8459,22200.4615,0.2144,1194.3796,non-southern
+State,Michigan,26.0,All,All,All,Chronic Kidney Disease,0.2591,22365.3621,23585.6678,0.2346,1492.2778,non-southern
+State,Michigan,26.0,All,All,All,Depression,0.2087,20113.2733,20980.3846,0.2289,1586.8348,non-southern
+State,Michigan,26.0,All,All,All,Diabetes,0.2818,16446.7396,17226.8028,0.2276,1138.9964,non-southern
+State,Michigan,26.0,All,All,All,Drug/Substance Abuse,0.0487,23126.1462,24541.4348,0.2787,2453.5388,non-southern
+State,Michigan,26.0,All,All,All,HIV/AIDS,0.0023,20709.4069,21982.2042,0.2841,1678.8263,non-southern
+State,Michigan,26.0,All,All,All,Heart Failure,0.1596,28069.6596,29825.099,0.2492,1833.3145,non-southern
+State,Michigan,26.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0078,26461.5534,28416.1309,0.322,2150.1912,non-southern
+State,Michigan,26.0,All,All,All,Hyperlipidemia,0.4601,14904.9449,15613.5094,0.1999,1036.2808,non-southern
+State,Michigan,26.0,All,All,All,Hypertension,0.5797,14851.6284,15526.2463,0.1978,1059.6028,non-southern
+State,Michigan,26.0,All,All,All,Ischemic Heart Disease,0.2902,19759.0712,20826.4339,0.2239,1356.0708,non-southern
+State,Michigan,26.0,All,All,All,Osteoporosis,0.0577,19666.004,20498.599,0.1983,1272.9792,non-southern
+State,Michigan,26.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0364,21342.8538,22253.6802,0.2563,2044.7335,non-southern
+State,Michigan,26.0,All,All,All,Stroke,0.0381,33015.8052,35072.7042,0.2376,2196.1893,non-southern
+State,Minnesota,27.0,All,All,All,Alcohol Abuse,0.034,20792.5457,23837.8387,0.2521,2553.2131,non-southern
+State,Minnesota,27.0,All,All,All,Alzheimer's Disease/Dementia,0.0955,20419.289,22956.4931,0.2155,1467.0914,non-southern
+State,Minnesota,27.0,All,All,All,Arthritis,0.2534,15618.9578,17135.8764,0.1772,1145.8798,non-southern
+State,Minnesota,27.0,All,All,All,Asthma,0.0459,20881.3345,23392.3608,0.2228,2270.3518,non-southern
+State,Minnesota,27.0,All,All,All,Atrial Fibrillation,0.0774,23042.7435,25992.4782,0.2222,1511.7154,non-southern
+State,Minnesota,27.0,All,All,All,Autism Spectrum Disorders,0.0076,6066.352,6747.7197,0.1951,1032.344,non-southern
+State,Minnesota,27.0,All,All,All,COPD,0.0833,24795.9983,28062.0415,0.2358,1981.7955,non-southern
+State,Minnesota,27.0,All,All,All,Cancer,0.0693,20471.7197,22313.7201,0.1991,1117.8231,non-southern
+State,Minnesota,27.0,All,All,All,Chronic Kidney Disease,0.2192,21254.9044,23820.0076,0.2262,1481.48,non-southern
+State,Minnesota,27.0,All,All,All,Depression,0.2207,16936.1067,18803.1534,0.2214,1549.6317,non-southern
+State,Minnesota,27.0,All,All,All,Diabetes,0.2133,15106.6591,16754.4082,0.2175,1131.5317,non-southern
+State,Minnesota,27.0,All,All,All,Drug/Substance Abuse,0.0468,22944.3909,26141.3548,0.2755,2856.9407,non-southern
+State,Minnesota,27.0,All,All,All,HIV/AIDS,0.0026,16826.8913,19240.9939,0.2084,1672.8462,non-southern
+State,Minnesota,27.0,All,All,All,Heart Failure,0.1197,26060.5852,29484.7784,0.2427,1746.329,non-southern
+State,Minnesota,27.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0077,24095.1335,27571.4763,0.2878,2149.5327,non-southern
+State,Minnesota,27.0,All,All,All,Hyperlipidemia,0.2954,16777.547,18681.8941,0.1907,1206.1243,non-southern
+State,Minnesota,27.0,All,All,All,Hypertension,0.4314,15517.9296,17215.7443,0.1913,1161.233,non-southern
+State,Minnesota,27.0,All,All,All,Ischemic Heart Disease,0.2041,18958.0547,21259.5039,0.2187,1346.4124,non-southern
+State,Minnesota,27.0,All,All,All,Osteoporosis,0.0497,20478.2558,22830.2895,0.1952,1327.0746,non-southern
+State,Minnesota,27.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0459,14451.2201,16292.5602,0.2356,1933.1366,non-southern
+State,Minnesota,27.0,All,All,All,Stroke,0.028,30228.7851,34146.9266,0.2177,2130.4393,non-southern
+State,Mississippi,28.0,All,All,All,Alcohol Abuse,0.0184,27642.2971,26376.4142,0.249,2476.8862,southern
+State,Mississippi,28.0,All,All,All,Alzheimer's Disease/Dementia,0.11,28800.4515,26490.9288,0.221,1714.8349,southern
+State,Mississippi,28.0,All,All,All,Arthritis,0.3856,17186.3576,15942.837,0.1886,1190.3636,southern
+State,Mississippi,28.0,All,All,All,Asthma,0.0412,22671.813,21259.1114,0.2106,1955.8132,southern
+State,Mississippi,28.0,All,All,All,Atrial Fibrillation,0.075,27025.2266,25305.7623,0.2319,1635.1042,southern
+State,Mississippi,28.0,All,All,All,Autism Spectrum Disorders,0.0015,7295.476,6744.4678,0.2403,877.7943,southern
+State,Mississippi,28.0,All,All,All,COPD,0.1258,27256.7123,25489.8605,0.2294,1911.6246,southern
+State,Mississippi,28.0,All,All,All,Cancer,0.077,22849.3674,21293.7696,0.2091,1186.5512,southern
+State,Mississippi,28.0,All,All,All,Chronic Kidney Disease,0.2512,25062.3391,23453.2428,0.2301,1598.3537,southern
+State,Mississippi,28.0,All,All,All,Depression,0.1858,22012.347,20470.1898,0.2127,1601.3606,southern
+State,Mississippi,28.0,All,All,All,Diabetes,0.3057,17523.4098,16333.2799,0.2154,1176.2591,southern
+State,Mississippi,28.0,All,All,All,Drug/Substance Abuse,0.0456,22920.2551,21697.5252,0.248,2376.951,southern
+State,Mississippi,28.0,All,All,All,HIV/AIDS,0.0032,19055.9885,18246.8017,0.3351,1814.433,southern
+State,Mississippi,28.0,All,All,All,Heart Failure,0.1548,30620.2358,28661.1311,0.2433,1975.2962,southern
+State,Mississippi,28.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0057,28737.8805,27681.6751,0.3197,2350.4404,southern
+State,Mississippi,28.0,All,All,All,Hyperlipidemia,0.4564,15419.1022,14384.7637,0.1939,1037.6536,southern
+State,Mississippi,28.0,All,All,All,Hypertension,0.6527,15242.079,14204.536,0.1897,1059.5221,southern
+State,Mississippi,28.0,All,All,All,Ischemic Heart Disease,0.2938,20430.5004,19087.7786,0.2143,1369.0625,southern
+State,Mississippi,28.0,All,All,All,Osteoporosis,0.0544,20047.1199,18540.4503,0.1857,1178.9572,southern
+State,Mississippi,28.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0361,23936.5016,22132.5083,0.223,1982.0122,southern
+State,Mississippi,28.0,All,All,All,Stroke,0.042,34730.1863,32485.6349,0.2292,2209.8584,southern
+State,Missouri,29.0,All,All,All,Alcohol Abuse,0.019,24338.6491,24565.8925,0.2675,2307.6529,non-southern
+State,Missouri,29.0,All,All,All,Alzheimer's Disease/Dementia,0.111,23915.0897,23450.5388,0.2256,1529.5725,non-southern
+State,Missouri,29.0,All,All,All,Arthritis,0.3568,15877.1692,15525.072,0.1899,1059.0715,non-southern
+State,Missouri,29.0,All,All,All,Asthma,0.0449,21118.002,20930.9366,0.2245,1814.2733,non-southern
+State,Missouri,29.0,All,All,All,Atrial Fibrillation,0.086,24300.6745,24035.1285,0.237,1523.4418,non-southern
+State,Missouri,29.0,All,All,All,Autism Spectrum Disorders,0.0033,7846.9349,7810.0422,0.1922,1204.9873,non-southern
+State,Missouri,29.0,All,All,All,COPD,0.1369,24049.9106,23787.9741,0.2393,1701.9529,non-southern
+State,Missouri,29.0,All,All,All,Cancer,0.0842,20738.0882,20260.5768,0.2073,1060.3425,non-southern
+State,Missouri,29.0,All,All,All,Chronic Kidney Disease,0.2475,22078.259,21815.0259,0.2352,1386.0315,non-southern
+State,Missouri,29.0,All,All,All,Depression,0.2127,19460.7722,19106.0193,0.2244,1469.5805,non-southern
+State,Missouri,29.0,All,All,All,Diabetes,0.2644,16221.747,15963.2372,0.2261,1071.0488,non-southern
+State,Missouri,29.0,All,All,All,Drug/Substance Abuse,0.0334,23835.7585,23928.4801,0.2896,2652.96,non-southern
+State,Missouri,29.0,All,All,All,HIV/AIDS,0.0027,16933.3267,17525.3191,0.2707,1545.1745,non-southern
+State,Missouri,29.0,All,All,All,Heart Failure,0.146,27448.9659,27209.471,0.2507,1732.3008,non-southern
+State,Missouri,29.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0062,25908.7575,26482.0574,0.3015,2146.6547,non-southern
+State,Missouri,29.0,All,All,All,Hyperlipidemia,0.4482,14523.3325,14281.8869,0.1983,965.0422,non-southern
+State,Missouri,29.0,All,All,All,Hypertension,0.5728,14634.6558,14379.5581,0.1949,994.79,non-southern
+State,Missouri,29.0,All,All,All,Ischemic Heart Disease,0.2694,19226.8242,18981.712,0.2222,1259.8588,non-southern
+State,Missouri,29.0,All,All,All,Osteoporosis,0.0635,18389.346,17960.6255,0.1913,1146.8764,non-southern
+State,Missouri,29.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0345,19132.4648,18912.9225,0.2465,1890.9715,non-southern
+State,Missouri,29.0,All,All,All,Stroke,0.0344,32306.7727,31976.1988,0.2324,2074.7645,non-southern
+State,Montana,30.0,All,All,All,Alcohol Abuse,0.0199,20219.4688,21964.6855,0.2018,2047.1079,non-southern
+State,Montana,30.0,All,All,All,Alzheimer's Disease/Dementia,0.0795,17602.2064,18688.2225,0.1662,1328.565,non-southern
+State,Montana,30.0,All,All,All,Arthritis,0.2698,13547.7802,14178.1382,0.137,883.8798,non-southern
+State,Montana,30.0,All,All,All,Asthma,0.0365,18146.7706,19221.1385,0.1694,1513.9384,non-southern
+State,Montana,30.0,All,All,All,Atrial Fibrillation,0.0679,20750.4168,22159.7965,0.1909,1412.6375,non-southern
+State,Montana,30.0,All,All,All,COPD,0.095,20979.6292,22490.0845,0.1862,1633.5849,non-southern
+State,Montana,30.0,All,All,All,Cancer,0.0747,18441.4595,19368.1843,0.1652,934.8085,non-southern
+State,Montana,30.0,All,All,All,Chronic Kidney Disease,0.1616,20504.2253,21839.635,0.1934,1377.8633,non-southern
+State,Montana,30.0,All,All,All,Depression,0.172,15892.6302,16758.4567,0.1747,1281.5233,non-southern
+State,Montana,30.0,All,All,All,Diabetes,0.1877,13272.9443,14122.334,0.1768,950.7069,non-southern
+State,Montana,30.0,All,All,All,Drug/Substance Abuse,0.0267,23122.2671,24755.7696,0.2251,2547.0275,non-southern
+State,Montana,30.0,All,All,All,Heart Failure,0.1031,23350.9586,25050.8164,0.2042,1592.3713,non-southern
+State,Montana,30.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0048,21233.2286,23073.5202,0.2926,2329.6569,non-southern
+State,Montana,30.0,All,All,All,Hyperlipidemia,0.2774,13813.7582,14647.0709,0.1548,914.7664,non-southern
+State,Montana,30.0,All,All,All,Hypertension,0.4111,13581.3125,14398.0303,0.1519,950.9763,non-southern
+State,Montana,30.0,All,All,All,Ischemic Heart Disease,0.1962,16606.3918,17683.7852,0.1736,1131.9604,non-southern
+State,Montana,30.0,All,All,All,Osteoporosis,0.0586,16473.438,17231.539,0.1562,1039.9272,non-southern
+State,Montana,30.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0186,14444.6475,15687.2985,0.2185,1940.1465,non-southern
+State,Montana,30.0,All,All,All,Stroke,0.0217,25788.73,27534.5895,0.1704,1846.8468,non-southern
+State,Nebraska,31.0,All,All,All,Alcohol Abuse,0.0143,24534.9282,25597.4211,0.2451,1984.8008,non-southern
+State,Nebraska,31.0,All,All,All,Alzheimer's Disease/Dementia,0.1055,20437.4167,21097.7851,0.1869,1153.5666,non-southern
+State,Nebraska,31.0,All,All,All,Arthritis,0.3265,15787.6465,16111.4271,0.156,831.3784,non-southern
+State,Nebraska,31.0,All,All,All,Asthma,0.0357,21790.2769,22452.4522,0.204,1551.0741,non-southern
+State,Nebraska,31.0,All,All,All,Atrial Fibrillation,0.0934,23096.1142,23945.0367,0.1988,1198.253,non-southern
+State,Nebraska,31.0,All,All,All,Autism Spectrum Disorders,0.0025,8423.6092,8839.2695,0.2235,1074.4681,non-southern
+State,Nebraska,31.0,All,All,All,COPD,0.1079,24609.1135,25652.5665,0.2064,1422.0666,non-southern
+State,Nebraska,31.0,All,All,All,Cancer,0.081,20662.0094,21120.9098,0.1806,848.8728,non-southern
+State,Nebraska,31.0,All,All,All,Chronic Kidney Disease,0.2135,21978.3876,22635.4642,0.2053,1158.2014,non-southern
+State,Nebraska,31.0,All,All,All,Depression,0.1711,19565.7222,20037.2903,0.1967,1223.7701,non-southern
+State,Nebraska,31.0,All,All,All,Diabetes,0.2306,15212.9031,15611.8266,0.193,831.0846,non-southern
+State,Nebraska,31.0,All,All,All,Drug/Substance Abuse,0.018,25998.3111,27011.956,0.2802,2598.1659,non-southern
+State,Nebraska,31.0,All,All,All,HIV/AIDS,0.001,14298.2882,15233.7728,0.2522,1328.125,non-southern
+State,Nebraska,31.0,All,All,All,Heart Failure,0.1298,26153.1936,27247.5986,0.214,1353.5748,non-southern
+State,Nebraska,31.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0032,28133.2444,29140.5398,0.3055,2180.5556,non-southern
+State,Nebraska,31.0,All,All,All,Hyperlipidemia,0.3964,14915.0646,15272.7463,0.1671,793.1214,non-southern
+State,Nebraska,31.0,All,All,All,Hypertension,0.5178,14759.3028,15143.9431,0.1655,805.6209,non-southern
+State,Nebraska,31.0,All,All,All,Ischemic Heart Disease,0.2405,18523.3715,19125.7704,0.189,999.3435,non-southern
+State,Nebraska,31.0,All,All,All,Osteoporosis,0.0673,18300.3826,18781.5739,0.1611,903.5646,non-southern
+State,Nebraska,31.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0219,17418.0969,17894.7302,0.2152,1623.0663,non-southern
+State,Nebraska,31.0,All,All,All,Stroke,0.0277,31792.8299,32936.8664,0.1988,1785.8014,non-southern
+State,Nevada,32.0,All,All,All,Alcohol Abuse,0.0238,28870.3168,33311.6347,0.2939,2835.8597,non-southern
+State,Nevada,32.0,All,All,All,Alzheimer's Disease/Dementia,0.097,29858.8517,34145.1959,0.2582,1711.4733,non-southern
+State,Nevada,32.0,All,All,All,Arthritis,0.3068,16782.8927,18670.498,0.2058,1058.1592,non-southern
+State,Nevada,32.0,All,All,All,Asthma,0.0497,21964.4632,24775.715,0.2492,1746.2938,non-southern
+State,Nevada,32.0,All,All,All,Atrial Fibrillation,0.066,27992.5938,31946.477,0.2553,1642.6596,non-southern
+State,Nevada,32.0,All,All,All,Autism Spectrum Disorders,0.0015,9200.9722,10529.3748,0.2347,1236.5854,non-southern
+State,Nevada,32.0,All,All,All,COPD,0.1132,28192.5881,32083.7784,0.2624,1870.3363,non-southern
+State,Nevada,32.0,All,All,All,Cancer,0.0756,20838.803,22926.6872,0.2137,1016.959,non-southern
+State,Nevada,32.0,All,All,All,Chronic Kidney Disease,0.2517,22554.1046,25520.7417,0.2498,1352.6597,non-southern
+State,Nevada,32.0,All,All,All,Depression,0.1461,22651.4235,25569.0907,0.2464,1625.7027,non-southern
+State,Nevada,32.0,All,All,All,Diabetes,0.2526,17695.7355,19910.6472,0.2486,1078.7074,non-southern
+State,Nevada,32.0,All,All,All,Drug/Substance Abuse,0.0498,29281.9808,33445.1221,0.314,2730.3889,non-southern
+State,Nevada,32.0,All,All,All,HIV/AIDS,0.0036,18838.2506,21868.8854,0.3429,1664.6647,non-southern
+State,Nevada,32.0,All,All,All,Heart Failure,0.1199,31904.4473,36576.2947,0.2802,1908.5126,non-southern
+State,Nevada,32.0,All,All,All,Hepatitis (Chronic Viral B & C),0.009,25769.1058,29605.2389,0.3377,2122.1189,non-southern
+State,Nevada,32.0,All,All,All,Hyperlipidemia,0.4582,14172.2616,15848.9323,0.2138,872.363,non-southern
+State,Nevada,32.0,All,All,All,Hypertension,0.5231,15709.8841,17591.6944,0.2119,1003.1685,non-southern
+State,Nevada,32.0,All,All,All,Ischemic Heart Disease,0.2442,21049.2285,23815.1946,0.2436,1310.0628,non-southern
+State,Nevada,32.0,All,All,All,Osteoporosis,0.0569,17674.0621,19692.4025,0.1901,998.7162,non-southern
+State,Nevada,32.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0263,27441.3721,31651.5498,0.2914,2729.1058,non-southern
+State,Nevada,32.0,All,All,All,Stroke,0.0366,36285.3239,41566.7825,0.2708,2183.7773,non-southern
+State,New Hampshire,33.0,All,All,All,Alcohol Abuse,0.0275,19931.6813,22927.99,0.2499,2046.8599,non-southern
+State,New Hampshire,33.0,All,All,All,Alzheimer's Disease/Dementia,0.0913,22283.9775,24957.1419,0.2042,1493.8326,non-southern
+State,New Hampshire,33.0,All,All,All,Arthritis,0.2984,14595.4039,16384.7249,0.174,992.821,non-southern
+State,New Hampshire,33.0,All,All,All,Asthma,0.0485,18114.0407,20471.2131,0.2069,1645.0197,non-southern
+State,New Hampshire,33.0,All,All,All,Atrial Fibrillation,0.0893,22189.8558,25444.3435,0.2266,1542.8869,non-southern
+State,New Hampshire,33.0,All,All,All,Autism Spectrum Disorders,0.0025,7307.8479,8412.4532,0.2054,1156.7944,non-southern
+State,New Hampshire,33.0,All,All,All,COPD,0.1032,22294.1232,25525.4588,0.2228,1742.1697,non-southern
+State,New Hampshire,33.0,All,All,All,Cancer,0.0794,18076.3495,20449.992,0.2016,1007.2031,non-southern
+State,New Hampshire,33.0,All,All,All,Chronic Kidney Disease,0.1904,20900.4744,23812.4624,0.2227,1413.3392,non-southern
+State,New Hampshire,33.0,All,All,All,Depression,0.1957,17341.0653,19560.7734,0.2077,1381.6159,non-southern
+State,New Hampshire,33.0,All,All,All,Diabetes,0.2154,14177.8642,16000.6788,0.2087,1014.6378,non-southern
+State,New Hampshire,33.0,All,All,All,Drug/Substance Abuse,0.0361,19945.6566,22866.8327,0.2597,2347.3245,non-southern
+State,New Hampshire,33.0,All,All,All,Heart Failure,0.1084,26848.0063,30842.5284,0.2408,1769.8033,non-southern
+State,New Hampshire,33.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0055,20719.1886,24095.9434,0.2701,2254.6483,non-southern
+State,New Hampshire,33.0,All,All,All,Hyperlipidemia,0.4249,12772.7927,14440.9915,0.1804,903.8106,non-southern
+State,New Hampshire,33.0,All,All,All,Hypertension,0.4983,13223.373,14958.6267,0.1809,946.1379,non-southern
+State,New Hampshire,33.0,All,All,All,Ischemic Heart Disease,0.2149,18451.3866,21089.9249,0.2095,1301.1471,non-southern
+State,New Hampshire,33.0,All,All,All,Osteoporosis,0.0561,17662.6937,19920.2249,0.176,1132.2007,non-southern
+State,New Hampshire,33.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0257,18142.2717,20182.6351,0.2169,1876.0359,non-southern
+State,New Hampshire,33.0,All,All,All,Stroke,0.0305,28939.6505,33181.3745,0.2079,1986.0404,non-southern
+State,New Jersey,34.0,All,All,All,Alcohol Abuse,0.0193,25279.8919,30606.986,0.2607,2254.6811,non-southern
+State,New Jersey,34.0,All,All,All,Alzheimer's Disease/Dementia,0.12,25827.3318,30771.3633,0.2287,1456.2928,non-southern
+State,New Jersey,34.0,All,All,All,Arthritis,0.3515,16116.3648,18839.5936,0.1893,908.3499,non-southern
+State,New Jersey,34.0,All,All,All,Asthma,0.0575,20785.8225,24662.3148,0.2325,1497.4627,non-southern
+State,New Jersey,34.0,All,All,All,Atrial Fibrillation,0.0983,26796.6487,32192.021,0.2388,1415.4705,non-southern
+State,New Jersey,34.0,All,All,All,Autism Spectrum Disorders,0.0035,10110.5044,11912.0334,0.25,1425.7665,non-southern
+State,New Jersey,34.0,All,All,All,COPD,0.1096,28089.468,33537.9363,0.2509,1622.1288,non-southern
+State,New Jersey,34.0,All,All,All,Cancer,0.0986,21294.5826,24674.9616,0.2116,951.7183,non-southern
+State,New Jersey,34.0,All,All,All,Chronic Kidney Disease,0.2511,23402.2119,27820.5526,0.2349,1251.822,non-southern
+State,New Jersey,34.0,All,All,All,Depression,0.1628,23880.3921,28254.021,0.2341,1474.8986,non-southern
+State,New Jersey,34.0,All,All,All,Diabetes,0.312,16355.4163,19292.0649,0.222,903.5189,non-southern
+State,New Jersey,34.0,All,All,All,Drug/Substance Abuse,0.0289,23387.9094,27971.3265,0.2839,2318.8927,non-southern
+State,New Jersey,34.0,All,All,All,HIV/AIDS,0.0038,22769.9039,27479.0419,0.2926,1553.5083,non-southern
+State,New Jersey,34.0,All,All,All,Heart Failure,0.1519,30059.4886,36178.9873,0.2473,1589.3427,non-southern
+State,New Jersey,34.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0084,25622.1726,30804.905,0.3005,1763.6861,non-southern
+State,New Jersey,34.0,All,All,All,Hyperlipidemia,0.5666,13856.5282,16263.1537,0.1955,777.1029,non-southern
+State,New Jersey,34.0,All,All,All,Hypertension,0.6257,14754.9567,17323.1453,0.1944,836.433,non-southern
+State,New Jersey,34.0,All,All,All,Ischemic Heart Disease,0.3179,20093.8475,23888.3989,0.2186,1108.5058,non-southern
+State,New Jersey,34.0,All,All,All,Osteoporosis,0.0703,16525.1571,19282.2709,0.1846,871.3089,non-southern
+State,New Jersey,34.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0287,22831.4132,27290.1256,0.2525,1994.8088,non-southern
+State,New Jersey,34.0,All,All,All,Stroke,0.0491,32859.2198,39518.5958,0.2356,1858.3422,non-southern
+State,New Mexico,35.0,All,All,All,Alcohol Abuse,0.0233,20430.7119,22393.7769,0.2413,2251.1593,non-southern
+State,New Mexico,35.0,All,All,All,Alzheimer's Disease/Dementia,0.0851,21448.0626,22479.6062,0.206,1563.6733,non-southern
+State,New Mexico,35.0,All,All,All,Arthritis,0.3043,13228.0745,13699.8522,0.1607,959.3994,non-southern
+State,New Mexico,35.0,All,All,All,Asthma,0.0482,16280.9635,17107.2281,0.184,1424.2479,non-southern
+State,New Mexico,35.0,All,All,All,Atrial Fibrillation,0.0539,22567.6983,23761.1258,0.2109,1532.5164,non-southern
+State,New Mexico,35.0,All,All,All,Autism Spectrum Disorders,0.0019,5963.2228,6532.984,0.2283,1109.8398,non-southern
+State,New Mexico,35.0,All,All,All,COPD,0.0884,21254.8832,22523.8688,0.2,1673.276,non-southern
+State,New Mexico,35.0,All,All,All,Cancer,0.0619,17901.5843,18507.9078,0.1765,995.1155,non-southern
+State,New Mexico,35.0,All,All,All,Chronic Kidney Disease,0.2064,19353.3918,20420.7504,0.2044,1332.7126,non-southern
+State,New Mexico,35.0,All,All,All,Depression,0.1597,16851.3972,17621.5428,0.1982,1409.9132,non-southern
+State,New Mexico,35.0,All,All,All,Diabetes,0.255,13435.1153,14058.428,0.1926,979.4391,non-southern
+State,New Mexico,35.0,All,All,All,Drug/Substance Abuse,0.036,19929.8426,21328.073,0.2345,2376.7855,non-southern
+State,New Mexico,35.0,All,All,All,HIV/AIDS,0.0023,11822.2246,12813.0988,0.1592,1064.8148,non-southern
+State,New Mexico,35.0,All,All,All,Heart Failure,0.108,24584.7702,25966.915,0.2214,1724.011,non-southern
+State,New Mexico,35.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0076,19346.2785,21033.0927,0.2805,2006.8027,non-southern
+State,New Mexico,35.0,All,All,All,Hyperlipidemia,0.3709,12222.6902,12745.219,0.1695,887.0312,non-southern
+State,New Mexico,35.0,All,All,All,Hypertension,0.4751,12929.4114,13502.2439,0.1685,970.4498,non-southern
+State,New Mexico,35.0,All,All,All,Ischemic Heart Disease,0.2125,17426.6786,18217.9112,0.1919,1269.3175,non-southern
+State,New Mexico,35.0,All,All,All,Osteoporosis,0.065,15174.122,15851.0745,0.1691,979.794,non-southern
+State,New Mexico,35.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0197,17389.4099,18287.7125,0.2268,2160.8667,non-southern
+State,New Mexico,35.0,All,All,All,Stroke,0.0258,28554.3906,30327.8286,0.197,2061.1186,non-southern
+State,New York,36.0,All,All,All,Alcohol Abuse,0.0205,22833.561,29053.5395,0.281,2216.7256,non-southern
+State,New York,36.0,All,All,All,Alzheimer's Disease/Dementia,0.1223,24747.5475,31432.9658,0.2374,1461.3351,non-southern
+State,New York,36.0,All,All,All,Arthritis,0.3232,15922.8855,19346.4151,0.1946,902.1173,non-southern
+State,New York,36.0,All,All,All,Asthma,0.0589,20042.629,25019.1536,0.2379,1501.8424,non-southern
+State,New York,36.0,All,All,All,Atrial Fibrillation,0.0894,25749.9474,32068.3344,0.241,1406.4535,non-southern
+State,New York,36.0,All,All,All,Autism Spectrum Disorders,0.0047,7864.7771,9580.9942,0.1997,1190.7493,non-southern
+State,New York,36.0,All,All,All,COPD,0.1105,25853.4304,31918.8313,0.2556,1600.3782,non-southern
+State,New York,36.0,All,All,All,Cancer,0.0949,20734.2641,24929.8687,0.2154,929.5499,non-southern
+State,New York,36.0,All,All,All,Chronic Kidney Disease,0.2345,23562.9147,29315.1805,0.245,1298.5407,non-southern
+State,New York,36.0,All,All,All,Depression,0.1702,22108.038,27171.5782,0.2391,1424.8323,non-southern
+State,New York,36.0,All,All,All,Diabetes,0.3134,16044.0998,19869.1643,0.2258,895.0522,non-southern
+State,New York,36.0,All,All,All,Drug/Substance Abuse,0.0298,23403.1261,29426.8534,0.3044,2359.9939,non-southern
+State,New York,36.0,All,All,All,HIV/AIDS,0.0065,18704.5089,24704.4522,0.3036,1264.5206,non-southern
+State,New York,36.0,All,All,All,Heart Failure,0.1501,28506.5434,35919.1698,0.2567,1568.2791,non-southern
+State,New York,36.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0096,24848.7522,32374.3428,0.3123,1619.2573,non-southern
+State,New York,36.0,All,All,All,Hyperlipidemia,0.5116,14244.0208,17384.1105,0.2021,808.848,non-southern
+State,New York,36.0,All,All,All,Hypertension,0.5767,14912.3941,18228.4059,0.2015,866.5818,non-southern
+State,New York,36.0,All,All,All,Ischemic Heart Disease,0.2978,19756.5385,24595.072,0.2258,1105.4962,non-southern
+State,New York,36.0,All,All,All,Osteoporosis,0.0728,16556.1615,20193.2827,0.1923,903.1012,non-southern
+State,New York,36.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.038,21330.0595,27042.1791,0.2647,1889.2789,non-southern
+State,New York,36.0,All,All,All,Stroke,0.0428,31003.8653,39451.8096,0.2409,1762.7486,non-southern
+State,North Carolina,37.0,All,All,All,Alcohol Abuse,0.0205,22445.1016,23521.1942,0.2447,2368.7332,southern
+State,North Carolina,37.0,All,All,All,Alzheimer's Disease/Dementia,0.1038,22807.385,23120.2949,0.2153,1683.8169,southern
+State,North Carolina,37.0,All,All,All,Arthritis,0.3325,15041.9891,15165.0138,0.1804,1098.3938,southern
+State,North Carolina,37.0,All,All,All,Asthma,0.0476,19492.1081,19966.0175,0.2187,1872.2374,southern
+State,North Carolina,37.0,All,All,All,Atrial Fibrillation,0.0806,22385.8181,23144.841,0.2232,1513.7523,southern
+State,North Carolina,37.0,All,All,All,Autism Spectrum Disorders,0.0027,6265.5356,6447.531,0.1452,912.9168,southern
+State,North Carolina,37.0,All,All,All,COPD,0.1197,22753.5158,23380.5327,0.2289,1806.3904,southern
+State,North Carolina,37.0,All,All,All,Cancer,0.0827,19303.1499,19407.5152,0.1956,1071.3022,southern
+State,North Carolina,37.0,All,All,All,Chronic Kidney Disease,0.2511,20579.2733,21082.5657,0.222,1450.5245,southern
+State,North Carolina,37.0,All,All,All,Depression,0.193,18180.6903,18448.556,0.2115,1511.3652,southern
+State,North Carolina,37.0,All,All,All,Diabetes,0.2853,14842.7994,15075.9386,0.2119,1103.7099,southern
+State,North Carolina,37.0,All,All,All,Drug/Substance Abuse,0.0387,22061.6096,22939.6017,0.2705,2607.8501,southern
+State,North Carolina,37.0,All,All,All,HIV/AIDS,0.0041,16979.3879,17589.9249,0.2581,1671.7268,southern
+State,North Carolina,37.0,All,All,All,Heart Failure,0.1325,26887.6356,27757.3318,0.2418,1888.1599,southern
+State,North Carolina,37.0,All,All,All,Hepatitis (Chronic Viral B & C),0.007,24175.2015,25266.4194,0.2808,2145.3467,southern
+State,North Carolina,37.0,All,All,All,Hyperlipidemia,0.4882,12932.9471,13129.5177,0.1837,942.6241,southern
+State,North Carolina,37.0,All,All,All,Hypertension,0.6004,13231.2989,13412.4524,0.1842,992.125,southern
+State,North Carolina,37.0,All,All,All,Ischemic Heart Disease,0.2453,18519.2463,18966.7354,0.2121,1336.3507,southern
+State,North Carolina,37.0,All,All,All,Osteoporosis,0.0608,16614.2121,16772.022,0.1773,1098.0028,southern
+State,North Carolina,37.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0303,18471.9449,18724.172,0.2288,2173.4352,southern
+State,North Carolina,37.0,All,All,All,Stroke,0.0369,28515.3616,29405.3739,0.2127,2096.9029,southern
+State,North Dakota,38.0,All,All,All,Alcohol Abuse,0.0196,20311.4959,20983.2136,0.2175,2194.2827,non-southern
+State,North Dakota,38.0,All,All,All,Alzheimer's Disease/Dementia,0.0917,16699.7192,17122.5487,0.1842,1173.3032,non-southern
+State,North Dakota,38.0,All,All,All,Arthritis,0.2954,14318.9943,14705.8718,0.1651,896.8279,non-southern
+State,North Dakota,38.0,All,All,All,Asthma,0.0389,19597.5241,20121.2578,0.1966,1650.1465,non-southern
+State,North Dakota,38.0,All,All,All,Atrial Fibrillation,0.0733,22310.0585,23220.2276,0.2142,1398.8955,non-southern
+State,North Dakota,38.0,All,All,All,COPD,0.101,23346.6695,24318.0351,0.2181,1572.8235,non-southern
+State,North Dakota,38.0,All,All,All,Cancer,0.0829,20809.498,21194.6041,0.2095,952.3094,non-southern
+State,North Dakota,38.0,All,All,All,Chronic Kidney Disease,0.2265,19399.8629,19993.7631,0.2094,1185.3328,non-southern
+State,North Dakota,38.0,All,All,All,Depression,0.1854,16689.6123,17137.9558,0.1926,1250.4338,non-southern
+State,North Dakota,38.0,All,All,All,Diabetes,0.235,13620.9718,13995.8514,0.199,861.868,non-southern
+State,North Dakota,38.0,All,All,All,Drug/Substance Abuse,0.0206,22930.6047,23450.0759,0.2523,2602.3127,non-southern
+State,North Dakota,38.0,All,All,All,Heart Failure,0.14,23455.5555,24477.483,0.2175,1423.1938,non-southern
+State,North Dakota,38.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0031,22581.7393,23225.9698,0.2821,2274.8344,non-southern
+State,North Dakota,38.0,All,All,All,Hyperlipidemia,0.4068,13708.0516,14146.7381,0.171,845.5141,non-southern
+State,North Dakota,38.0,All,All,All,Hypertension,0.5055,13586.4135,13983.489,0.1706,873.2655,non-southern
+State,North Dakota,38.0,All,All,All,Ischemic Heart Disease,0.2561,16920.2056,17484.769,0.1905,1073.1075,non-southern
+State,North Dakota,38.0,All,All,All,Osteoporosis,0.073,17188.1127,17625.7778,0.1768,1040.6654,non-southern
+State,North Dakota,38.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0257,12160.2414,12337.5915,0.1743,1235.2466,non-southern
+State,North Dakota,38.0,All,All,All,Stroke,0.0254,26250.2288,27062.2513,0.1932,1806.781,non-southern
+State,Ohio,39.0,All,All,All,Alcohol Abuse,0.0202,24586.8995,25409.7853,0.2589,2217.1711,non-southern
+State,Ohio,39.0,All,All,All,Alzheimer's Disease/Dementia,0.104,26130.2172,26160.3808,0.2251,1618.6902,non-southern
+State,Ohio,39.0,All,All,All,Arthritis,0.3606,16463.3791,16495.4811,0.19,1116.123,non-southern
+State,Ohio,39.0,All,All,All,Asthma,0.0483,21114.1308,21381.5401,0.217,1808.7508,non-southern
+State,Ohio,39.0,All,All,All,Atrial Fibrillation,0.0895,26155.4546,26728.4291,0.2367,1638.403,non-southern
+State,Ohio,39.0,All,All,All,Autism Spectrum Disorders,0.0032,8276.6943,8323.6656,0.1696,1227.1277,non-southern
+State,Ohio,39.0,All,All,All,COPD,0.1319,25509.1287,25928.364,0.2362,1835.2531,non-southern
+State,Ohio,39.0,All,All,All,Cancer,0.0838,21265.1542,21443.8413,0.2065,1132.8554,non-southern
+State,Ohio,39.0,All,All,All,Chronic Kidney Disease,0.2527,22791.427,23134.3283,0.2278,1458.2395,non-southern
+State,Ohio,39.0,All,All,All,Depression,0.2037,20647.5356,20750.2033,0.2196,1530.4847,non-southern
+State,Ohio,39.0,All,All,All,Diabetes,0.272,16494.2988,16605.461,0.2195,1101.6491,non-southern
+State,Ohio,39.0,All,All,All,Drug/Substance Abuse,0.0305,23602.2449,24346.5814,0.2697,2507.0333,non-southern
+State,Ohio,39.0,All,All,All,HIV/AIDS,0.0019,20814.4069,21847.8223,0.2389,1455.4196,non-southern
+State,Ohio,39.0,All,All,All,Heart Failure,0.1474,29057.8394,29592.9145,0.245,1826.027,non-southern
+State,Ohio,39.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0056,27006.0229,28424.4583,0.3006,2265.9159,non-southern
+State,Ohio,39.0,All,All,All,Hyperlipidemia,0.4942,14298.1982,14405.0267,0.1918,978.7668,non-southern
+State,Ohio,39.0,All,All,All,Hypertension,0.5954,14551.9415,14638.5033,0.1894,1002.6896,non-southern
+State,Ohio,39.0,All,All,All,Ischemic Heart Disease,0.275,20003.224,20294.057,0.2168,1333.8397,non-southern
+State,Ohio,39.0,All,All,All,Osteoporosis,0.0622,19411.8184,19470.2446,0.1858,1218.9168,non-southern
+State,Ohio,39.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0296,22239.4263,22159.7747,0.2385,2001.1433,non-southern
+State,Ohio,39.0,All,All,All,Stroke,0.0381,32513.2997,33052.7768,0.2232,2113.8007,non-southern
+State,Oklahoma,40.0,All,All,All,Alcohol Abuse,0.0164,26983.4456,26697.0466,0.2588,2438.9042,southern
+State,Oklahoma,40.0,All,All,All,Alzheimer's Disease/Dementia,0.1075,27394.2911,26138.3301,0.2162,1692.1044,southern
+State,Oklahoma,40.0,All,All,All,Arthritis,0.3768,17300.3174,16612.8337,0.1784,1114.0099,southern
+State,Oklahoma,40.0,All,All,All,Asthma,0.0511,22621.3869,22029.9428,0.2135,1830.147,southern
+State,Oklahoma,40.0,All,All,All,Atrial Fibrillation,0.0779,26459.9817,25700.3379,0.2252,1664.5252,southern
+State,Oklahoma,40.0,All,All,All,Autism Spectrum Disorders,0.0014,10654.8243,10339.5851,0.2829,1080.1577,southern
+State,Oklahoma,40.0,All,All,All,COPD,0.1463,26084.3755,25347.3376,0.2238,1809.645,southern
+State,Oklahoma,40.0,All,All,All,Cancer,0.0743,22661.0995,21966.4898,0.1954,1153.7975,southern
+State,Oklahoma,40.0,All,All,All,Chronic Kidney Disease,0.2613,23586.0907,22868.9662,0.218,1483.3514,southern
+State,Oklahoma,40.0,All,All,All,Depression,0.2107,21869.8834,21071.3282,0.2123,1571.5726,southern
+State,Oklahoma,40.0,All,All,All,Diabetes,0.284,17493.3007,16889.2152,0.2123,1135.5593,southern
+State,Oklahoma,40.0,All,All,All,Drug/Substance Abuse,0.0544,23296.3506,22783.2722,0.2421,2204.5871,southern
+State,Oklahoma,40.0,All,All,All,HIV/AIDS,0.0017,16545.4239,16813.9162,0.273,1435.2052,southern
+State,Oklahoma,40.0,All,All,All,Heart Failure,0.1657,28496.7573,27619.1351,0.2333,1813.1469,southern
+State,Oklahoma,40.0,All,All,All,Hepatitis (Chronic Viral B & C),0.008,24681.8783,24590.3871,0.2923,2149.4845,southern
+State,Oklahoma,40.0,All,All,All,Hyperlipidemia,0.4511,15766.5099,15242.1259,0.1848,1016.1862,southern
+State,Oklahoma,40.0,All,All,All,Hypertension,0.6152,15538.845,14992.8304,0.1812,1035.9532,southern
+State,Oklahoma,40.0,All,All,All,Ischemic Heart Disease,0.3154,19746.5848,19108.2778,0.2033,1295.1326,southern
+State,Oklahoma,40.0,All,All,All,Osteoporosis,0.0565,21110.234,20269.4748,0.1805,1231.7577,southern
+State,Oklahoma,40.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0286,23484.1702,22621.7088,0.2322,2126.2749,southern
+State,Oklahoma,40.0,All,All,All,Stroke,0.0374,33090.0078,32126.9342,0.2158,2175.5426,southern
+State,Oregon,41.0,All,All,All,Alcohol Abuse,0.0255,18454.3037,21703.3588,0.2183,2127.5188,non-southern
+State,Oregon,41.0,All,All,All,Alzheimer's Disease/Dementia,0.081,18293.1657,21313.4045,0.1867,1628.399,non-southern
+State,Oregon,41.0,All,All,All,Arthritis,0.2817,12836.1365,14330.4549,0.144,936.3133,non-southern
+State,Oregon,41.0,All,All,All,Asthma,0.0435,18251.9027,20752.4281,0.1885,1656.0963,non-southern
+State,Oregon,41.0,All,All,All,Atrial Fibrillation,0.0752,19447.7318,22569.5784,0.2022,1494.8588,non-southern
+State,Oregon,41.0,All,All,All,Autism Spectrum Disorders,0.0026,6322.8135,7165.6586,0.1241,1220.4724,non-southern
+State,Oregon,41.0,All,All,All,COPD,0.0899,20497.4104,23753.3484,0.2047,1784.3972,non-southern
+State,Oregon,41.0,All,All,All,Cancer,0.0713,17347.7732,19289.353,0.1734,981.1394,non-southern
+State,Oregon,41.0,All,All,All,Chronic Kidney Disease,0.1951,18484.4827,21185.2054,0.2008,1361.6925,non-southern
+State,Oregon,41.0,All,All,All,Depression,0.1737,15244.2737,17311.1483,0.1883,1343.943,non-southern
+State,Oregon,41.0,All,All,All,Diabetes,0.2093,12918.1515,14604.7105,0.1857,1000.8307,non-southern
+State,Oregon,41.0,All,All,All,Drug/Substance Abuse,0.0434,21937.5539,25263.0254,0.2438,2416.1156,non-southern
+State,Oregon,41.0,All,All,All,HIV/AIDS,0.0019,13400.4518,15669.5594,0.2677,1296.2466,non-southern
+State,Oregon,41.0,All,All,All,Heart Failure,0.1147,22658.613,26331.65,0.2111,1698.7743,non-southern
+State,Oregon,41.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0108,19827.0483,22878.0293,0.2691,1847.8867,non-southern
+State,Oregon,41.0,All,All,All,Hyperlipidemia,0.3396,12102.3674,13740.162,0.1627,877.2439,non-southern
+State,Oregon,41.0,All,All,All,Hypertension,0.444,12712.3051,14405.1629,0.1606,997.9344,non-southern
+State,Oregon,41.0,All,All,All,Ischemic Heart Disease,0.1912,16492.7877,18937.1088,0.1871,1282.3658,non-southern
+State,Oregon,41.0,All,All,All,Osteoporosis,0.0544,15265.2332,17297.93,0.1675,1049.1439,non-southern
+State,Oregon,41.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0202,14529.5129,16960.2009,0.225,2271.6835,non-southern
+State,Oregon,41.0,All,All,All,Stroke,0.0259,25147.8099,29291.8228,0.1841,1926.9335,non-southern
+State,Pennsylvania,42.0,All,All,All,Alcohol Abuse,0.0198,24421.1415,27195.7295,0.2641,2204.1051,non-southern
+State,Pennsylvania,42.0,All,All,All,Alzheimer's Disease/Dementia,0.1071,24623.5416,26237.8329,0.2202,1470.4567,non-southern
+State,Pennsylvania,42.0,All,All,All,Arthritis,0.351,15771.9495,16623.8941,0.1871,958.9664,non-southern
+State,Pennsylvania,42.0,All,All,All,Asthma,0.0532,19959.1099,21568.096,0.2266,1590.9085,non-southern
+State,Pennsylvania,42.0,All,All,All,Atrial Fibrillation,0.0947,25069.1132,27037.1171,0.2331,1456.1183,non-southern
+State,Pennsylvania,42.0,All,All,All,Autism Spectrum Disorders,0.0031,9042.8253,9666.384,0.2287,1156.7685,non-southern
+State,Pennsylvania,42.0,All,All,All,COPD,0.1102,25423.0507,27349.2213,0.2428,1652.2067,non-southern
+State,Pennsylvania,42.0,All,All,All,Cancer,0.0906,20145.2485,21249.6702,0.204,978.8604,non-southern
+State,Pennsylvania,42.0,All,All,All,Chronic Kidney Disease,0.2462,22176.9449,23879.0184,0.2279,1297.0183,non-southern
+State,Pennsylvania,42.0,All,All,All,Depression,0.1925,20509.0879,21876.2054,0.2225,1402.0203,non-southern
+State,Pennsylvania,42.0,All,All,All,Diabetes,0.2585,16247.2099,17354.1751,0.221,973.896,non-southern
+State,Pennsylvania,42.0,All,All,All,Drug/Substance Abuse,0.032,23578.2758,26075.4816,0.2834,2305.3646,non-southern
+State,Pennsylvania,42.0,All,All,All,HIV/AIDS,0.0031,19642.5294,22626.6925,0.2988,1518.267,non-southern
+State,Pennsylvania,42.0,All,All,All,Heart Failure,0.1336,29204.4226,31610.6465,0.2467,1677.5317,non-southern
+State,Pennsylvania,42.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0079,25412.712,29313.645,0.2976,1880.326,non-southern
+State,Pennsylvania,42.0,All,All,All,Hyperlipidemia,0.5266,13325.4972,14157.1187,0.1899,810.1311,non-southern
+State,Pennsylvania,42.0,All,All,All,Hypertension,0.585,14241.3188,15131.3042,0.1902,881.4261,non-southern
+State,Pennsylvania,42.0,All,All,All,Ischemic Heart Disease,0.2727,19868.5894,21307.6258,0.2181,1200.6164,non-southern
+State,Pennsylvania,42.0,All,All,All,Osteoporosis,0.0741,17068.1263,17968.8577,0.187,984.7213,non-southern
+State,Pennsylvania,42.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0301,21213.8333,22656.3591,0.2405,1876.253,non-southern
+State,Pennsylvania,42.0,All,All,All,Stroke,0.0431,30921.8223,33583.0853,0.2248,1848.8093,non-southern
+State,Rhode Island,44.0,All,All,All,Alcohol Abuse,0.0317,19374.0278,22720.9484,0.2913,2189.5973,non-southern
+State,Rhode Island,44.0,All,All,All,Alzheimer's Disease/Dementia,0.0987,22766.5426,25902.3508,0.2318,1605.5579,non-southern
+State,Rhode Island,44.0,All,All,All,Arthritis,0.3316,15004.2305,16880.9671,0.2001,1001.955,non-southern
+State,Rhode Island,44.0,All,All,All,Asthma,0.0666,16911.8616,19287.4476,0.2296,1415.6963,non-southern
+State,Rhode Island,44.0,All,All,All,Atrial Fibrillation,0.091,21157.1551,24474.5783,0.2448,1458.6545,non-southern
+State,Rhode Island,44.0,All,All,All,COPD,0.1132,22144.5878,25375.9239,0.2557,1645.4187,non-southern
+State,Rhode Island,44.0,All,All,All,Cancer,0.0989,18067.5459,20190.901,0.2073,983.9871,non-southern
+State,Rhode Island,44.0,All,All,All,Chronic Kidney Disease,0.2269,20610.2893,23611.6517,0.2431,1378.6999,non-southern
+State,Rhode Island,44.0,All,All,All,Depression,0.2144,17360.2647,19744.1033,0.2353,1357.7659,non-southern
+State,Rhode Island,44.0,All,All,All,Diabetes,0.2444,14406.3126,16305.0494,0.2322,961.8712,non-southern
+State,Rhode Island,44.0,All,All,All,Drug/Substance Abuse,0.0329,20099.9773,23602.1267,0.3062,2515.1711,non-southern
+State,Rhode Island,44.0,All,All,All,HIV/AIDS,0.0028,18458.1805,20321.1492,0.3333,1835.249,non-southern
+State,Rhode Island,44.0,All,All,All,Heart Failure,0.1251,26404.3748,30518.585,0.2566,1737.021,non-southern
+State,Rhode Island,44.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0071,19275.2559,22150.6042,0.297,1986.5471,non-southern
+State,Rhode Island,44.0,All,All,All,Hyperlipidemia,0.5294,12206.9936,13805.7651,0.1974,819.8771,non-southern
+State,Rhode Island,44.0,All,All,All,Hypertension,0.594,12791.3461,14469.4822,0.1992,881.0827,non-southern
+State,Rhode Island,44.0,All,All,All,Ischemic Heart Disease,0.2564,18663.4573,21413.9758,0.2301,1284.6367,non-southern
+State,Rhode Island,44.0,All,All,All,Osteoporosis,0.0632,15978.6983,17985.1387,0.2109,1037.1491,non-southern
+State,Rhode Island,44.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0289,19854.8293,22576.3914,0.2564,2080.0882,non-southern
+State,Rhode Island,44.0,All,All,All,Stroke,0.0378,27258.0436,31838.1582,0.24,1928.8126,non-southern
+State,South Carolina,45.0,All,All,All,Alcohol Abuse,0.0172,24271.616,24402.3112,0.2304,2244.2151,southern
+State,South Carolina,45.0,All,All,All,Alzheimer's Disease/Dementia,0.0948,24284.6285,23804.556,0.2165,1558.2482,southern
+State,South Carolina,45.0,All,All,All,Arthritis,0.3369,14585.256,14245.2064,0.1675,917.025,southern
+State,South Carolina,45.0,All,All,All,Asthma,0.0462,18853.9173,18572.45,0.2042,1498.1234,southern
+State,South Carolina,45.0,All,All,All,Atrial Fibrillation,0.0797,22874.5041,22823.7435,0.2187,1368.5678,southern
+State,South Carolina,45.0,All,All,All,Autism Spectrum Disorders,0.0015,6568.2273,6395.1127,0.1667,1119.666,southern
+State,South Carolina,45.0,All,All,All,COPD,0.1061,23840.5713,23583.7051,0.2257,1624.6873,southern
+State,South Carolina,45.0,All,All,All,Cancer,0.0851,18682.296,18279.2668,0.1924,916.4475,southern
+State,South Carolina,45.0,All,All,All,Chronic Kidney Disease,0.2309,21588.4393,21334.8496,0.2187,1334.2093,southern
+State,South Carolina,45.0,All,All,All,Depression,0.169,18653.7134,18343.1523,0.2036,1338.931,southern
+State,South Carolina,45.0,All,All,All,Diabetes,0.2737,15046.472,14738.5732,0.2074,967.5885,southern
+State,South Carolina,45.0,All,All,All,Drug/Substance Abuse,0.0244,23654.2036,23700.6487,0.2706,2650.7862,southern
+State,South Carolina,45.0,All,All,All,HIV/AIDS,0.0033,17921.794,18188.2662,0.2663,1785.6514,southern
+State,South Carolina,45.0,All,All,All,Heart Failure,0.1245,28053.6013,27842.0855,0.239,1728.7437,southern
+State,South Carolina,45.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0046,24816.5404,24866.1518,0.3136,2040.5533,southern
+State,South Carolina,45.0,All,All,All,Hyperlipidemia,0.5321,12284.9725,12060.2727,0.1771,773.2501,southern
+State,South Carolina,45.0,All,All,All,Hypertension,0.6196,12946.8312,12700.1844,0.1774,851.0968,southern
+State,South Carolina,45.0,All,All,All,Ischemic Heart Disease,0.2496,18192.996,17959.0068,0.2038,1147.0002,southern
+State,South Carolina,45.0,All,All,All,Osteoporosis,0.0583,16519.244,16232.4379,0.1645,947.485,southern
+State,South Carolina,45.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0214,20271.4162,19807.9683,0.2271,2114.5023,southern
+State,South Carolina,45.0,All,All,All,Stroke,0.037,29241.0318,29089.4269,0.2107,1948.9602,southern
+State,South Dakota,46.0,All,All,All,Alcohol Abuse,0.0178,21657.8919,23264.3042,0.2263,1971.7235,non-southern
+State,South Dakota,46.0,All,All,All,Alzheimer's Disease/Dementia,0.0819,18795.8067,19330.6432,0.1859,1200.1367,non-southern
+State,South Dakota,46.0,All,All,All,Arthritis,0.2829,14425.7589,14860.7496,0.1503,788.1219,non-southern
+State,South Dakota,46.0,All,All,All,Asthma,0.0347,19246.5111,20050.0565,0.1889,1325.2762,non-southern
+State,South Dakota,46.0,All,All,All,Atrial Fibrillation,0.0758,21652.0366,22700.5151,0.1939,1280.8479,non-southern
+State,South Dakota,46.0,All,All,All,COPD,0.1043,22547.7679,23642.483,0.2013,1446.8542,non-southern
+State,South Dakota,46.0,All,All,All,Cancer,0.0768,19807.063,20397.3683,0.1765,853.5443,non-southern
+State,South Dakota,46.0,All,All,All,Chronic Kidney Disease,0.2045,20439.7457,21281.8342,0.2022,1158.8803,non-southern
+State,South Dakota,46.0,All,All,All,Depression,0.1652,17449.6243,18022.4216,0.1852,1167.7472,non-southern
+State,South Dakota,46.0,All,All,All,Diabetes,0.2265,14449.8241,14985.8394,0.1888,836.5157,non-southern
+State,South Dakota,46.0,All,All,All,Drug/Substance Abuse,0.0158,24375.5378,25894.6179,0.264,2476.4557,non-southern
+State,South Dakota,46.0,All,All,All,HIV/AIDS,0.0014,37717.898,39771.6291,0.226,1443.1818,non-southern
+State,South Dakota,46.0,All,All,All,Heart Failure,0.121,24484.9362,25701.86,0.2124,1428.024,non-southern
+State,South Dakota,46.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0029,30715.9084,31933.7296,0.2308,1944.2897,non-southern
+State,South Dakota,46.0,All,All,All,Hyperlipidemia,0.3822,13753.7075,14277.2311,0.1647,766.6032,non-southern
+State,South Dakota,46.0,All,All,All,Hypertension,0.4883,13833.3466,14337.9783,0.1617,807.7704,non-southern
+State,South Dakota,46.0,All,All,All,Ischemic Heart Disease,0.2246,17158.5198,17934.3649,0.1891,1020.2477,non-southern
+State,South Dakota,46.0,All,All,All,Osteoporosis,0.0693,16496.1741,16869.9679,0.1692,882.0341,non-southern
+State,South Dakota,46.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.02,14247.7801,14908.9674,0.2029,1385.4458,non-southern
+State,South Dakota,46.0,All,All,All,Stroke,0.0242,28413.7886,29567.438,0.1847,1807.8068,non-southern
+State,Tennessee,47.0,All,All,All,Alcohol Abuse,0.0172,24858.9993,23905.8828,0.2444,2317.6061,southern
+State,Tennessee,47.0,All,All,All,Alzheimer's Disease/Dementia,0.1071,25306.8701,23667.5083,0.2153,1548.5642,southern
+State,Tennessee,47.0,All,All,All,Arthritis,0.3592,15829.9059,14915.2115,0.1833,1011.3144,southern
+State,Tennessee,47.0,All,All,All,Asthma,0.0423,20485.8782,19510.9699,0.2086,1540.8006,southern
+State,Tennessee,47.0,All,All,All,Atrial Fibrillation,0.0836,24565.5078,23432.6604,0.2326,1490.2454,southern
+State,Tennessee,47.0,All,All,All,Autism Spectrum Disorders,0.0016,8054.6032,7924.9287,0.269,1171.6287,southern
+State,Tennessee,47.0,All,All,All,COPD,0.1317,24350.5158,23075.5097,0.231,1699.7391,southern
+State,Tennessee,47.0,All,All,All,Cancer,0.0812,20658.1368,19592.9168,0.2015,997.5252,southern
+State,Tennessee,47.0,All,All,All,Chronic Kidney Disease,0.2654,21539.2413,20457.0992,0.2249,1322.7112,southern
+State,Tennessee,47.0,All,All,All,Depression,0.196,20265.0882,19045.7425,0.2167,1413.1082,southern
+State,Tennessee,47.0,All,All,All,Diabetes,0.2815,16044.489,15147.7444,0.2149,1013.9265,southern
+State,Tennessee,47.0,All,All,All,Drug/Substance Abuse,0.0453,22759.4453,21730.9966,0.2627,2215.7239,southern
+State,Tennessee,47.0,All,All,All,HIV/AIDS,0.0025,18251.2786,18017.7552,0.2518,1633.4423,southern
+State,Tennessee,47.0,All,All,All,Heart Failure,0.1495,27779.4466,26440.2862,0.243,1730.1185,southern
+State,Tennessee,47.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0063,26128.6896,25543.2483,0.2957,2244.5874,southern
+State,Tennessee,47.0,All,All,All,Hyperlipidemia,0.4771,13862.4065,13116.9672,0.1903,879.139,southern
+State,Tennessee,47.0,All,All,All,Hypertension,0.6153,14119.6934,13339.3735,0.1871,920.3195,southern
+State,Tennessee,47.0,All,All,All,Ischemic Heart Disease,0.2862,19035.0486,18059.718,0.2129,1221.7662,southern
+State,Tennessee,47.0,All,All,All,Osteoporosis,0.0569,18354.2382,17248.0299,0.1853,1081.1811,southern
+State,Tennessee,47.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0294,25048.7558,23374.3007,0.2352,2061.9804,southern
+State,Tennessee,47.0,All,All,All,Stroke,0.0357,31728.1198,30248.535,0.2167,2036.3975,southern
+State,Texas,48.0,All,All,All,Alcohol Abuse,0.0182,29179.706,30115.784,0.2671,2201.1513,southern
+State,Texas,48.0,All,All,All,Alzheimer's Disease/Dementia,0.1262,30396.6828,30385.3085,0.2212,1549.1441,southern
+State,Texas,48.0,All,All,All,Arthritis,0.3421,18809.0278,18770.7176,0.1851,1053.8895,southern
+State,Texas,48.0,All,All,All,Asthma,0.0485,24044.9276,24319.3255,0.2213,1663.3977,southern
+State,Texas,48.0,All,All,All,Atrial Fibrillation,0.0782,29704.7459,30133.2359,0.233,1548.2978,southern
+State,Texas,48.0,All,All,All,Autism Spectrum Disorders,0.0019,8753.2974,8858.6165,0.1814,1005.6139,southern
+State,Texas,48.0,All,All,All,COPD,0.1115,30227.9758,30509.8008,0.235,1771.3359,southern
+State,Texas,48.0,All,All,All,Cancer,0.076,22852.7084,23131.7704,0.2018,1037.1755,southern
+State,Texas,48.0,All,All,All,Chronic Kidney Disease,0.2673,25609.5851,25886.8757,0.2253,1369.0564,southern
+State,Texas,48.0,All,All,All,Depression,0.1819,25053.5182,25169.9441,0.2207,1504.5826,southern
+State,Texas,48.0,All,All,All,Diabetes,0.2879,19678.6611,19769.5266,0.2205,1088.6429,southern
+State,Texas,48.0,All,All,All,Drug/Substance Abuse,0.0322,27320.7842,27968.4641,0.2789,2376.5829,southern
+State,Texas,48.0,All,All,All,HIV/AIDS,0.0037,19505.2241,21015.0035,0.287,1529.6398,southern
+State,Texas,48.0,All,All,All,Heart Failure,0.156,32811.3529,33203.1367,0.2407,1756.2786,southern
+State,Texas,48.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0081,29491.9125,31034.0996,0.3075,2034.3143,southern
+State,Texas,48.0,All,All,All,Hyperlipidemia,0.4947,16239.799,16315.641,0.1918,914.5744,southern
+State,Texas,48.0,All,All,All,Hypertension,0.5987,16833.0425,16895.294,0.1887,967.4767,southern
+State,Texas,48.0,All,All,All,Ischemic Heart Disease,0.2899,22514.943,22663.6838,0.2135,1243.663,southern
+State,Texas,48.0,All,All,All,Osteoporosis,0.0682,21316.5951,21323.151,0.1865,1113.9755,southern
+State,Texas,48.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0281,27280.9992,27296.8788,0.2413,1985.3766,southern
+State,Texas,48.0,All,All,All,Stroke,0.0424,37209.2473,37577.7161,0.2257,2033.3249,southern
+State,Utah,49.0,All,All,All,Alcohol Abuse,0.014,21412.5169,22520.4017,0.2187,2089.956,non-southern
+State,Utah,49.0,All,All,All,Alzheimer's Disease/Dementia,0.0882,21701.0528,22273.6992,0.167,1194.2589,non-southern
+State,Utah,49.0,All,All,All,Arthritis,0.3181,14365.1828,14662.8725,0.1254,786.8373,non-southern
+State,Utah,49.0,All,All,All,Asthma,0.0524,18787.7089,19361.6866,0.1487,1272.505,non-southern
+State,Utah,49.0,All,All,All,Atrial Fibrillation,0.0725,20977.9118,21960.2075,0.1714,1237.2992,non-southern
+State,Utah,49.0,All,All,All,COPD,0.0661,21682.2826,22643.1759,0.1752,1503.1279,non-southern
+State,Utah,49.0,All,All,All,Cancer,0.067,18146.316,18593.2428,0.1426,836.2656,non-southern
+State,Utah,49.0,All,All,All,Chronic Kidney Disease,0.217,19498.1802,20150.9084,0.1692,1122.6339,non-southern
+State,Utah,49.0,All,All,All,Depression,0.2054,16681.4082,17043.7792,0.158,1097.341,non-southern
+State,Utah,49.0,All,All,All,Diabetes,0.2381,14120.7648,14451.3925,0.1602,812.0574,non-southern
+State,Utah,49.0,All,All,All,Drug/Substance Abuse,0.0311,24060.1955,24858.439,0.2137,2339.6428,non-southern
+State,Utah,49.0,All,All,All,Heart Failure,0.1187,23882.4454,24894.851,0.1813,1330.6787,non-southern
+State,Utah,49.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0037,23749.5118,25117.7395,0.2534,2190.6615,non-southern
+State,Utah,49.0,All,All,All,Hyperlipidemia,0.3177,13993.8562,14448.2066,0.1384,796.9626,non-southern
+State,Utah,49.0,All,All,All,Hypertension,0.4528,14380.9774,14784.1524,0.1382,855.6655,non-southern
+State,Utah,49.0,All,All,All,Ischemic Heart Disease,0.2043,17403.0366,18049.2674,0.1603,1034.1453,non-southern
+State,Utah,49.0,All,All,All,Osteoporosis,0.0613,17227.0634,17692.7678,0.1392,886.3055,non-southern
+State,Utah,49.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0204,18294.396,18685.531,0.1905,1830.8841,non-southern
+State,Utah,49.0,All,All,All,Stroke,0.0261,27547.5001,28828.6146,0.16,1699.0715,non-southern
+State,Vermont,50.0,All,All,All,Alcohol Abuse,0.0279,16723.3857,20296.6493,0.2263,1957.8059,non-southern
+State,Vermont,50.0,All,All,All,Alzheimer's Disease/Dementia,0.0803,18934.4467,22272.1016,0.1963,1528.3651,non-southern
+State,Vermont,50.0,All,All,All,Arthritis,0.2839,13099.8352,15411.6525,0.1596,1043.5387,non-southern
+State,Vermont,50.0,All,All,All,Asthma,0.0432,17024.2462,20379.6255,0.1915,1880.6608,non-southern
+State,Vermont,50.0,All,All,All,Atrial Fibrillation,0.079,19391.3873,23720.3947,0.2055,1530.8379,non-southern
+State,Vermont,50.0,All,All,All,Autism Spectrum Disorders,0.0032,5787.8285,7028.0264,0.2179,888.601,non-southern
+State,Vermont,50.0,All,All,All,COPD,0.0964,19886.8253,24235.8312,0.2106,1823.1245,non-southern
+State,Vermont,50.0,All,All,All,Cancer,0.0704,17417.4104,20655.0806,0.1972,1069.1591,non-southern
+State,Vermont,50.0,All,All,All,Chronic Kidney Disease,0.1677,19046.9737,23199.8678,0.2159,1543.0447,non-southern
+State,Vermont,50.0,All,All,All,Depression,0.1966,14972.2777,17769.4849,0.1964,1425.9758,non-southern
+State,Vermont,50.0,All,All,All,Diabetes,0.2001,12778.4141,15296.2775,0.1971,1110.4859,non-southern
+State,Vermont,50.0,All,All,All,Drug/Substance Abuse,0.0352,16842.5011,20472.5798,0.2349,2283.7387,non-southern
+State,Vermont,50.0,All,All,All,Heart Failure,0.0938,24323.485,29886.8554,0.2277,1880.2079,non-southern
+State,Vermont,50.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0063,15765.7922,19350.599,0.2481,1764.0751,non-southern
+State,Vermont,50.0,All,All,All,Hyperlipidemia,0.3064,12963.0078,15576.0344,0.169,1070.8506,non-southern
+State,Vermont,50.0,All,All,All,Hypertension,0.444,12121.3272,14491.1638,0.1711,1031.0779,non-southern
+State,Vermont,50.0,All,All,All,Ischemic Heart Disease,0.2112,16553.8532,20110.2303,0.1993,1363.2312,non-southern
+State,Vermont,50.0,All,All,All,Osteoporosis,0.0442,16984.6019,20262.4613,0.1728,1228.7234,non-southern
+State,Vermont,50.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0214,15459.4254,18145.4295,0.1975,1839.2296,non-southern
+State,Vermont,50.0,All,All,All,Stroke,0.0242,26196.0681,31234.7764,0.1855,1979.5423,non-southern
+State,Virginia,51.0,All,All,All,Alcohol Abuse,0.0186,23472.3734,24391.22,0.2506,2227.112,southern
+State,Virginia,51.0,All,All,All,Alzheimer's Disease/Dementia,0.1039,23154.5292,23595.9754,0.2158,1621.6892,southern
+State,Virginia,51.0,All,All,All,Arthritis,0.326,14805.5606,15037.2409,0.1755,1034.3463,southern
+State,Virginia,51.0,All,All,All,Asthma,0.0514,19384.2383,19825.1975,0.2109,1713.6834,southern
+State,Virginia,51.0,All,All,All,Atrial Fibrillation,0.084,23228.9212,24053.6737,0.2236,1537.462,southern
+State,Virginia,51.0,All,All,All,Autism Spectrum Disorders,0.0021,7394.4709,7550.8955,0.2004,1160.9511,southern
+State,Virginia,51.0,All,All,All,COPD,0.1056,23540.3034,24126.0578,0.2324,1809.262,southern
+State,Virginia,51.0,All,All,All,Cancer,0.087,19063.3512,19370.0004,0.1921,1050.257,southern
+State,Virginia,51.0,All,All,All,Chronic Kidney Disease,0.2393,20760.2626,21274.7063,0.221,1409.2573,southern
+State,Virginia,51.0,All,All,All,Depression,0.1731,18952.8974,19304.4943,0.2162,1505.8349,southern
+State,Virginia,51.0,All,All,All,Diabetes,0.2744,14622.3339,14881.6836,0.21,1043.6821,southern
+State,Virginia,51.0,All,All,All,Drug/Substance Abuse,0.0254,23437.6819,24249.6993,0.2836,2695.6931,southern
+State,Virginia,51.0,All,All,All,HIV/AIDS,0.0027,18767.4594,19482.5173,0.2625,1798.5154,southern
+State,Virginia,51.0,All,All,All,Heart Failure,0.128,27584.2878,28426.4565,0.24,1850.8357,southern
+State,Virginia,51.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0067,28410.8703,29700.5175,0.312,2225.7516,southern
+State,Virginia,51.0,All,All,All,Hyperlipidemia,0.5076,12597.3149,12863.5548,0.1827,888.6587,southern
+State,Virginia,51.0,All,All,All,Hypertension,0.593,13085.1915,13328.3137,0.182,953.0176,southern
+State,Virginia,51.0,All,All,All,Ischemic Heart Disease,0.2406,18816.9961,19318.3326,0.2119,1310.5914,southern
+State,Virginia,51.0,All,All,All,Osteoporosis,0.06,16654.0035,16916.2543,0.1764,1064.3754,southern
+State,Virginia,51.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0249,18177.1122,18460.0219,0.2357,2063.9187,southern
+State,Virginia,51.0,All,All,All,Stroke,0.0379,29206.9728,30054.499,0.2132,2085.7524,southern
+State,Washington,53.0,All,All,All,Alcohol Abuse,0.0213,19918.9405,22922.7727,0.2273,2092.0462,non-southern
+State,Washington,53.0,All,All,All,Alzheimer's Disease/Dementia,0.0892,18810.7568,21448.7609,0.1862,1479.1875,non-southern
+State,Washington,53.0,All,All,All,Arthritis,0.2725,13420.672,14848.4753,0.1537,939.0315,non-southern
+State,Washington,53.0,All,All,All,Asthma,0.0424,18958.7009,21245.7652,0.1936,1712.0151,non-southern
+State,Washington,53.0,All,All,All,Atrial Fibrillation,0.0818,20359.6355,23293.3711,0.1988,1449.4979,non-southern
+State,Washington,53.0,All,All,All,Autism Spectrum Disorders,0.0021,7969.4921,9011.578,0.1711,1335.5146,non-southern
+State,Washington,53.0,All,All,All,COPD,0.0849,21879.2062,24849.33,0.2091,1737.2398,non-southern
+State,Washington,53.0,All,All,All,Cancer,0.0736,18919.3797,20815.0078,0.1752,1020.4579,non-southern
+State,Washington,53.0,All,All,All,Chronic Kidney Disease,0.2075,18993.3565,21430.9516,0.2048,1344.2393,non-southern
+State,Washington,53.0,All,All,All,Depression,0.1657,16460.6824,18411.1353,0.1963,1361.3547,non-southern
+State,Washington,53.0,All,All,All,Diabetes,0.2177,13415.606,14963.9813,0.1967,983.9392,non-southern
+State,Washington,53.0,All,All,All,Drug/Substance Abuse,0.0366,23695.3393,26925.9257,0.2555,2549.3561,non-southern
+State,Washington,53.0,All,All,All,HIV/AIDS,0.0021,13262.9765,15097.7702,0.2335,1220.1671,non-southern
+State,Washington,53.0,All,All,All,Heart Failure,0.1184,23875.1176,27272.3813,0.2185,1679.4084,non-southern
+State,Washington,53.0,All,All,All,Hepatitis (Chronic Viral B & C),0.009,18592.8675,21286.7559,0.2701,1774.8401,non-southern
+State,Washington,53.0,All,All,All,Hyperlipidemia,0.3496,13045.3749,14609.8753,0.1696,919.2788,non-southern
+State,Washington,53.0,All,All,All,Hypertension,0.4544,13354.9158,14933.7424,0.1669,999.7339,non-southern
+State,Washington,53.0,All,All,All,Ischemic Heart Disease,0.1988,17241.6026,19515.7373,0.1945,1249.1417,non-southern
+State,Washington,53.0,All,All,All,Osteoporosis,0.0528,16492.2846,18421.1693,0.1732,1089.3709,non-southern
+State,Washington,53.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.021,15669.8191,18017.621,0.2228,2180.6557,non-southern
+State,Washington,53.0,All,All,All,Stroke,0.0286,26746.7203,30632.3502,0.1851,1960.3987,non-southern
+State,West Virginia,54.0,All,All,All,Alcohol Abuse,0.0205,22470.9194,22808.9896,0.2661,2385.9339,southern
+State,West Virginia,54.0,All,All,All,Alzheimer's Disease/Dementia,0.1014,25190.5941,24656.6526,0.2406,1811.3772,southern
+State,West Virginia,54.0,All,All,All,Arthritis,0.3692,15586.2944,15281.1294,0.2045,1241.4667,southern
+State,West Virginia,54.0,All,All,All,Asthma,0.0502,19303.3239,19136.328,0.2239,1880.9644,southern
+State,West Virginia,54.0,All,All,All,Atrial Fibrillation,0.0828,25800.5238,25847.4301,0.2518,1806.7671,southern
+State,West Virginia,54.0,All,All,All,Autism Spectrum Disorders,0.0025,7213.3821,7173.2261,0.1835,1586.5522,southern
+State,West Virginia,54.0,All,All,All,COPD,0.1755,23266.6787,23155.3347,0.2463,1914.5151,southern
+State,West Virginia,54.0,All,All,All,Cancer,0.071,21772.9262,21409.7031,0.2251,1312.5477,southern
+State,West Virginia,54.0,All,All,All,Chronic Kidney Disease,0.264,21449.6026,21318.931,0.2431,1587.0348,southern
+State,West Virginia,54.0,All,All,All,Depression,0.2316,18602.3814,18288.6528,0.2347,1620.1036,southern
+State,West Virginia,54.0,All,All,All,Diabetes,0.3058,15566.3174,15349.8626,0.2322,1218.966,southern
+State,West Virginia,54.0,All,All,All,Drug/Substance Abuse,0.0432,20636.0534,20915.0261,0.278,2465.0113,southern
+State,West Virginia,54.0,All,All,All,HIV/AIDS,0.0015,16649.7742,17188.8212,0.2125,1702.8986,southern
+State,West Virginia,54.0,All,All,All,Heart Failure,0.1511,28411.8455,28335.5892,0.2619,2066.1835,southern
+State,West Virginia,54.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0074,27543.6036,28681.0666,0.3258,2759.9216,southern
+State,West Virginia,54.0,All,All,All,Hyperlipidemia,0.5132,13679.0547,13491.3116,0.2078,1077.979,southern
+State,West Virginia,54.0,All,All,All,Hypertension,0.621,13747.0151,13527.3659,0.2041,1099.7719,southern
+State,West Virginia,54.0,All,All,All,Ischemic Heart Disease,0.3179,18904.1729,18697.4691,0.2289,1477.3717,southern
+State,West Virginia,54.0,All,All,All,Osteoporosis,0.0543,18430.89,18134.5996,0.2074,1335.2178,southern
+State,West Virginia,54.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0278,22822.5731,22321.55,0.2848,2443.0001,southern
+State,West Virginia,54.0,All,All,All,Stroke,0.0357,31160.685,31017.5812,0.2424,2353.4002,southern
+State,Wisconsin,55.0,All,All,All,Alcohol Abuse,0.0239,20495.2891,21912.0774,0.2377,2125.9102,non-southern
+State,Wisconsin,55.0,All,All,All,Alzheimer's Disease/Dementia,0.0901,20672.7229,21792.4053,0.1987,1519.9467,non-southern
+State,Wisconsin,55.0,All,All,All,Arthritis,0.2942,14728.0459,15236.3093,0.1688,1057.0911,non-southern
+State,Wisconsin,55.0,All,All,All,Asthma,0.0482,19753.5799,20695.237,0.2033,1892.2211,non-southern
+State,Wisconsin,55.0,All,All,All,Atrial Fibrillation,0.0817,21927.6352,23319.2671,0.2117,1472.4492,non-southern
+State,Wisconsin,55.0,All,All,All,Autism Spectrum Disorders,0.004,6284.3928,6610.0158,0.1903,1042.6855,non-southern
+State,Wisconsin,55.0,All,All,All,COPD,0.0923,23079.0014,24441.2916,0.2187,1801.0896,non-southern
+State,Wisconsin,55.0,All,All,All,Cancer,0.0779,18765.4266,19378.0739,0.1872,1025.476,non-southern
+State,Wisconsin,55.0,All,All,All,Chronic Kidney Disease,0.2312,19680.6374,20731.0695,0.2111,1336.063,non-southern
+State,Wisconsin,55.0,All,All,All,Depression,0.1833,17008.0295,17762.2712,0.2042,1463.1686,non-southern
+State,Wisconsin,55.0,All,All,All,Diabetes,0.2284,14246.4881,14885.0503,0.202,1029.1171,non-southern
+State,Wisconsin,55.0,All,All,All,Drug/Substance Abuse,0.0267,22033.4687,23333.2227,0.266,2637.7526,non-southern
+State,Wisconsin,55.0,All,All,All,HIV/AIDS,0.0014,17452.7187,18728.8802,0.2885,1563.8665,non-southern
+State,Wisconsin,55.0,All,All,All,Heart Failure,0.1269,25012.574,26605.001,0.2244,1685.242,non-southern
+State,Wisconsin,55.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0044,23348.3011,25052.0552,0.2987,2062.7584,non-southern
+State,Wisconsin,55.0,All,All,All,Hyperlipidemia,0.4178,13149.1862,13743.5704,0.1739,940.1264,non-southern
+State,Wisconsin,55.0,All,All,All,Hypertension,0.4985,13479.8339,14087.9845,0.1754,985.4504,non-southern
+State,Wisconsin,55.0,All,All,All,Ischemic Heart Disease,0.2298,17622.7854,18584.6266,0.2001,1233.1795,non-southern
+State,Wisconsin,55.0,All,All,All,Osteoporosis,0.0559,18710.9717,19669.3415,0.1843,1288.3439,non-southern
+State,Wisconsin,55.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0262,14270.426,15054.5376,0.2229,1884.7434,non-southern
+State,Wisconsin,55.0,All,All,All,Stroke,0.0265,29223.2115,30972.5182,0.2027,2017.7167,non-southern
+State,Wyoming,56.0,All,All,All,Alcohol Abuse,0.0177,20685.4656,24518.6332,0.1973,2215.1231,non-southern
+State,Wyoming,56.0,All,All,All,Alzheimer's Disease/Dementia,0.077,18790.7284,21637.2145,0.1736,1445.8693,non-southern
+State,Wyoming,56.0,All,All,All,Arthritis,0.2645,14502.7141,16308.9256,0.1394,951.6694,non-southern
+State,Wyoming,56.0,All,All,All,Asthma,0.0308,19559.3961,22345.5344,0.1735,1633.4796,non-southern
+State,Wyoming,56.0,All,All,All,Atrial Fibrillation,0.065,21894.2686,25336.3039,0.1961,1472.4132,non-southern
+State,Wyoming,56.0,All,All,All,COPD,0.1053,21580.4787,25199.9233,0.1882,1700.5828,non-southern
+State,Wyoming,56.0,All,All,All,Cancer,0.0657,19992.1773,22436.0096,0.1668,995.4114,non-southern
+State,Wyoming,56.0,All,All,All,Chronic Kidney Disease,0.1562,21809.3248,25095.7643,0.1957,1480.9511,non-southern
+State,Wyoming,56.0,All,All,All,Depression,0.1496,18160.8237,20551.4808,0.1799,1426.3162,non-southern
+State,Wyoming,56.0,All,All,All,Diabetes,0.1986,13430.0211,15203.8598,0.1745,952.2263,non-southern
+State,Wyoming,56.0,All,All,All,Drug/Substance Abuse,0.0218,23647.0554,27170.597,0.207,2501.9102,non-southern
+State,Wyoming,56.0,All,All,All,Heart Failure,0.109,23719.8279,27618.7569,0.2077,1657.1892,non-southern
+State,Wyoming,56.0,All,All,All,Hepatitis (Chronic Viral B & C),0.0041,17398.3491,20446.0406,0.2113,2055.2764,non-southern
+State,Wyoming,56.0,All,All,All,Hyperlipidemia,0.2448,15455.4152,17662.7498,0.1652,1021.4547,non-southern
+State,Wyoming,56.0,All,All,All,Hypertension,0.4038,14596.5257,16604.1539,0.1563,1032.4567,non-southern
+State,Wyoming,56.0,All,All,All,Ischemic Heart Disease,0.201,17492.8555,20113.1132,0.1772,1248.6805,non-southern
+State,Wyoming,56.0,All,All,All,Osteoporosis,0.048,19099.8147,21672.1663,0.1684,1137.0338,non-southern
+State,Wyoming,56.0,All,All,All,Schizophrenia and Other Psychotic Disorders,0.0154,16458.9524,18485.6017,0.2006,2171.5057,non-southern
+State,Wyoming,56.0,All,All,All,Stroke,0.021,31635.646,35836.6714,0.1921,2129.5747,non-southern
