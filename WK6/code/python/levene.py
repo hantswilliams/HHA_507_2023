@@ -1,6 +1,9 @@
 import scipy.stats as stats
 import pandas as pd 
+import seaborn as sns
+import matplotlib.pyplot as plt
 
+df = pd.DataFrame()
 
 # Levene's Test
 statistic, p_value = stats.levene(
@@ -10,10 +13,8 @@ statistic, p_value = stats.levene(
     df['Blood Glucose'][df['Diabetic Status'] == 'Non-diabetic'][df['Weight Status'] == 'Not Overweight']
 )
 
-print(f"Levene's Test P-value: {p_value}”)
+print(f"Levenes Test P-value: {p_value} \n")
 
-import seaborn as sns
-import matplotlib.pyplot as plt
 
 # Box Plot
 plt.figure(figsize=(8, 6))
