@@ -33,6 +33,12 @@
   - NoSQL databases: Patient-centric data storage solutions.
   - Avro, Protocol Buffers: Serialization formats suitable for health data streams.
 
+### Readings:
+- Williams, H. (2023). Chapter 1 - Data Acquisition and Notebooks. Retrieved from [https://book.datascience.appliedhealthinformatics.com/](https://book.datascience.appliedhealthinformatics.com/)
+- Project Jupyter. (n.d.). Jupyter documentation. Retrieved from [https://jupyter-notebook.readthedocs.io/en/stable/](https://jupyter-notebook.readthedocs.io/en/stable/)
+- Google Colab. (n.d.). Google Colab documentation. Retrieved from [https://colab.research.google.com/notebooks/welcome.ipynb](https://colab.research.google.com/notebooks/welcome.ipynb)
+- pandas development team. (n.d.). pandas documentation. Retrieved from [https://pandas.pydata.org/pandas-docs/stable/](https://pandas.pydata.org/pandas-docs/stable/)
+
 ### Resources:
 - [Jupyter](https://jupyter.org/)
 - [Google Colab](https://colab.research.google.com/)
@@ -67,6 +73,13 @@
 - **Data Interoperability in Health**:
   - Transforming health data formats: HL7, FHIR, DICOM, and others.
   - Bridging gaps between heterogeneous health data sources using Python.
+
+### Readings:
+- Williams, H. (2023). Chapter 2 - Data Processing and Cleaning. Retrieved from [https://book.datascience.appliedhealthinformatics.com/](https://book.datascience.appliedhealthinformatics.com/)
+- pandas development team. (n.d.). pandas documentation. Retrieved from [https://pandas.pydata.org/pandas-docs/stable/](https://pandas.pydata.org/pandas-docs/stable/)
+- Polars. (n.d.). Polars documentation. Retrieved from [https://github.com/pola-rs/polars](https://github.com/pola-rs/polars)
+- Dask. (n.d.). Dask documentation. Retrieved from [https://dask.org/](https://dask.org/)
+- Modin. (n.d.). Modin documentation. Retrieved from [https://modin.readthedocs.io/en/latest/](https://modin.readthedocs.io/en/latest/)
 
 ### Resources:
 - [Pandas](https://pandas.pydata.org/)
@@ -109,6 +122,12 @@
   - Basics of analyzing imaging data: X-rays, MRIs, and CT scans.
   - Identifying patterns and anomalies in medical images.
 
+### Readings:
+- Williams, H. (2023). Chapter 3 - Exploratory Data Analysis (EDA). Retrieved from [https://book.datascience.appliedhealthinformatics.com/](https://book.datascience.appliedhealthinformatics.com/)
+- pandas development team. (n.d.). pandas visualization documentation. Retrieved from [https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
+- Seaborn. (n.d.). Seaborn documentation. Retrieved from [https://seaborn.pydata.org/](https://seaborn.pydata.org/)
+- pydicom. (n.d.). pydicom documentation. Retrieved from [https://pydicom.github.io/](https://pydicom.github.io/)
+
 ### Resources:
 - [EDA with Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
 - [Seaborn: Statistical Data Visualization](https://seaborn.pydata.org/)
@@ -145,6 +164,12 @@
   - Introduction to basic medical imaging plots.
   - Utilizing Seaborn and Plotly to complement traditional imaging tools.
 
+### Readings:
+- Williams, H. (2023). Chapter 4 - Visualizations and Dashboards. Retrieved from [https://book.datascience.appliedhealthinformatics.com/](https://book.datascience.appliedhealthinformatics.com/)
+- Seaborn. (n.d.). Seaborn documentation. Retrieved from [https://seaborn.pydata.org/](https://seaborn.pydata.org/)
+- Plotly. (n.d.). Plotly documentation. Retrieved from [https://plotly.com/python/](https://plotly.com/python/)
+- Dash. (n.d.). Dash documentation. Retrieved from [https://dash-gallery.plotly.host/Portal/](https://dash-gallery.plotly.host/Portal/)
+
 ### Resources:
 - [Seaborn in Medical Data Visualization](https://seaborn.pydata.org/examples/index.html#)
 - [Plotly for Interactive Health Dashboards](https://plotly.com/python/)
@@ -171,6 +196,11 @@
 - **Chi-square Tests in Health Research**:
   - Testing relationships between categorical variables in health datasets.
   - Examples: Testing associations between genetic markers and disease occurrences.
+
+### Readings:
+- Williams, H. (2023). Chapter 5 - Inferential Statistics. Retrieved from [https://book.datascience.appliedhealthinformatics.com/](https://book.datascience.appliedhealthinformatics.com/)
+- SciPy. (n.d.). SciPy stats documentation. Retrieved from [https://docs.scipy.org/doc/scipy/reference/stats.html](https://docs.scipy.org/doc/scipy/reference/stats.html)
+
 
 ### Resources:
 - [SciPy Stats for Health Research](https://docs.scipy.org/doc/scipy/reference/stats.html)
@@ -201,6 +231,10 @@
   - Predicting categorical outcomes such as disease occurrence.
   - Understanding odds ratios and their importance in clinical decisions.
 
+### Readings
+- Williams, H. (2023). Chapter 6 - Regression Analyses. Retrieved from [https://book.datascience.appliedhealthinformatics.com/](https://book.datascience.appliedhealthinformatics.com/)
+- StatsModels. (n.d.). StatsModels documentation. Retrieved from [https://www.statsmodels.org/stable/index.html](https://www.statsmodels.org/stable/index.html)
+
 ### Resources:
 - [StatsModels for Clinical Research](https://www.statsmodels.org/stable/index.html)
 
@@ -223,8 +257,9 @@
   - Creating health maps: disease prevalence, vaccination rates, hospital locations.
   - Heatmaps, choropleths, and spatial clustering for health data insights.
 
-### Resources:
-- [Geopandas for Health Analytics](https://geopandas.org/)
+### Readings:
+- Williams, H. (2023). Chapter 7 - Geospatial Data. Retrieved from [https://book.datascience.appliedhealthinformatics.com/](https://book.datascience.appliedhealthinformatics.com/)
+- GeoPandas. (n.d.). GeoPandas documentation. Retrieved from [https://geopandas.org/](https://geopandas.org/)
 
 ### Homework:
 - [Assignment 7](WK7/assignment7.md)
@@ -249,6 +284,10 @@
   - The importance of sensitivity, specificity, and ROC curves.
   - Addressing class imbalance in health data, and its impact on classifier performance.
 
+### Readings:
+- Williams, H. (2023). Chapter 8 - ML based Classification Techniques. Retrieved from [https://book.datascience.appliedhealthinformatics.com/](https://book.datascience.appliedhealthinformatics.com/)
+- scikit-learn. (n.d.). scikit-learn documentation. Retrieved from [https://scikit-learn.org/stable/supervised_learning.html#supervised-learning](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
+
 ### Resources:
 - [Scikit-learn for Clinical Predictions](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
 
@@ -271,6 +310,10 @@
 - **Gradient Boosted Trees in Disease Prognosis**:
   - Predicting disease progression and patient trajectories.
   - Handling imbalanced datasets typical in rare disease predictions.
+
+### Readings:
+- Williams, H. (2023). Chapter 9 - Ensemble Methods in Predictive Analytics. Retrieved from [https://book.datascience.appliedhealthinformatics.com/](https://book.datascience.appliedhealthinformatics.com/)
+- scikit-learn. (n.d.). scikit-learn ensemble methods documentation. Retrieved from [https://scikit-learn.org/stable/modules/ensemble.html](https://scikit-learn.org/stable/modules/ensemble.html)
 
 ### Resources:
 - [Scikit-learn Ensemble Methods for Health Informatics](https://scikit-learn.org/stable/modules/ensemble.html)
@@ -304,6 +347,11 @@
   - Visualizing feature importance and impact on predictions using SHAP plots.
   - Case studies: Ensuring trust and transparency in diagnostic AI tools.
 
+### Readings:
+- Williams, H. (2023). Chapter 10 - Unsupervised Learning and Model Interpretability. Retrieved from [https://book.datascience.appliedhealthinformatics.com/](https://book.datascience.appliedhealthinformatics.com/)
+- scikit-learn. (n.d.). scikit-learn clustering documentation. Retrieved from [https://scikit-learn.org/stable/modules/clustering.html](https://scikit-learn.org/stable/modules/clustering.html)
+- SHAP. (n.d.). SHAP documentation. Retrieved from [https://github.com/slundberg/shap](https://github.com/slundberg/shap)
+
 ### Resources:
 - [Scikit-learn Unsupervised Methods for Health Data](https://scikit-learn.org/stable/modules/clustering.html)
 - [Interpretable Machine Learning with SHAP](https://github.com/slundberg/shap)
@@ -335,6 +383,12 @@
   - Introduction to Prophet: A tool for forecasting at scale.
   - Use cases: Predicting disease outbreaks or patient admissions with Prophet.
 
+### Readings:
+- Williams, H. (2023). Chapter 11 - Time Series Analysis. Retrieved from [https://book.datascience.appliedhealthinformatics.com/](https://book.datascience.appliedhealthinformatics.com/)
+- pandas development team. (n.d.). pandas time series documentation. Retrieved from [https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html](https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html)
+- StatsModels. (n.d.). StatsModels time series analysis documentation. Retrieved from [https://www.statsmodels.org/stable/tsa.html](https://www.statsmodels.org/stable/tsa.html)
+- Prophet. (n.d.). Prophet documentation. Retrieved from [https://facebook.github.io/prophet/](https://facebook.github.io/prophet/)
+
 ### Resources:
 - [Pandas Time Series Documentation](https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html)
 - [Statsmodels for Time Series Analysis](https://www.statsmodels.org/stable/tsa.html)
@@ -364,6 +418,14 @@
   - Named Entity Recognition (NER) with tools like MedSpacy and ScispaCy.
   - Relationships extraction for understanding drug-disease or symptom-condition links.
 
+### Readings:
+- Williams, H. (2023). Chapter 12 - Natural Language Processing (NLP). Retrieved from [https://book.datascience.appliedhealthinformatics.com/](https://book.datascience.appliedhealthinformatics.com/)
+- Natural Language Toolkit (NLTK). (n.d.). NLTK documentation. Retrieved from [https://www.nltk.org/](https://www.nltk.org/)
+- Spacy. (n.d.). Spacy documentation. Retrieved from [https://spacy.io/](https://spacy.io/)
+- ScispaCy. (n.d.). ScispaCy documentation. Retrieved from [https://spacy.io/universe/project/scispacy](https://spacy.io/universe/project/scispacy)
+- MedSpacy. (n.d.). MedSpacy documentation. Retrieved from [https://github.com/medspacy/medspacy](https://github.com/medspacy/medspacy)
+
+
 ### Resources:
 - [Natural Language Toolkit (NLTK)](https://www.nltk.org/)
 - [Spacy](https://spacy.io/)
@@ -387,6 +449,12 @@
   - The ethics of scraping health websites: respecting robots.txt and terms of service.
   - Practical examples: Gathering clinical guidelines or drug information using Beautiful Soup and Scrapy.
 
+### Readings:
+- Williams, H. (2023). Chapter 13 - Advanced Data Acquisition: APIs and Web-scraping. Retrieved from [https://book.datascience.appliedhealthinformatics.com/](https://book.datascience.appliedhealthinformatics.com/)
+- Requests. (n.d.). Requests documentation. Retrieved from [https://docs.python-requests.org/en/master/](https://docs.python-requests.org/en/master/)
+- Beautiful Soup. (n.d.). Beautiful Soup documentation. Retrieved from [https://www.crummy.com/software/BeautifulSoup/bs4/doc/](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- Scrapy. (n.d.). Scrapy documentation. Retrieved from [https://scrapy.org/](https://scrapy.org/)
+
 ### Resources:
 - [Requests for API connections](https://docs.python-requests.org/en/master/)
 - [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
@@ -408,13 +476,17 @@
   - Benefits of automating routine tasks: Patient appointment reminders, medical inventory updates, etc.
   - Hands-on: Setting up a simple automated task relevant to health informatics.
 
+### Readings:
+- Williams, H. (2023). Chapter 14 - Automating Data Tasks: Cron Jobs and Workflow Automation. Retrieved from [https://book.datascience.appliedhealthinformatics.com/](https://book.datascience.appliedhealthinformatics.com/)
+- python-crontab. (n.d.). python-crontab documentation. Retrieved from [https://pypi.org/project/python-crontab/](https://pypi.org/project/python-crontab/)
+- Apache Airflow. (n.d.). Apache Airflow documentation. Retrieved from [https://airflow.apache.org/](https://airflow.apache.org/)
+
 ### Resources:
 - [Python Cron Libraries](https://pypi.org/project/python-crontab/)
 - [Apache Airflow for Workflow Automation](https://airflow.apache.org/)
 
 ### Homework:
 - [Assignment 14](WK14/assignment14.md)
-
 
 
 
