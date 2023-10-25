@@ -224,9 +224,6 @@
 - **Multiple Regression in Clinical Trials**:
   - Controlling for confounders in health studies.
   - Interpreting coefficients and their significance in a clinical context.
-- **Polynomial Regression in Health Informatics**:
-  - Modeling non-linear relationships in health datasets (e.g., drug dosage and response).
-  - Overfitting and its implications in health predictions.
 - **Logistic Regression for Disease Prediction**:
   - Predicting categorical outcomes such as disease occurrence.
   - Understanding odds ratios and their importance in clinical decisions.
