@@ -12,6 +12,45 @@ theme: default
 
 ---
 
+# Interesting things...
+
+![Investments](../slides_7//images/interestingthings1.jpeg)
+
+https://www.linkedin.com/feed/update/urn:li:activity:7125481643405930498/ 
+
+---
+
+# Interesting things...
+
+Data ownership: https://www.sciencedirect.com/science/article/pii/S0267364923001152
+
+```text
+1. ...highlights the legal and ethical challenges posed by the mishandling of biodata.
+2. ...argues that there is no existing legal framework that provides ownership protection to human biodata.
+3. ...analysis based on existing laws and proposes considerations for future laws 
+4. ...concluding that there is no clear ownership protection for human biodata under current EU laws
+```
+
+---
+
+# Interesting things...
+
+https://www.linkedin.com/posts/vaibhavs10_insanely-fast-whisper-now-with-a-cli-activity-7125578963334123520-RztW?utm_source=share&utm_medium=member_ios
+
+https://github.com/Vaibhavs10/insanely-fast-whisper 
+
+- You can now translate/ transcribe 100s hours of data across 99 languages!
+```bash
+pip install transformers, accelerate, optimum
+```
+```bash
+python transcribe.py --file_name <filename or URL>
+```
+
+
+
+---
+
 ## What is Geospatial Data?
 - Represents information about objects or phenomena located on or near the Earth's surface.
 - Often in the form of coordinates (latitude, longitude).

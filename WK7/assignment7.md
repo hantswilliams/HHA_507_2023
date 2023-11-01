@@ -1,7 +1,7 @@
 ## **Week 7: Geospatial Data**
 
 ### **Objective**: 
-Develop a deep understanding of geospatial data handling and visualization. Acquire skills to process, analyze, and visually represent geographical information in Python.
+Develop a initial understanding of geospatial data handling and visualization. Acquire skills to process, analyze, and visually represent geographical information in Python.
 
 ### **Instructions**:
 
@@ -10,7 +10,7 @@ Develop a deep understanding of geospatial data handling and visualization. Acqu
   
 #### **2. Geospatial Data Processing:**
 - Load your dataset into a Python environment (e.g., Jupyter or Colab).
-- Perform basic data cleaning, ensuring latitude and longitude values are consistent and accurate.
+- Perform basic data cleaning, ensuring geospatial values are consistent and accurate.
 
 #### **3. Static Mapping:**
 - Utilize a library like `geopandas`, `folium`, or `matplotlib` to generate static maps visualizing your data. 
