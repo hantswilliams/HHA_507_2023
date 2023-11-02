@@ -33,3 +33,7 @@ geometry = results['geometry']
 location = geometry['location']
 lat = location['lat']
 lng = location['lng']
+
+
+### create loop, exampple list of data address to go through 
+### and hit the API 
