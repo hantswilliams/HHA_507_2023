@@ -1,0 +1,72 @@
+<!-- FILEPATH: /Users/hantswilliams/Documents/development/python_projects/HHA_507_2023/WK9/code/model_deploy/templates/index.html -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Crime Report Form</title>
+  </head>
+  <body>
+    <h1>Crime Report Form</h1>
+    <form>
+
+      <label for="date_occ">Day of Week Occurrence:</label>
+        <select id="date_occ" name="date_occ">
+            {% for date in date_list %}
+            <option value="{{ date }}">{{ date }}</option>
+            {% endfor %}
+        </select><br><br>
+    
+      <label for="time_occ">Time of Occurrence (Military Hour - 2300 or 1420):</label>
+      <!-- needs to be 4 numerical characers between 0000 to 2359 -->
+        <input type="text" id="time_occ" name="time_occ"><br><br>
+
+      <label for="area_name">Area Name:</label>
+      <!-- single select drop down, loop through area_list -->
+        <select id="area_name" name="area_name">
+            {% for area in area_list %}
+            <option value="{{ area }}">{{ area }}</option>
+            {% endfor %}
+        </select><br><br>
+
+      <label for="rpt_dist_no">Report District Number:</label>
+      <input type="text" id="rpt_dist_no" name="rpt_dist_no"><br><br>
+
+      <label for="crm_cd_desc">Crime Description:</label>
+      <!-- single select drop down that loops through crm_list -->
+        <select id="crm_cd_desc" name="crm_cd_desc">
+            {% for crime in crm_list %}
+            <option value="{{ crime }}">{{ crime }}</option>
+            {% endfor %}
+        </select><br><br>
+
+      <label for="vict_age">Victim Age:</label>
+      <input type="number" id="vict_age" name="vict_age"><br><br>
+
+      <label for="vict_descent">Victim Descent:</label>
+      <!-- single select drop down that loops through descent_list -->
+        <select id="vict_descent" name="vict_descent">
+            {% for descent in descent_list %}
+            <option value="{{ descent }}">{{ descent }}</option>
+            {% endfor %}
+        </select><br><br>
+
+      <label for="premis_desc">Premises Description:</label>
+      <!-- single select drop down that loops trhough premis_list -->
+        <select id="premis_desc" name="premis_desc">
+            {% for premis in premis_list %}
+            <option value="{{ premis }}">{{ premis }}</option>
+            {% endfor %}
+        </select><br><br>
+
+      <label for="weapon_desc">Weapon Description:</label>
+      <!-- single select dropdown loops trhough weapon_list -->
+        <select id="weapon_desc" name="weapon_desc">
+            {% for weapon in weapon_list %}
+            <option value="{{ weapon }}">{{ weapon }}</option>
+            {% endfor %}
+        </select><br><br>
+
+      <input type="submit" value="Submit">
+    </form>
+  </body>
+</html>

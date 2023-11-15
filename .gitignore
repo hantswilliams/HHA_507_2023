@@ -1,3 +1,6 @@
 WK5/examples/data/cms-npi-ordering/OrderReferring_20231002.csv
 
 .env
+
+WK9/code/model_dev/data/raw/crime_data.csv
+WK9/code/model_dev/data/raw/crime_data.pkl
