@@ -55,6 +55,8 @@ df.weapon_desc.value_counts()
 
 
 
+
+
 ## clean date_occ column so it is just the date without the time
 df['date_occ'] = pd.to_datetime(df['date_occ']).dt.date
 ## now encode date_occ so it is a day of the week
@@ -139,7 +141,10 @@ df_mapping_premis.to_csv('WK9/code/model_dev/data/processed/mapping_premis.csv',
 
 
 
-
+## get count of missing for weapon_desc
+df.weapon_desc.isna().sum()
+## replace isna with 'No Weapon'
+df.weapon_desc.fillna('No Weapon', inplace=True)
 ## perform ordinal encoding on weapon_desc
 enc = OrdinalEncoder()
 enc.fit(df[['weapon_desc']])
@@ -235,3 +240,4 @@ len(df)
 df.head(10000).to_csv('WK9/code/model_dev/data/processed/crime_data.csv', index=False)
 df.sample(50000).to_csv('WK9/code/model_dev/data/processed/crime_data_50k.csv', index=False)
 df.sample(100000).to_csv('WK9/code/model_dev/data/processed/crime_data_100k.csv', index=False)
+

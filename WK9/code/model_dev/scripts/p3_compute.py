@@ -1,5 +1,7 @@
 import pandas as pd
 import pickle
+import joblib
+
 
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.preprocessing import StandardScaler
@@ -8,10 +10,10 @@ from sklearn.metrics import mean_squared_error, r2_score, classification_report,
 
 from sklearn.dummy import DummyClassifier
 
-from xgboost import XGBClassifier
+from xgboost import XGBClassifier, XGBRegressor
 
 # Import the clean random sample of 10k data
-df = pd.read_csv('WK9/code/model_dev/data/processed/crime_data.csv')
+df = pd.read_csv('WK9/code/model_dev/data/processed/crime_data_100k.csv')
 len(df)
 
 # drop rows with missing values
@@ -24,8 +26,11 @@ y = df['vict_sex']               # Target variable (arrest)
 
 # Initialize the StandardScaler
 scaler = StandardScaler()
+scaler.fit(X) # Fit the scaler to the features
+pickle.dump(scaler, open('WK9/code/model_dev/models/scaler_100k.sav', 'wb')) # Save the scaler for later use
+
 # Fit the scaler to the features and transform
-X_scaled = scaler.fit_transform(X)
+X_scaled = scaler.transform(X)
 
 # Split the scaled data into training, validation, and testing sets (70%, 15%, 15%)
 X_train, X_temp, y_train, y_temp = train_test_split(X_scaled, y, test_size=0.3, random_state=42)
@@ -117,6 +122,8 @@ grid_search.fit(X_train, y_train)
 # Predict on the validation set
 y_val_pred = grid_search.predict(X_val)
 # Evaluate the model
+## Create dataframe of the actual and predicted values
+df_results = pd.DataFrame({'actual': y_val, 'predicted': y_val_pred})
 grid_search_acc = grid_search.score(X_val, y_val)
 grid_search_mse = mean_squared_error(y_val, y_val_pred)
 grid_search_r2 = r2_score(y_val, y_val_pred)
@@ -140,7 +147,7 @@ print(grid_search.best_score_)
 
 ### now lets use the best parameters to train a new model
 # Initialize the XGBoost classifier
-xgboost = XGBClassifier(learning_rate=0.1, max_depth=4, n_estimators=100)
+xgboost = XGBClassifier(learning_rate=0.1, max_depth=4, n_estimators=300)
 # Train the model on the training set
 xgboost.fit(X_train, y_train)
 # Predict on the test set
@@ -149,8 +156,9 @@ y_test_pred = xgboost.predict(X_test)
 xgboost_acc = xgboost.score(X_test, y_test)
 
 
+
 ## save the model
-pickle.dump(xgboost, open('WK9/code/model_dev/models/xgboost.sav', 'wb'))
+pickle.dump(xgboost, open('WK9/code/model_dev/models/xgboost_100k.sav', 'wb'))
 
 
 
