@@ -13,9 +13,11 @@ df.columns
 ## do some data cleaning of colun names, 
 ## make them all lower case, replmove white spaces and rpelace with _ 
 df.columns = df.columns.str.lower().str.replace(' ', '_')
+df.columns
 
 ## get data types
 df.dtypes # nice combination of numbers and strings/objects 
+len(df)
 
 ## drop columns
 to_drop = [
@@ -40,10 +42,11 @@ to_drop = [
 ]
 
 df.drop(to_drop, axis=1, inplace=True, errors='ignore')
+df.shape
+df.sample(5)
 
-
-
-
+df.columns
+df.weapon_desc.value_counts()
 
 
 
@@ -57,14 +60,17 @@ df['date_occ'] = pd.to_datetime(df['date_occ']).dt.date
 ## now encode date_occ so it is a day of the week
 df['date_occ'] = pd.to_datetime(df['date_occ'])
 df['date_occ'] = df['date_occ'].dt.day_name()
+
 ## perform ordinal encoding on date_occ
 enc = OrdinalEncoder()
 enc.fit(df[['date_occ']])
 df['date_occ'] = enc.transform(df[['date_occ']])
+
 ## create dataframe with mapping
 df_mapping_date = pd.DataFrame(enc.categories_[0], columns=['date_occ'])
 df_mapping_date['date_occ_ordinal'] = df_mapping_date.index
-df_mapping_date.head(5)
+df_mapping_date
+
 ## save mapping to csv
 df_mapping_date.to_csv('WK9/code/model_dev/data/processed/mapping_date.csv', index=False)
 
@@ -223,7 +229,9 @@ df_mapping_descent['vict_descent_desc'] = df_mapping_descent['vict_descent'].map
 df_mapping_descent.to_csv('WK9/code/model_dev/data/processed/mapping_descent.csv', index=False)
 
 
-
+len(df)
 
 #### save a temporary csv file of 1000 rows to test the model
 df.head(10000).to_csv('WK9/code/model_dev/data/processed/crime_data.csv', index=False)
+df.sample(50000).to_csv('WK9/code/model_dev/data/processed/crime_data_50k.csv', index=False)
+df.sample(100000).to_csv('WK9/code/model_dev/data/processed/crime_data_100k.csv', index=False)
