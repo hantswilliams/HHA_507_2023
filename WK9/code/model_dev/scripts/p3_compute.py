@@ -12,6 +12,10 @@ from sklearn.dummy import DummyClassifier
 
 from xgboost import XGBClassifier, XGBRegressor
 
+import shap
+import lime
+from lime import lime_tabular
+
 # Import the clean random sample of 10k data
 df = pd.read_csv('WK9/code/model_dev/data/processed/crime_data_100k.csv')
 len(df)
@@ -39,7 +43,10 @@ X_val, X_test, y_val, y_test = train_test_split(X_temp, y_temp, test_size=0.5, r
 # Check the size of each set
 (X_train.shape, X_val.shape, X_test.shape)
 
-
+# Pkle the X_train for later use in explanation
+pickle.dump(X_train, open('WK9/code/model_dev/models/X_train_100k.sav', 'wb'))
+# Pkle X.columns for later use in explanation
+pickle.dump(X.columns, open('WK9/code/model_dev/models/X_columns_100k.sav', 'wb'))
 
 
 
@@ -147,7 +154,7 @@ print(grid_search.best_score_)
 
 ### now lets use the best parameters to train a new model
 # Initialize the XGBoost classifier
-xgboost = XGBClassifier(learning_rate=0.1, max_depth=4, n_estimators=300)
+xgboost = XGBClassifier(learning_rate=0.1, max_depth=5, n_estimators=200)
 # Train the model on the training set
 xgboost.fit(X_train, y_train)
 # Predict on the test set
@@ -156,6 +163,29 @@ y_test_pred = xgboost.predict(X_test)
 xgboost_acc = xgboost.score(X_test, y_test)
 
 
+
+
+
+####### EXPLORATION 
+#### feature importance with SHAP
+explainer = shap.TreeExplainer(xgboost)
+explanation = explainer(X_test)
+shape_vlaues = explanation.values
+shap.summary_plot(explanation, X_test, plot_type="bar")
+
+##### feature importance with LIME
+explainer = lime_tabular.LimeTabularExplainer(
+    training_data=X_train,
+    feature_names=X.columns,
+    class_names=['female', 'male'],
+    mode='classification',
+)
+
+# Pick the observation in the validation set for which explanation is required
+observation_1 = 20
+# Get the explanation for Logistic Regression and show the prediction
+exp = explainer.explain_instance(X_val[observation_1], xgboost.predict_proba, num_features=9)
+exp.save_to_file('WK9/code/model_dev/models/observation_1.html')
 
 ## save the model
 pickle.dump(xgboost, open('WK9/code/model_dev/models/xgboost_100k.sav', 'wb'))

@@ -5,7 +5,7 @@ from sklearn.preprocessing import OrdinalEncoder
 df = pd.read_pickle('WK9/code/model_dev/data/raw/crime_data.pkl')
 
 ## get reporting_distrcts
-df_rpt_dist = pd.read_csv('WK9/code/model_dev/data/raw/crime_data_reporting_districts.csv')
+df_rpt_dist = pd.read_csv('WK9/code/model_dev/data/raw/crime_data_reporting_districts.csv') # noqa
 
 ## get column names
 df.columns
@@ -14,6 +14,9 @@ df.columns
 ## make them all lower case, replmove white spaces and rpelace with _ 
 df.columns = df.columns.str.lower().str.replace(' ', '_')
 df.columns
+
+df_rpt_dist.columns = df_rpt_dist.columns.str.lower().str.replace(' ', '_')
+df_rpt_dist.columns
 
 ## get data types
 df.dtypes # nice combination of numbers and strings/objects 
@@ -40,15 +43,17 @@ to_drop = [
     'lat',
     'lon'
 ]
-
 df.drop(to_drop, axis=1, inplace=True, errors='ignore')
-df.shape
-df.sample(5)
 
-df.columns
-df.weapon_desc.value_counts()
-
-
+# keep columns 
+to_keep = [
+    'rd',
+    'name'
+]
+df_rpt_dist = df_rpt_dist[to_keep]
+df_rpt_dist['rd'] = pd.to_numeric(df_rpt_dist['rd'], errors='coerce')
+df_rpt_dist.dropna(inplace=True)
+df_rpt_dist['rd'] = df_rpt_dist['rd'].astype('int64')
 
 
 
@@ -100,6 +105,33 @@ df_mapping_area.to_csv('WK9/code/model_dev/data/processed/mapping_area.csv', ind
 
 
 
+## rpt_dist_no --> will need to encode this based on the reporting districts
+df.rpt_dist_no.value_counts()
+## based on dataframe df_rpt_dist, get the matching reporting district and put it in a new column
+df = pd.merge(df, df_rpt_dist, how='left', left_on='rpt_dist_no', right_on='rd')
+## drop the rd column
+df.drop('rd', axis=1, inplace=True, errors='ignore')
+## rename name to rpt_dist_name
+df.rename(columns={'name': 'rpt_dist_name'}, inplace=True)
+## drop rpt_dist_no
+df.drop('rpt_dist_no', axis=1, inplace=True, errors='ignore')
+
+## perform ordinal encoding on rpt_dist_name
+enc = OrdinalEncoder()
+enc.fit(df[['rpt_dist_name']])
+df['rpt_dist_name'] = enc.transform(df[['rpt_dist_name']])
+df.rpt_dist_name.value_counts()
+
+## create dataframe with mapping
+df_mapping_rpt_dist = pd.DataFrame(enc.categories_[0], columns=['rpt_dist_name'])
+df_mapping_rpt_dist['rpt_dist_name_ordinal'] = df_mapping_rpt_dist.index
+df_mapping_rpt_dist.head(5)
+# save mapping to csv
+df_mapping_rpt_dist.to_csv('WK9/code/model_dev/data/processed/mapping_rpt_dist.csv', index=False)
+
+
+
+
 
 
 
@@ -144,7 +176,7 @@ df_mapping_premis.to_csv('WK9/code/model_dev/data/processed/mapping_premis.csv',
 ## get count of missing for weapon_desc
 df.weapon_desc.isna().sum()
 ## replace isna with 'No Weapon'
-df.weapon_desc.fillna('No Weapon', inplace=True)
+df.weapon_desc.fillna('Not Reported', inplace=True)
 ## perform ordinal encoding on weapon_desc
 enc = OrdinalEncoder()
 enc.fit(df[['weapon_desc']])
