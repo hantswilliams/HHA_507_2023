@@ -1,3 +1,4 @@
+cmake
 xgboost==2.0.2
 flask==2.2.2
 lime==0.2.0.1
